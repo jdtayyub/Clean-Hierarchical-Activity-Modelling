@@ -1,0 +1,18 @@
+Add coffee to cup,24,107
+Add milk,107,140
+Stir the coffee,140,186
+Sip coffee,186,219
+Add cereal,219,264
+Add milk,264,352
+Pick news paper,352,408
+Eat cereal ,408,434
+Read news paper,434,513
+Sip coffee,513,549
+Read news paper,549,582
+Eat,695,770
+read,582,648
+Coffee,695,770
+read,648,695
+Eat,695,770
+read,695,770
+breakfast,1,760

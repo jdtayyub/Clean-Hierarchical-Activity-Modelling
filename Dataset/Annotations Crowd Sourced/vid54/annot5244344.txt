@@ -1,0 +1,18 @@
+(Waiter/ess) Brings menu,14,39
+(Customer) Reads Menu,39,85
+(Customer) Calls Waitress,85,157
+(Customer) Gives Order,157,207
+(Waiter/ess) Takes Order,159,200
+(Waiter/ess) Takes menu,200,223
+(Waiter/ess) Brings food,305,325
+(Waiter/ess) Leaves,331,343
+(Customer) Eats,343,423
+(Customer) Thanks waitress,430,440
+(Customer) Eats,440,580
+(Customer) eats,601,656
+(Customer) drinks,663,770
+(Customer) eats,770,814
+(Customer) push plate away,807,837
+(Customer) eats,877,986
+(Waiter/ess) brings food,310,335
+(Waiter/ess) Brings drink,368,438

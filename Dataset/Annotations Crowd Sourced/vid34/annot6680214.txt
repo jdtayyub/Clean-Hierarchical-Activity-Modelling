@@ -1,0 +1,14 @@
+checking papers,1,32
+moving papers,28,40
+opening laptop,40,63
+putting on headphones,62,87
+using laptop,87,135
+writing on paper,137,167
+using laptop,177,271
+writing on paper,272,319
+using laptop,326,803
+writing on paper,803,838
+using laptop,838,888
+closing laptop,886,907
+using stapler,911,936
+removing headphones,935,940

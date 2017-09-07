@@ -1,0 +1,17 @@
+(Both) Having meal at Restaurant,1,2476
+(Both) Greetings,25,221
+(Customer) Menu Given,30,44
+(Waiter/ess) sets plate fruit,48,94
+(Customer) looks through menu,54,340
+(Waiter/ess) walks in and out,350,476
+(Waiter/ess) serves drink,359,388
+(Both) discussing menu,399,464
+(Waiter/ess) retrieves menu,465,476
+(Customer) Makes drink,557,608
+(Customer) takes a drink,608,635
+(Waiter/ess) brings food,841,891
+(Waiter/ess) Sets food on table,849,879
+(Customer) consuming food,899,1859
+(Waiter/ess) takes juice and plate,1939,2159
+(Waiter/ess) Brings desert food,2234,2264
+(Customer) eats the food,2274,2494

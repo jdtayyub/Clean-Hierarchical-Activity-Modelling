@@ -1,0 +1,22 @@
+(Both) table lunch,1,1827
+(Customer) checking phone,1,41
+(Both) Ordering from menu,32,180
+(Customer) checking phone,187,252
+(Waiter/ess) Bringing plate,247,263
+(Customer) eating sandwich,300,1056
+(Customer) checking phone,335,642
+(Customer) eating sandwich,298,1059
+(Customer) drinking from cup,1102,1126
+(Waiter/ess) bringing bowl,1167,1218
+(Customer) eating out bowl,1266,1307
+(Customer) drinking cup,1320,1380
+(Customer) drinking from cup,1440,1459
+(Customer) eating from bowl,1476,1509
+(Customer) checking phone,1517,1583
+(Customer) holding card,1631,1667
+(Waiter/ess) bringing credit machine,1662,1721
+(Waiter/ess) clearing table,1663,1735
+(Waiter/ess) removing card,1780,1795
+(Customer) checking phone,1731,1794
+(Customer) walking away,1824,1847
+(Both) Making Payment,1631,1800

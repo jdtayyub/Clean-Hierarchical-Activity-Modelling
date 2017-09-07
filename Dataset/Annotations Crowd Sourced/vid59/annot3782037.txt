@@ -1,0 +1,27 @@
+(Customer) Checking Phone,3,24
+(Customer) Reads Menu,69,115
+(Both) Gives Takes order,115,177
+(Customer) Checks Phone,177,260
+(Waiter/ess) Brings food,265,329
+(Customer) East food,335,555
+(Waiter/ess) Brings drink,377,481
+(Customer) Takes drink,556,608
+(Customer) Eats food,621,759
+(Customer) Drinks,759,804
+(Waiter/ess) Takes dishes,812,875
+(Waiter/ess) Brings Check,937,1132
+(Both) Pays,1035,1117
+(Customer) Takes fruit,1158,1196
+(Customer) Leaves,1196,1223
+(Customer) flips pages,69,111
+(Customer) Calls waitress,122,138
+(Customer) Gives Order,138,183
+(Waiter/ess) Takes Order,154,181
+(Waiter/ess) Brings cup,380,401
+(Waiter/ess) Takes off cap,401,419
+(Waiter/ess) Fills Cup,419,447
+(Waiter/ess) Puts cap  on,447,456
+(Waiter/ess) Puts on table,456,469
+(Customer) Picks up glass,556,580
+(Customer) Put down glass,595,602
+(Customer) Picks up utensils,610,637

@@ -1,0 +1,10 @@
+Wearing Headset,13,34
+Typing on keyboard,83,128
+Writing paper,132,237
+Drinking water,484,520
+writing on paper,556,629
+Typing onkeyboard,253,309
+Typing on keyboard,409,471
+Removing bottle cap,471,484
+closing the bottle,514,526
+Acting to work,1,636

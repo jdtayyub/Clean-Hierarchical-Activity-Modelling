@@ -1,0 +1,19 @@
+Picks up teabag,1,61
+Teabag in cup,68,83
+Pours hot water,83,151
+Pours cereal,150,220
+Pours milk,220,275
+Opens newspaper,285,357
+Eats cereal,357,400
+Reads newspaper,396,406
+Drinks tea,406,453
+Reads newspaper,469,483
+Eats cereal,486,527
+Turns newspaper pages,535,590
+Eats cereal,599,641
+Drinks coffee,641,677
+Turns newspaper pages,685,732
+Eats cereal,732,767
+Drinks tea,773,814
+Turns newspaper page,790,815
+Closes newspaper,843,877

@@ -1,0 +1,28 @@
+(Waiter/ess) Walks in with menu,13,29
+(Waiter/ess) Places order,29,80
+(Customer) Looks at menu,80,173
+(Customer) Continues reading menu,173,385
+(Waiter/ess) Brings juice and mug,385,398
+(Waiter/ess) Opens juice bottle,398,427
+(Waiter/ess) Pours juice in mug,427,451
+(Waiter/ess) Takes the order,451,525
+(Waiter/ess) Walks away with menu,525,562
+(Customer) Drinks juice from mug,562,608
+(Customer) Drinks more juice,608,778
+(Customer) Waits for food,871,1039
+(Waiter/ess) Brings in salad,1039,1069
+(Customer) Starts eating salad,1069,1135
+(Customer) Continues eating salad,1135,1254
+(Customer) Eats more salad,1254,1494
+(Customer) Continues eating salad,1494,1672
+(Customer) Eats salad fast,1672,1793
+(Customer) Empties plate of salad,1793,1962
+(Customer) Finishes off salad,1962,2087
+(Customer) Puts plate aside,2087,2168
+(Customer) Drinks more juice,2168,2273
+(Waiter/ess) Walks in,2273,2302
+(Waiter/ess) Clears table,2302,2385
+(Waiter/ess) Walks away,2385,2394
+(Customer) Drinks more juice,2394,2427
+(Customer) Places mug on table,2427,2500
+

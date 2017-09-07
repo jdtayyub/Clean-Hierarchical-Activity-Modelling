@@ -1,0 +1,15 @@
+putting on headphones,1,26
+typing on laptop,31,118
+writting on paper,118,192
+typing on laptop,198,229
+writing on paper,229,272
+using stapler,272,309
+sorting papers,302,333
+grabbing bottle,340,393
+drinking from bottle,352,376
+opening bottle,343,349
+closing bottle,372,381
+typing on laptop,398,449
+writing on paper,453,539
+typing on laptop,544,584
+taking off headphones,602,611

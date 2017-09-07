@@ -1,0 +1,28 @@
+(Customer) checking phone,1,35
+(Waiter/ess) gives customer menu,35,69
+(Customer) reviews menu,67,147
+(Both) orders food,147,185
+(Customer) checks phone,199,256
+(Waiter/ess) brings food,256,285
+(Customer) eats food,286,327
+(Waiter/ess) brings water,327,386
+(Customer) check phone,337,655
+(Customer) continues eating,595,666
+(Customer) checking phone while eating,666,1057
+(Customer) finished eating,1057,1182
+(Waiter/ess) brings another dish,1167,1254
+(Customer) eats second dish,1254,1319
+(Customer) drinks water,1319,1340
+(Customer) drinks water,1356,1376
+(Customer) drinks water,1441,1470
+(Customer) eats,1489,1518
+(Customer) checks phone,1518,1591
+(Waiter/ess) brings bill,1601,1668
+(Waiter/ess) removes dishes,1668,1685
+(Customer) types pin and pays,1685,1715
+(Waiter/ess) takes more dishes,1715,1735
+(Customer) checks phone,1735,1817
+(Waiter/ess) takes bill,1775,1820
+(Customer) exits,1826,1857
+(Customer) turns menu page,59,94
+(Both) Make Bill Payment, 1601,1820

@@ -1,0 +1,16 @@
+(Waiter/ess) handing over menu,1,62
+(Customer) reading the menu,62,204
+(Waiter/ess) taking down the order,204,262
+(Customer) waiting,262,324
+(Waiter/ess) serving water,324,367
+(Customer) drinking water,367,466
+(Waiter/ess) serving food,466,505
+(Customer) eating,505,1190
+(Waiter/ess) collecting the plate,1190,1272
+(Customer) drinking the water,1272,1302
+(Waiter/ess) handing over desert,1303,1346
+(Customer) eating desert,1369,1781
+(Waiter/ess) handing over the bill,1781,1845
+(Customer) analyzing the bill,1845,1905
+(Waiter/ess) receiving back the machine,1905,1938
+(Both) paid the bill,1780,2006

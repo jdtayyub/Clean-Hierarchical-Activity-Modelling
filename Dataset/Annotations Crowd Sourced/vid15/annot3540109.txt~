@@ -1,0 +1,45 @@
+having breakfast,20,3191
+taking the coffee,27,48
+opening the coffee,49,70
+pouring coffee in cup,82,122
+closing the coffee,124,153
+putting back the coffee,151,169
+taking the teapot,173,203
+pouring hot water,205,270
+putting back the teapot,278,306
+taking sugar,343,370
+opening sugar,377,409
+pouring sugar,411,465
+taking milk,504,513
+opening milk,515,534
+pouring milk,536,563
+closing milk,603,649
+putting back milk,649,654
+taking cereals,657,674
+pouring cereals,692,772
+putting back the cereals,780,802
+stiring cereals,800,868
+eating cereals,914,1258
+chewing cereals,1088,1117
+chewing cereals,1167,1201
+pulling back a bowl,1244,1268
+putting spoon in coffee,1317,1327
+stiring coffee,1329,1360
+taking a mug,1390,1413
+drinking coffee,1412,1463
+drinking coffee,1478,1554
+putting back a cup,1553,1583
+eating cereals,1731,2205
+chewing cereals,2147,2218
+taking a mug,2288,2308
+holding a mug,2310,2817
+drinking coffee,2819,2856
+putting back a mug,2857,2878
+taking a bowl,2879,2900
+eating cereals,2882,3059
+chewing cereals,2942,3009
+holding a bowl,2950,3036
+putting bakc a bowl,3037,3067
+holding a bowl,1753,1987
+chewing cereals,1754,1909
+holding a spoon,1752,2200

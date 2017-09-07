@@ -1,0 +1,17 @@
+Grabbing tea bag,8,76
+Making cereal with milk,187,269
+Read paper ,321,364
+Eating cereal,364,425
+Drinks tea,425,444
+Eats cereal,499,519
+Reads paper,519,588
+Eats cereal,588,621
+Drinks tea,652,668
+Reads papers,695,740
+Eats cereal,740,763
+Drinks tea,791,830
+Flips page,808,824
+Closes newspaper ,862,877
+Pours water ,125,144
+Pouring cereal,180,186
+Pours milk,252,280

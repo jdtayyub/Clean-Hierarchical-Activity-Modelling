@@ -1,0 +1,14 @@
+picks up jar,8,57
+takes off lid,39,51
+picks up spoon,75,101
+licks spoon,96,105
+uses teapot,290,347
+uses carton,359,427
+stirs cup,446,489
+opens yogurt,517,562
+licks lid,568,607
+eats yogurt,669,694
+reads newspaper,693,1095
+drinks from cup,1102,1178
+talks on phone,1665,2130
+hangs up phone,2130,2153

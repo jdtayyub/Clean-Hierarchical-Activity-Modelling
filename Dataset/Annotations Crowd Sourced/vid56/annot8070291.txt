@@ -1,0 +1,33 @@
+(Both) Having Lunch,1,1790
+(Waiter/ess) arriving with menu,39,75
+(Waiter/ess) leaving,81,94
+(Customer) reading menu,59,238
+(Customer) looking for waitress,239,279
+(Customer) reading menu,296,331
+(Waiter/ess) arriving,312,380
+(Waiter/ess) leaving,380,393
+(Both) ordering,325,355
+(Waiter/ess) taking menu,365,389
+(Waiter/ess) arriving ,499,524
+(Waiter/ess) leaving,523,534
+(Waiter/ess) bringing a drink,506,522
+(Customer) picking the drink,535,586
+(Customer) drinking,559,573
+(Waiter/ess) arriving with food,578,602
+(Waiter/ess) leaving,610,622
+(Customer) picking utensils,615,1183
+(Customer) eating,650,1190
+(Customer) calling waitress,1201,1215
+(Waiter/ess) arriving,1230,1255
+(Waiter/ess) leaving,1255,1266
+(Both) ordering,1237,1255
+(Customer) picking drink,1278,1337
+(Customer) drinking,1301,1314
+(Waiter/ess) arriving with yogurt,1305,1333
+(Waiter/ess) leaving,1333,1344
+(Customer) picking yogurt,1343,1814
+(Waiter/ess) taking plate,1394,1445
+(Customer) eating yogurt,1474,1787
+(Waiter/ess) arriving with bill,1807,1936
+(Both) paying,1840,1910
+(Both) having lunch,1,1947

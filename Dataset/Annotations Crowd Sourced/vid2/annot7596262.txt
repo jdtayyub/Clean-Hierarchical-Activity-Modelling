@@ -1,0 +1,7 @@
+pouring milk ,47,70
+eating an apple,171,1752
+drinking from cup,335,1951
+pouring cereal,2010,2038
+pouring milk,2070,2094
+mixing cereal ,2115,2204
+eating cereal ,2227,2455

@@ -1,0 +1,28 @@
+(Customer) reading menu,34,155
+(Customer) ordering food,163,204
+(Customer) eating,323,950
+(Waiter/ess) giving beverage,348,432
+(Customer) drinking,856,938
+(Waiter/ess) taking plate away,994,1023
+(Customer) cleaning apple,1078,1142
+(Customer) eating apple,1142,1613
+(Waiter/ess) taking apple and cup,1623,1671
+(Both) paying,1659,1747
+(Both) talking,17,34
+(Customer) reading menu,25,149
+(Customer) ordering food,153,202
+(Customer) calling server,93,113
+(Waiter/ess) giving food,268,304
+(Both) talking,392,430
+(Customer) picking up fork,307,327
+(Customer) picking up fork,314,328
+(Waiter/ess) coming back,346,363
+(Waiter/ess) pouring drink,380,401
+(Waiter/ess) walking away,430,440
+(Customer) calling server,961,980
+(Waiter/ess) coming back,983,1024
+(Customer) picking up apple,1042,1058
+(Customer) eating apple,1141,1562
+(Customer) putting apple away,1562,1617
+(Waiter/ess) coming back,1583,1611
+(Waiter/ess) going away,1630,1642

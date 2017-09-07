@@ -1,0 +1,33 @@
+(Waiter/ess) walk in,20,28
+(Waiter/ess) Leave menu,28,34
+(Waiter/ess) leave plate,36,88
+(Customer) Picks menu,38,48
+(Customer) reads menu,74,89
+(Customer) reads menu,207,338
+(Customer) reads menu,209,341
+(Customer) flips page of menu,230,242
+(Customer) finishes reading menu,288,298
+(Customer) flip menu,303,309
+(Customer) reread menu,312,327
+(Customer) leaves menu,335,340
+(Waiter/ess) waiter enters,348,354
+(Waiter/ess) pick a glass,358,361
+(Waiter/ess) leaves glass,361,369
+(Waiter/ess) pick bottle,374,376
+(Waiter/ess) leaves bottle,376,382
+(Both) interaction,358,426
+(Customer) gives back menu,463,469
+(Waiter/ess) picks menu,464,469
+(Customer) picks bottle,557,566
+(Customer) opens bottle,566,569
+(Customer) pours bottle content,573,589
+(Customer) pick glass,608,611
+(Customer) drinks juice,611,632
+(Customer) clean mouth,676,706
+(Customer) check watch,716,719
+(Waiter/ess) returns,839,848
+(Waiter/ess) leave plate,852,861
+(Waiter/ess) leaves bag,867,879
+(Waiter/ess) leaves the room,878,891
+(Customer) picks a fork ,891,895
+(Customer) eats salad,895,2315

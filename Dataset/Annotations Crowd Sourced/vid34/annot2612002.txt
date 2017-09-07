@@ -1,0 +1,7 @@
+organizing papers,1,36
+using laptop,38,130
+taking notes,132,170
+using laptop,171,254
+taking notes,271,313
+using laptop,316,903
+organizing desk,904,939

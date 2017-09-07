@@ -1,0 +1,10 @@
+Open Laptop,40,80
+Fidgeting with pen,108,270
+Writing on paper,290,539
+Using stapler,570,621
+Writing on paper,662,699
+connecting headphones,704,837
+Typing,841,991
+Putting headphones on,979,1024
+Typing,1022,1374
+Working,1,1440

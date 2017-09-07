@@ -1,0 +1,50 @@
+(Waiter/ess) walks in,1,24
+(Waiter/ess) gives paper,24,44
+(Customer) reads paper,44,69
+(Waiter/ess) walks away,69,122
+(Customer) Continues reading,157,211
+(Customer) Turns pages over,211,258
+(Customer) Finishes reading,258,284
+(Customer) Puts the menu away. ,284,325
+(Waiter/ess) walks in,325,379
+(Waiter/ess) Brings mug and juice ,379,397
+(Waiter/ess) takes the papers,397,417
+(Customer) Pours juice in mug,448,479
+(Customer) Drinks the juice,479,516
+(Waiter/ess) walks in,516,551
+(Waiter/ess)Gives plate with food,551,561
+(Customer) eats salad,561,607
+(Customer) eating salad,607,710
+(Customer) eats more,710,912
+(Customer) looks at phone,912,968
+(Customer) Eats more salad,968,1080
+(Customer) Drinks juice from mug,1080,1155
+(Customer) Puts down the mug,1155,1201
+(Customer) Drinks more juice,1201,1259
+(Customer) Finishes eating salad,1259,1327
+(Customer) Calls the waiter,1327,1338
+(Waiter/ess) clears table,1338,1386
+(Waiter/ess) places mug back,1386,1419
+(Customer) Looks at phone,1419,1466
+(Customer) Browses on phone,1466,1592
+(Customer) browsing on phone,1592,1789
+(Customer) looking at phone,1789,1873
+(Waiter/ess) Places plate on table,1873,1897
+(Waiter/ess) places plate on table,1893,1906
+(Customer) Begins eating,1906,1944
+(Customer) Eats dessert,1944,2074
+(Customer) Continues eating dessert,2074,2248
+(Customer) Eats more dessert,2248,2434
+(Customer) Scoops out dessert,2434,2607
+(Customer) Puts the spoon down,2607,2762
+(Waiter/ess) Walks in,2762,2849
+(Waiter/ess) Picks up the plate,2849,2898
+(Waiter/ess) Walks away,2898,2953
+(Waiter/ess) Walks in,2953,3104
+(Waiter/ess) Calculates bill amount,3104,3178
+(Customer) Hands credit card,3178,3208
+(Waiter/ess) Processes payment,3208,3270
+(Waiter/ess) Hands over calculator,3270,3319
+(Customer) Types Pin,3319,3386
+(Waiter/ess) Clears table,3386,3443
+(Customer) Hands over payment,3443,3485

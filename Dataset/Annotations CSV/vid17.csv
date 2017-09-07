@@ -1,0 +1,77 @@
+sitting at table,1,763
+makes a meal,1,355
+breakfast,1,760
+having breakfast,9,763
+making coffee to drink,33,189
+Opening Jar,48,54
+Pouring Coffee,54,82
+preparing beverage,55,193
+pours powder into mug,61,89
+Closing Jar,83,103
+puts cap on container,89,104
+Keeping Jar,101,106
+pours milk into mug,106,140
+Add milk,107,140
+Using Kettle,108,144
+holding kettle,109,145
+fills mug water,109,140
+adding water,112,140
+stirs drink,140,185
+Stir the coffee,140,186
+Using Spoon,144,184
+stirring with spoon ,148,185
+stirring drink,155,186
+Sip coffee,186,219
+Drinking Coffee,188,218
+drinks from mug,189,218
+drinking from cup,194,214
+drinking coffee,197,223
+Using Creal Box,218,267
+Add cereal,219,264
+adding cereal ,223,275
+makes bowl cereal,224,262
+preparing cereal,233,353
+Add milk,264,352
+Using Milk Box,267,350
+liquid poured on,273,352
+adding milk,306,365
+Opening Newspaper,350,410
+Pick news paper,352,408
+spreads newspaper,359,407
+opening newspaper,365,417
+unfolding paper,371,408
+Eat cereal ,408,434
+eating cereal,409,763
+Eating Cereal,410,439
+eats cereal,410,440
+eating ,417,448
+Read news paper,434,513
+Reading Newspaper,439,517
+reading newspaper,448,525
+reading newspaper,460,517
+Sip coffee,513,549
+Drinking Coffee,517,552
+drinks from mug,519,549
+drinking coffee,525,556
+Read news paper,549,582
+Reading Newspaper,552,585
+reading newspaper,564,676
+eats cereal,576,611
+read,582,648
+Eating Cereal,585,600
+Reading,600,651
+reads newspaper,601,658
+taking sip,648,693
+read,648,695
+Drinking and Reading,651,692
+drinks from mug,658,691
+Eating,692,730
+Eat,695,770
+Coffee,695,770
+Eat,695,770
+read,695,770
+eats from bowl,696,734
+eating,710,732
+Reading,730,770
+reads newspaper,734,770
+turning page ,742,766

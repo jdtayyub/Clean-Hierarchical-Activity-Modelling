@@ -1,0 +1,8 @@
+headphone put on,1,29
+typing on laptop,29,130
+writing on paper,130,239
+working on laptop,239,310
+writing on paper,310,395
+typing,395,474
+drinking water,474,531
+writing on paper,531,641

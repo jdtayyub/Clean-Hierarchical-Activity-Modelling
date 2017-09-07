@@ -1,0 +1,15 @@
+Picking up headset,47,62
+Open laptop,52,70
+headset to ear,75,101
+Type in laptop,113,144
+Picking up pen,151,160
+Writing on paper,188,351
+using calculator,351,421
+Staple the paper,455,479
+Drinking water,486,510
+Reading paper,522,544
+Typing in laptop,544,658
+Touch calculator,670,686
+Waching laptop,701,731
+remove headset,731,745
+Close  laptop,745,773

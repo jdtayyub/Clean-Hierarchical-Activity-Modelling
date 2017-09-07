@@ -1,0 +1,27 @@
+Having Breakfast,1,1437
+Picks up tea box,12,46
+Pours Tea,52,121
+Pickup Krave,128,175
+Uses milk,187,235
+picks up spoon,235,243
+Spoon in other hand,243,291
+Reads Newspaper ,293,1421
+Spoons cereal eats,351,415
+Eats cereal,523,559
+Talks outloud,598,670
+stirs cup,620,645
+drinks tea,645,772
+puts tea down,768,771
+eats cereal,777,891
+tips bowl,830,879
+adds milk,885,931
+adds cereal,941,960
+eats cereal,971,1002
+reads paper,996,1437
+drinks tea,1081,1122
+eats cereal,1138,1202
+eats cereal,1145,1341
+picks up bowl,1198,1337
+Puts bowl down,1337,1341
+picks cup up,1355,1393
+closes newspaper,1414,1437

@@ -1,0 +1,16 @@
+taking tea bag,10,58
+putting into glass,58,86
+pouring milk,86,147
+putting some flakes,147,225
+adding some milk,225,287
+reading newspaper,287,360
+eating flakes,360,397
+drinking tea,397,453
+eating flakes,453,523
+turning newspaper,523,593
+eating flakes,593,640
+drinking tea,640,672
+turning newspaper,672,736
+eating flakes,736,767
+drinking tea,767,808
+closing newspaper,808,875

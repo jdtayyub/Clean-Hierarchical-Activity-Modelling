@@ -1,0 +1,10 @@
+Pours Milk,41,247
+Pours Krave,248,347
+Drinks from cup,348,417
+Eats Krave,417,858
+Grabs paper and reads,866,1454
+grabs cup,1457,1755
+Takes sip from cup,1756,1804
+eats again,1805,2045
+eats and puts down,2150,2550
+picks up cup,2737,2954

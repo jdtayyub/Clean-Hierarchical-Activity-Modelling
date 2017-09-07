@@ -1,0 +1,21 @@
+(Both) Conversing,21,127
+(Customer) ordering a drink,24,125
+(Waiter/ess) serving drink,332,389
+(Customer) flipping through menu,391,422
+(Customer) ordering food,421,572
+(Customer) taking a drink,616,669
+(Waiter/ess) bringing food out,869,937
+(Customer) eating chip,934,985
+(Customer) eating chips,930,1113
+(Customer) eating sandwich,1113,1436
+(Customer) eating chips,1436,1637
+(Customer) drinking,1637,1724
+(Customer) eating chips,1714,1789
+(Customer) drinking,1790,1855
+(Customer) eating chips,1880,2018
+(Both) conversing,2045,2145
+(Waiter/ess) clearing away dishes,2145,2169
+(Customer) eating chips,2173,2241
+(Both) paying food bill,2238,2422
+(Waiter/ess) clearing away dishes,2310,2344
+(Both) saying goodbye,2374,2408

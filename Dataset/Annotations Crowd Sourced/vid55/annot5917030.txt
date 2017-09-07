@@ -1,0 +1,24 @@
+(Both) Ordering menu,37,1778
+(Both) Talking,188,213
+(Waiter/ess) Brings Food,287,321
+(Customer) Starts eating,337,369
+(Waiter/ess) Serving drink,393,405
+(Customer) Sips drink,865,877
+(Customer) Done eating,996,1008
+(Waiter/ess) picks plate,1017,1022
+(Customer) has apple,1048,1057
+(Customer) Cleans apple,1093,1102
+(Customer) Eats apple,1152,1164
+(Customer) Bites apple again,1481,1505
+(Customer) pay with card,1621,1668
+(Customer) Swipes card,1663,1687
+(Waiter/ess) takes payment,1699,1758
+(Customer) Bites apple,1147,1172
+(Customer) Chews apple,1193,1226
+(Customer) Bites apple again,1303,1329
+(Customer) Bites apple again,1474,1518
+(Waiter/ess) arrives,1582,1591
+(Waiter/ess) cleans table,1621,1635
+(Customer) swipes card,1682,1711
+(Waiter/ess) accepts payment,1707,1740
+(Waiter/ess) leaves table,1750,1774

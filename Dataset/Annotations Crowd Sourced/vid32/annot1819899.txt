@@ -1,0 +1,11 @@
+Opens laptop,13,57
+Puts earbuds in,30,48
+Uses laptop,57,98
+Writes on paper,105,392
+Organizes notes,413,507
+Writes on paper,546,640
+Uses laptop,646,763
+Closes laptop,815,870
+Working in an office,1,870
+Laptop work,13,870
+paper work,105,640

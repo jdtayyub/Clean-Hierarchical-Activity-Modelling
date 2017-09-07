@@ -1,0 +1,23 @@
+(Waiter/ess) brings menu,22,29
+(Both) discuss menu options,64,131
+(Waiter/ess) walks away,131,141
+(Waiter/ess) brings cup and bottle,332,347
+(Waiter/ess) pours bottle in cup,347,376
+(Both) dicuss menu options,425,546
+(Waiter/ess) leaves,569,583
+(Customer) drinks from cup,638,661
+(Customer) toys with cup,690,869
+(Customer) brings food,869,931
+(Customer) opens bag,931,985
+(Customer) eats chips,985,1648
+(Customer) drinks from cup,1648,1712
+(Customer) eats chips,1712,1814
+(Customer) drinks from cup,1814,1856
+(Customer) eats more chips,1899,2056
+(Customer) takes drinks,2056,2159
+(Customer) eats chips,2196,2252
+(Both) discuss check payment,2252,2335
+(Waiter/ess) takes remaining items,2335,2344
+(Customer) pays check,2344,2394
+(Waiter/ess) receives payment,2394,2407
+(Waiter/ess) walks up,36,46

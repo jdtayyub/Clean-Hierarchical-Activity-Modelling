@@ -1,0 +1,16 @@
+(Customer) waiting for waitress,1,13
+(Waiter/ess) giving menu,14,25
+(Customer) seeing menu and calling,26,114
+(Customer) ordering food,115,174
+(Customer) touching phone,175,228
+(Waiter/ess) giving food,229,292
+(Customer) having food,293,406
+(Customer) drinking water,407,465
+(Customer) having food,466,693
+(Customer) drinking water,694,771
+(Waiter/ess) giving desert food,772,824
+(Customer) having next food,825,1090
+(Both) paying bill,1091,1260
+(Waiter/ess) cleaning table,1261,1315
+(Waiter/ess) taking card reader,1346,1374
+(Customer) working with phone,1375,1467

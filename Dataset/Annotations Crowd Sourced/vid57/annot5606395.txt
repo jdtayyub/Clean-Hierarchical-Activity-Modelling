@@ -1,0 +1,34 @@
+(Waiter/ess) give menu to customer,108,123
+(Customer) watching the menu,140,225
+(Customer) call waiter,225,255
+(Customer) order something,275,308
+(Waiter/ess) take the order,316,324
+(Waiter/ess) order come,450,473
+(Customer) pick the spoon,473,484
+(Customer) eating food,492,534
+(Customer) eating food,553,579
+(Customer) eating food,656,689
+(Customer) eating food,885,915
+(Customer) order food,287,309
+(Waiter/ess) take down the order,309,320
+(Waiter/ess) glass to table,448,465
+(Customer) eating food,473,507
+(Customer) eating food,537,573
+(Customer) eating food,674,696
+(Customer) eating food,873,907
+(Customer) hold the glass,925,943
+(Customer) hold the glass,951,978
+(Waiter/ess) pick the plate,978,1021
+(Customer) drinking water,1021,1056
+(Waiter/ess) give desert,1143,1161
+(Customer) eating desert,1166,1323
+(Customer) eating desert,1364,1388
+(Customer) eating desert,1462,1500
+(Customer) desert aside,1551,1565
+(Waiter/ess) pick utensils,1565,1602
+(Waiter/ess) pick machine,1629,1649
+(Customer) typing in pincode,1649,1686
+(Customer) pick the card,1698,1726
+(Customer) pick fruit,1752,1782
+(Customer) eating banana,1799,1876
+(Both) Lunch service,1,1890

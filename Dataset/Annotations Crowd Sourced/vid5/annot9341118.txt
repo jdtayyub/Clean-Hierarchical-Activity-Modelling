@@ -1,0 +1,20 @@
+Touch a bowl,35,50
+Pick a box,66,88
+Open the box ,95,218
+pour water to glass,286,440
+add sugar,491,717
+eat sandwich,866,2012
+spoon to glass,2051,2083
+remove tea,2117,2184
+stir it using spoon,2239,2388
+taste it,2393,2407
+drink tea,2438,2522
+drink tea,2576,2647
+drink tea,2710,2879
+drink tea,2946,3020
+drink tea,3085,3279
+laughing,3301,3323
+drinking tea,3520,3672
+drink tea,3764,3829
+drink tea,3910,3959
+tea powder to glass,72,267

@@ -1,0 +1,23 @@
+puts on headphones,3,11
+Opens laptop,12,32
+types on computer,36,89
+picks up pen,92,96
+writes on notepad,96,203
+types on laptop,208,234
+picks up pen,238,241
+writes on notepad,242,257
+picks up stapler,259,261
+staples papers together,261,262
+sets down stapler,263,264
+picks up drink,265,268
+drinks from bottle,268,274
+twists cap on drink,276,277
+sets down drink,278,279
+picks up pen,279,280
+sets down pen,282,284
+types on laptop,284,298
+picks up pen,299,301
+writes on notepad,302,329
+types on laptop,330,343
+writes on notepad,344,358
+sets down pen,358,361

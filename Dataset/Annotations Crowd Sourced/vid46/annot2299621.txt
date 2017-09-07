@@ -1,0 +1,15 @@
+(Waiter/ess) delivers menu,1,45
+(Customer) looks at menu,45,199
+(Waiter/ess) takes order,199,288
+(Customer) waits for meal,288,450
+(Waiter/ess) delivers meal,450,530
+(Customer) eats meal,537,1222
+(Customer) puts knife on plate,1222,1251
+(Customer) takes drink,1251,1285
+(Waiter/ess) clears plate,1285,1325
+(Customer) reaches for apple,1325,1352
+(Customer) takes off stem,1352,1458
+(Customer) eats apple,1458,1826
+(Customer) takes drink,1826,1861
+(Waiter/ess) brings the bill,1861,1894
+(Customer) pays the bill,1894,1937

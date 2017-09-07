@@ -1,0 +1,8 @@
+using headset,16,35
+using laptop,48,136
+writing,147,251
+typing,262,311
+writing,311,396
+writing,404,473
+drinking,473,515
+writing,537,629

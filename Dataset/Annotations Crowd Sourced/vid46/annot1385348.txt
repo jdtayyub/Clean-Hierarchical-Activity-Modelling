@@ -1,0 +1,9 @@
+(Customer) Looking at Menu,32,197
+(Both) placing order,224,296
+(Waiter/ess) pouring drink,487,525
+(Customer) eating food,537,1238
+(Customer) taking a drink,1248,1269
+(Waiter/ess) clearing the table,1295,1319
+(Customer) eating an apple,1348,1759
+(Customer) taking a drink,1815,1871
+(Customer) putting card away,1877,1937

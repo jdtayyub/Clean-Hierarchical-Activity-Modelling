@@ -1,0 +1,13 @@
+Puts on headphones,1,25
+Types on laptop,31,59
+Writes on paper,65,132
+Staples papers together,132,212
+Drinks juice,224,272
+Uses laptop,277,347
+Writes on paper,347,450
+Uses laptop,450,483
+Writes on paper,489,564
+Staples papers together,552,618
+Removes headphones,618,648
+Using headphones,1,650
+Working,1,650

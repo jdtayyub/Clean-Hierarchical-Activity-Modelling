@@ -1,0 +1,33 @@
+(Waiter/ess) arriving with menu,28,52
+(Customer) reading menu,46,315
+(Both) ordering,226,306
+(Waiter/ess) leaving,318,328
+(Waiter/ess) arriving with drink,401,462
+(Waiter/ess) pourring drink,439,451
+(Waiter/ess) leaving,469,477
+(Customer) drinking,477,512
+(Waiter/ess) arriving with order,506,540
+(Customer) picking plastic utensils,540,553
+(Customer) picking food,566,1185
+(Customer) eating,583,1187
+(Customer) taking drink,1210,1297
+(Customer) eating,1302,1694
+(Customer) picking drink,1709,1775
+(Customer) drinking,1741,1762
+(Customer) eating,1774,1943
+(Customer) cleaning hands,1952,1971
+(Waiter/ess) arriving,2006,2062
+(Waiter/ess) picking plate,2047,2070
+(Waiter/ess) leaving ,2063,2072
+(Waiter/ess) arriving,2102,2132
+(Waiter/ess) leaving,2132,2141
+(Waiter/ess) bringing yogurt ,2109,2124
+(Customer) picking yogurt,2131,2146
+(Customer) grabbing yogurt,2187,2226
+(Customer) shaking yogurt,2204,2224
+(Customer) drinking,2234,2285
+(Customer) opening yogurt,2305,2342
+(Customer) picking spoon,2356,2798
+(Customer) eating yogurt,2423,2788
+(Waiter/ess) arriving with bill,2808,2848
+(Customer) paying with card,2968,3038

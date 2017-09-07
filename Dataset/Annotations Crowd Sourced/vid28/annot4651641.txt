@@ -1,0 +1,19 @@
+Open laptop,8,29
+Put on headphones,36,64
+Type on laptop,71,91
+Pick up pen,118,125
+Shuffle papers,123,153
+Write on paper,181,297
+Operate calculator,302,321
+Write on paper,344,361
+Type on laptop,370,448
+Drink from cup,453,473
+Pick up paper,478,486
+Read paper,480,543
+Put cup down,528,536
+Staple papers,545,564
+Type on laptop,569,608
+Remove headphones from head,610,632
+Close laptop,636,651
+Place headphone wires on table,653,670
+Straighten papers,671,684

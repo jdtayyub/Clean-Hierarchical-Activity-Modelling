@@ -1,0 +1,13 @@
+Headphones on,49,69
+Headphones off,83,91
+Writte on paper,136,283
+Turn sheet of paper,284,360
+Writte on paper,360,387
+Write on paper,434,473
+Touching smartphone,469,510
+Write on paper,526,660
+Write on paper,697,847
+Write on paper,874,903
+Headphnes on,913,957
+Touching laptop keyboard,957,1253
+Smartphone photos,1461,1507

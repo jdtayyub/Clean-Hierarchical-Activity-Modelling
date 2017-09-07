@@ -1,0 +1,16 @@
+putting on headphones on,8,636
+working at office,1,636
+touching laptop,26,123
+typing,78,124
+picking pen,131,236
+writing,148,230
+touching laptop,244,305
+typing,269,304
+picking pen,309,390
+writing,314,361
+writing,364,389
+typing on laptop,398,468
+grabing juice bottle ,471,529
+drinking juice,492,509
+picking pen,529,623
+writing,552,621

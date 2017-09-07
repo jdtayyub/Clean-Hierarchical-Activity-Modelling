@@ -1,0 +1,8 @@
+Pours drink from teapot,84,147
+pours cereal,160,217
+pours milk in bowl,242,269
+reads newspaper,300,335
+eats,358,374
+drink from coffee cup,409,432
+flips through newspaper ,696,710
+picks up the spoon,730,745

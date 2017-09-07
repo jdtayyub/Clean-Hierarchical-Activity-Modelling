@@ -1,0 +1,12 @@
+Putting headphones on,14,60
+Opening laptop,67,156
+Writing on paper,163,301
+Using laptop,306,800
+Typing on laptop,805,957
+Using laptop,956,1144
+Writing on paper,1149,1202
+Closing laptop,1189,1215
+Organizing notes,1215,1240
+Moves pen,1240,1252
+Walks away,1258,1291
+Office Work,14,1291

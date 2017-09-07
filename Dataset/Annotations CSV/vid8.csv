@@ -1,0 +1,183 @@
+having full breakfast,1,1407
+preparing tea,5,110
+moving the bowl,8,18
+grabbing bowl,10,18
+grab container,17,28
+grabbing tea box,21,57
+picking a tea bag,22,58
+Picking tea box,23,38
+tea bag in cup,27,66
+open container,28,38
+picking tea bag,38,51
+take item,38,50
+put back box,50,57
+Putting teabag into cup,56,69
+diping teabag into cup,58,63
+taking tea bag,60,63
+grabbing tea pot,63,110
+pour water,66,84
+adding hot water ,66,108
+picking teapot,68,71
+Pouring milk from jug,69,105
+pour liquid,70,107
+pouring milk,75,105
+pouring hot water,78,107
+pour cereal,84,151
+adding cereal ,108,171
+grabbing mug,112,123
+preparing cornflakes with milk,122,295
+grab cereal box,122,132
+grabbing cereal box,123,171
+pickingup cornflakes,124,141
+Taking cereal box,126,147
+adding cereal ,132,165
+pour cereal,132,162
+pourring cereal,139,160
+pouring cornflakes on bowl,141,164
+adding content to bowl,147,162
+put box down,151,173
+return box,162,172
+placing box aside,164,172
+adding milk ,171,238
+pour milk,173,205
+grab milk,175,188
+grabbing milk carton,177,254
+Lifting milk box,178,184
+pickingup milk,178,200
+adding milk,181,222
+pour milk,188,230
+pouring milk into bowl,200,215
+pourring milk,202,214
+Pouring liquid into bowl,203,235
+put top on milk,205,231
+put box down,221,245
+return milk,230,247
+placing milk aside,233,255
+moving milk can,238,261
+pick up spoon,245,300
+eat cereal,258,331
+mixing milk and cornflakes,259,291
+eating cereal,259,659
+staring to eat,261,283
+eating cereal ,262,307
+eating cereal ,283,353
+eating,293,333
+eating from bowl,295,331
+read cereal box,300,355
+grab cereal box,332,342
+Reading the box,335,672
+grabbing cereal box,337,658
+reading cereal box,338,651
+picking cornflakes box,338,346
+reading cereal box ,339,673
+examine box,343,368
+reading the instruction,348,371
+pick up spoon,355,385
+eat cereal,368,417
+eating,379,391
+pick up spoon,385,479
+look at box,419,463
+eat cereal,472,487
+eating,474,488
+pick up spoon,479,588
+look at box,491,568
+eat cereal,568,608
+eating,582,597
+put cereal box down,588,668
+reading cereal box,607,646
+look at box,614,643
+return box,644,661
+keeping box aside,653,664
+checking phone,658,1075
+check phone,661,700
+picking up phone,666,676
+taking phone and calling,667,1037
+check phone,668,699
+talking on phone ,673,929
+using mobile,675,754
+phone to ear,699,776
+dialing,704,753
+dial a number,710,754
+making call,753,1050
+talking on phone,754,1044
+call and eat,754,796
+eat,754,796
+eating,775,787
+pick up spoon,776,785
+eating,781,822
+drink,785,909
+push bowl,813,839
+drinking coffee,840,951
+mixing tea,846,892
+stir drink,846,880
+starring in coffee,857,894
+grabbing mug,886,942
+drink from cup,886,944
+consume tea,890,946
+picking cup,893,898
+drinking tea,901,926
+drinking tea,902,931
+drinking coffee,904,943
+pick up spoon,909,992
+drinking,929,966
+placing cup down,936,946
+coughing,951,955
+pickingup spoon,965,988
+eating cereal,966,1041
+eating,967,1005
+eating cereal,969,999
+eat,978,1000
+eating,988,996
+check watch,992,1015
+checking time,1002,1030
+checking watch,1002,1024
+check watch,1002,1027
+checking time,1005,1028
+watching time,1009,1025
+check phone,1015,1059
+ending call,1040,1069
+clicking on phone,1043,1058
+pick up spoon,1059,1096
+put down phone,1063,1075
+keeping phone aside,1074,1078
+eating cereal,1077,1120
+pickingup spoon,1079,1086
+eat,1082,1109
+eating cereal,1085,1110
+eating,1090,1105
+reading newspaper,1095,1154
+read paper,1096,1155
+Reading Newspaper,1109,1360
+pickingup newspaper,1109,1130
+read newspaper,1109,1345
+checking newspaper,1110,1345
+reading newspaper,1120,1376
+reading newspaper,1135,1380
+consume tea,1135,1320
+drinking coffee,1137,1322
+pickingup cup,1139,1173
+grab cup,1141,1153
+drink from cup,1145,1196
+grabbing mug,1145,1315
+hold cup,1153,1308
+drinking coffee,1154,1323
+cup down,1155,1165
+drinking tea,1175,1315
+drink from cup,1175,1207
+drinking tea,1180,1199
+pick up spoon,1196,1354
+take down cup,1250,1298
+drink from cup,1265,1294
+drinking tea,1271,1291
+put back cup,1308,1318
+keeping cup down,1315,1319
+grabbing spoon,1327,1363
+eat,1330,1369
+eating,1334,1363
+pickingup spoon,1334,1348
+eating,1350,1357
+fold paper,1354,1387
+Folding Newspaper,1364,1364
+fold newspaper,1369,1387
+keeping newspaper,1372,1385
+folding newspaper,1376,1410

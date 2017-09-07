@@ -1,0 +1,23 @@
+picks up headphones,44,50
+opens laptop,50,59
+puts on headphones,68,110
+types on laptop,110,146
+writes on papers,146,344
+uses calculator,344,423
+writes on paper,422,446
+staples papers,446,479
+takes a drink,479,519
+picks up cup,479,488
+moves mouth peice,488,497
+skims papers,525,548
+types on computer,548,667
+touches calculator,667,682
+works on laptop,689,729
+removes headset,729,749
+closes laptop,749,763
+sits back,766,774
+working at desk,9,769
+office work,1,761
+doing paperwork,141,521
+using a laptop,55,769
+completing paperwork,172,459

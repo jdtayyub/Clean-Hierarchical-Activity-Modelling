@@ -1,0 +1,8 @@
+fitting the headphones,63,110
+writing on a paper,176,533
+writing with a pen,653,1067
+writing on paper,1150,2216
+working on laptop,2240,2477
+adjusting headphone,2489,2564
+talking on headphone,2583,2844
+removing headphone,2812,2849

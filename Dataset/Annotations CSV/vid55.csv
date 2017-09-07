@@ -1,0 +1,116 @@
+(Both) having lunch in restaurant,1,1760
+(Customer) waiting for waitress,1,11
+(Waiter/ess) bringing the menu,13,23
+(Waiter/ess) giving the menu,16,38
+(Both) talking,17,34
+(Both) having lunch,19,1708
+(Customer) reading menu,25,149
+(Customer) reading menu,33,101
+(Customer) Reads Menu,35,90
+(Customer) reading the menu,38,157
+(Customer) Calls waitress,90,115
+(Customer) calling server,93,113
+(Customer) calling waiter,113,157
+(Waiter/ess) Takes Order,115,200
+(Customer) Gives Order,150,203
+(Customer) ordering food,153,202
+(Customer) ordering food,154,200
+(Waiter/ess) taking order,157,203
+(Customer) ordering food,163,204
+(Both) Talking,188,213
+(Waiter/ess) taking back the menu,195,211
+(Customer) closing the menu,199,204
+(Waiter/ess) Takes Menu,200,210
+(Customer) Waits,208,276
+(Customer) wating for meal,215,281
+(Waiter/ess) Brings food,264,299
+(Waiter/ess) briging the meal,267,311
+(Waiter/ess) serving food ,268,299
+(Waiter/ess) giving food,268,304
+(Waiter/ess) Brings Food,287,321
+(Customer) eating ,299,364
+(Customer) picking up fork,307,327
+(Customer) Eats food,312,376
+(Customer) picking up fork,314,328
+(Customer) using her fork,320,342
+(Customer) eating,323,950
+(Waiter/ess) Brings water,336,357
+(Customer) Starts eating,337,369
+(Customer) putting food in mouth,342,351
+(Waiter/ess) coming back,346,363
+(Waiter/ess) bringing a glass,346,361
+(Waiter/ess) giving beverage,348,432
+(Waiter/ess) Pours Water,357,404
+(Customer) chewing food,359,462
+(Waiter/ess) pouring drink,364,427
+(Waiter/ess) filling the glass,377,405
+(Waiter/ess) pouring drink,380,401
+(Both) talking,392,430
+(Waiter/ess) Serving drink,393,405
+(Waiter/ess) closing the bottle,405,424
+(Waiter/ess) Leaves,424,441
+(Customer) eating food ,427,846
+(Waiter/ess) walking away,430,440
+(Customer) eats food,441,655
+(Customer) putting food in mouth,462,490
+(Customer) chewing food,490,534
+(Customer) scooping food,531,602
+(Customer) putting food in mouth,607,646
+(Customer) drinking,846,943
+(Customer) taking glass on table,850,857
+(Customer) takes a drink,854,954
+(Customer) drinking,856,938
+(Customer) Bringing glass close,857,873
+(Customer) Sips drink,865,877
+(Customer) drinking from glass,873,935
+(Customer) putting glass on table,935,951
+(Customer) calling waiter,943,986
+(Customer) calling the waitress,956,989
+(Customer) waves at waitress,959,970
+(Customer) calling server,961,980
+(Waiter/ess) coming back,983,1024
+(Waiter/ess) cleaning table,986,1017
+(Waiter/ess) takes plate,992,1027
+(Waiter/ess) taking plate away,994,1023
+(Waiter/ess) taking back the plate,994,1025
+(Customer) Done eating,996,1008
+(Waiter/ess) cleaning food ,1017,1139
+(Waiter/ess) picks plate,1017,1022
+(Customer) takes fruit,1034,1077
+(Customer) taking an apple,1034,1050
+(Customer) picking up apple,1042,1058
+(Customer) has apple,1048,1057
+(Customer) brush fruit,1077,1136
+(Customer) cleaning apple,1078,1142
+(Customer) cleaning an apple,1080,1142
+(Customer) Cleans apple,1093,1102
+(Customer) eating apple,1139,1186
+(Customer) eating apple,1141,1562
+(Customer) eating apple,1142,1613
+(Customer) taking a bite ,1142,1170
+(Customer) Bites apple,1147,1172
+(Customer) Eats apple,1152,1164
+(Customer) chewing an apple,1170,1219
+(Customer) eating apple,1186,1584
+(Customer) Chews apple,1193,1226
+(Customer) Bites apple again,1303,1329
+(Customer) Bites apple again,1474,1518
+(Customer) Bites apple again,1481,1505
+(Customer) putting apple away,1562,1617
+(Waiter/ess) arrives,1582,1591
+(Waiter/ess) coming back,1583,1611
+(Waiter/ess) cleaning table,1584,1641
+(Both) Payment Of food,1600,1780
+(Customer) pay with card,1621,1668
+(Waiter/ess) cleans table,1621,1635
+(Waiter/ess) taking apple and cup,1623,1671
+(Waiter/ess) going away,1630,1642
+(Customer) Paying with card,1641,1700
+(Both) paying,1659,1747
+(Customer) Swipes card,1663,1687
+(Customer) swipes card,1682,1711
+(Waiter/ess) takes payment,1699,1758
+(Waiter/ess) giving card back,1700,1750
+(Waiter/ess) accepts payment,1707,1740
+(Customer) keeping card,1750,1778
+(Waiter/ess) leaves table,1750,1774

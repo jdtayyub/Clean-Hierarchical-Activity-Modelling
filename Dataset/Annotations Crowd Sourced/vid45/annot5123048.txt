@@ -1,0 +1,41 @@
+(Both) Lunch in restaurant,1,3416
+(Waiter/ess) arriving with menu,20,130
+(Both) discussing menu,36,135
+(Customer) looking at menu,35,305
+(Customer) reading menu,137,287
+(Waiter/ess) arriving at table,374,435
+(Waiter/ess) taking menu,436,455
+(Waiter/ess) bringing drink,374,389
+(Customer) taking drink,398,498
+(Customer) pouring the drink,463,472
+(Customer) picking the mug,493,531
+(Customer) drinking,507,518
+(Waiter/ess) arriving with food,524,554
+(Customer) picking utensil,569,727
+(Customer) eating,606,1145
+(Customer) drinking,1145,1169
+(Customer) checking phone,740,1217
+(Customer) drinking ,1230,1243
+(Customer) picking mug,1210,1253
+(Customer) eating,1259,1317
+(Customer) calling waiter,1320,1331
+(Waiter/ess) arriving,1333,1396
+(Waiter/ess) picking plate,1347,1417
+(Waiter/ess) picking mug,1373,1410
+(Waiter/ess) leaving mug,1410,1413
+(Customer) cheking phone,1443,1881
+(Waiter/ess) arriving with food,1861,1901
+(Waiter/ess) leaving,1905,1937
+(Customer) eating,1913,2773
+(Waiter/ess) arriving,2835,2931
+(Waiter/ess) arriving,2834,2882
+(Waiter/ess) picking plate,2874,2948
+(Waiter/ess) leaving,2928,2948
+(Waiter/ess) arriving with bill,3099,3468
+(Both) paying the bill,3200,3464
+(Customer) giving the card,3184,3210
+(Waiter/ess) inserting card,3224,3440
+(Customer) putting pin,3322,3427
+(Waiter/ess) picking mug,3369,3439
+(Waiter/ess) picking drink,3373,3473
+(Both) having lunch,1,3451

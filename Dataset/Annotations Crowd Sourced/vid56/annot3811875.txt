@@ -1,0 +1,17 @@
+(Customer) looks through menu,82,361
+(Customer) takes a drink,537,581
+(Customer) eats,637,757
+(Customer) eats,775,1201
+(Customer) takes a drink,1278,1339
+(Customer) eats desert,1456,1484
+(Customer) eats desert,1511,1795
+(Customer) gets credit card,1820,1870
+(Waiter/ess) brings menu,50,92
+(Waiter/ess) takes order,313,392
+(Waiter/ess) brings drink,508,531
+(Waiter/ess) brings food,581,622
+(Waiter/ess) checks on customer,1234,1265
+(Waiter/ess) brings desert,1305,1344
+(Waiter/ess) gets plate,1375,1447
+(Waiter/ess) brings bill,1805,1942
+(Customer) put back credit card,1938,1966

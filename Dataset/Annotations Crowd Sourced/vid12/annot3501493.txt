@@ -1,0 +1,17 @@
+picking up coffee ,29,233
+pouring coffee ,134,182
+opening coffee lid,42,62
+closing coffee lid,196,218
+using teapot ,233,339
+pouring water,255,319
+stirring coffee ,342,380
+using milk,391,490
+drinking coffee ,549,570
+picking up banana ,595,731
+pealing banana ,618,683
+eating banana ,698,715
+eating banana ,791,811
+drinking coffee ,861,919
+picking up milk,925,1021
+pouring milk,960,989
+picking up box,1020,1120

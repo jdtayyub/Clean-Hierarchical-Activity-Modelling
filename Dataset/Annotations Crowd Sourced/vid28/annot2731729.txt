@@ -1,0 +1,11 @@
+Opening laptop,9,30
+put on headphone,34,64
+typing text using keyboard,68,89
+arranging papers,108,166
+Start Writing,186,297
+Using Calculator,305,322
+Entering through keyboard,372,443
+Drinking Water ,453,537
+Using Laptop,569,609
+removing headphone,615,633
+closing laptop,639,653

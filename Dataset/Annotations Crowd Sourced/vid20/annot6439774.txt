@@ -1,0 +1,19 @@
+making instant coffee,18,110
+stirring coffee,127,136
+pouring dry cereal,153,186
+pouring milk over cereal,195,237
+reading newspaper,245,279
+eating cereal,287,313
+drinking coffee,329,353
+reading newspaper,354,411
+eating cereal,413,441
+drinking coffee,444,471
+reading newspaper,469,535
+eating cereal,532,565
+drinking coffee,566,599
+reading newspaper,594,637
+reading newspaper,594,637
+reading newspaper,643,735
+drinking coffee,719,764
+reading newspaper,762,800
+closing newspaper,801,817

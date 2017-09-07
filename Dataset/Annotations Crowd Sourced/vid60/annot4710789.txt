@@ -1,0 +1,16 @@
+(Customer) receiving menu,22,53
+(Customer) reading menu,35,129
+(Both) interacting subject 2,129,167
+(Waiter/ess) Serving food,238,257
+(Customer) picking up utensils,271,282
+(Customer) eating,282,489
+(Customer) drinking,489,556
+(Customer) eating,556,761
+(Customer) drinking,761,782
+(Customer) eating,782,922
+(Customer) drinking,999,1038
+(Customer) eating,1102,1314
+(Customer) drinking,1314,1335
+(Customer) playing with phone,1124,1319
+(Both) interacting,1407,1468
+(Both) pay for food,1455,1524

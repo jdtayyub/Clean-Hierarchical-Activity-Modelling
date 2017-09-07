@@ -1,0 +1,27 @@
+(Waiter/ess) bringing the menu,1,39
+(Customer) reading the menu ,38,121
+(Customer) ordering food,120,174
+(Waiter/ess) taking the order,145,180
+(Customer) waiting for meal,178,241
+(Waiter/ess) bringing the meal,231,247
+(Waiter/ess) putting the plate,247,254
+(Customer) taking her fork,278,296
+(Customer) cutting food,296,384
+(Waiter/ess) bringing a glass,366,371
+(Waiter/ess) putting the glass,371,401
+(Customer) taking food in hands,385,411
+(Customer) putting food in mouth,411,444
+(Customer) chewing food,444,528
+(Customer) taking the glass,483,514
+(Customer) putting glass in mouth,514,547
+(Customer) drinking from the glass,547,551
+(Customer) putting back the glass,551,559
+(Customer) drinking from glass,756,780
+(Customer) putting back the glass,780,789
+(Customer) taking a bite,797,827
+(Customer) chewing food,827,937
+(Customer) using her cellphone,1137,1311
+(Customer) drinking from glass,1312,1342
+(Customer) searching her credit card,1418,1450
+(Customer) giving her credit card,1451,1454
+(Waiter/ess) bringing back the glass,1456,1484

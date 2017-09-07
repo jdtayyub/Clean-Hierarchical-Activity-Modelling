@@ -1,0 +1,28 @@
+(Customer) having lunch,7,2407
+(Waiter/ess) placing menu down,19,31
+(Waiter/ess) pouring drink,356,369
+(Customer) looking through menu,398,594
+(Waiter/ess) writing down order,484,550
+(Waiter/ess) walking away,563,576
+(Customer) holding cup,606,669
+(Customer) drinking from cup,633,653
+(Waiter/ess) placing plate,875,882
+(Waiter/ess) opening bag,892,901
+(Customer) holding bag,915,973
+(Customer) eating from bag,973,1121
+(Customer) eating sandwich,1117,1446
+(Customer) eating from bag,1446,1642
+(Customer) holding cup,1642,1724
+(Customer) drinking from cup,1655,1707
+(Customer) eating from bag,1727,1764
+(Customer) holding cup,1798,1854
+(Customer) drinking from cup,1820,1843
+(Customer) eating chips,1890,2001
+(Waiter/ess) clearing table,2151,2162
+(Customer) eating chips,2182,2242
+(Both) payment of bill,2240,2410
+(Waiter/ess) holding credit machine,2241,2305
+(Customer) holding credit machine,2308,2391
+(Customer) typing pin,2337,2358
+(Customer) removing card,2358,2380
+(Waiter/ess) holding machine,2387,2410

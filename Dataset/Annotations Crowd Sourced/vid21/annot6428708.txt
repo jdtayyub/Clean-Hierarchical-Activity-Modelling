@@ -1,0 +1,14 @@
+Open the laptop,25,83
+Type,90,133
+Pick pen,145,276
+Writing text in paper,287,539
+Stapler the paper,565,623
+Writing text in paper,634,697
+Pick up headset,751,759
+Connect headset to laptop,774,837
+Type in laptop,843,991
+Touch headset,998,1027
+Typing in laptop,1037,1150
+Typing in laptop,1181,1238
+Typing in laptop,1249,1313
+Picking up pen,1418,1440

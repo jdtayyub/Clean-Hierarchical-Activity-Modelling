@@ -1,0 +1,11 @@
+take microphone,11,23
+open laptop,35,56
+type,62,94
+write in paper,104,205
+type in laptop,211,238
+write on paper,238,260
+drink water,266,283
+type in laptop,290,303
+writing on paper,303,333
+typing in laptop,333,348
+writing on paper,348,361

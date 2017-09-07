@@ -1,0 +1,16 @@
+(Waiter/ess) giving menu,1,39
+(Customer) reading menu,39,205
+(Waiter/ess) taking order,205,288
+(Waiter/ess) serving food,439,462
+(Waiter/ess) pouring drink,462,518
+(Customer) talking while eating ,518,1237
+(Customer) drinking,1237,1280
+(Waiter/ess) taking plate back,1280,1323
+(Customer) cleaning apple,1323,1485
+(Customer) eating apple,1485,1733
+(Customer) holding glass,1733,1818
+(Customer) drinking,1818,1852
+(Customer) talking,1852,1874
+(Customer) taking apple,1877,1887
+(Both) talking,1887,1915
+(Both) paying bill,1831,1937

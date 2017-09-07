@@ -1,0 +1,8 @@
+eating cereal,1,1446
+pouring milk,176,249
+reading box,293,439
+drinking,629,716
+reading newspaper,731,1198
+eating,1330,1446
+pouring coffee,1,147
+pouring cerel,132,176

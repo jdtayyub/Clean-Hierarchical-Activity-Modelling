@@ -1,0 +1,60 @@
+Reaching for jar,17,34
+opening jar lid,49,69
+picking up spoon,85,108
+pouring contents,128,179
+closing jar lid,203,213
+picking up pot,235,248
+pouring liquid,248,327
+setting pot down,327,335
+stirring drink,335,382
+picking up carton,390,398
+pouring carton contents,398,444
+setting carton down,444,488
+stirring drink,488,527
+taking a sip,527,578
+picking up banana,578,625
+peeling banana,625,691
+eating banana,691,718
+adjusting in chair,718,769
+eating banana,769,830
+speaking,830,884
+taking sip,891,921
+grabbing carton,921,947
+pouring milk,958,989
+setting down carton,989,1021
+grabbing cereal,1021,1043
+pouring cereal,1043,1096
+setting down cereal,1096,1122
+stirring cereal,1122,1157
+speaking,1160,1172
+taking bite,1172,1196
+chewing,1196,1220
+checking phone,1220,1416
+eating cereal,1416,1499
+looking at phone,1499,1608
+drinking,1603,1677
+looking at phone,1677,1863
+eating banana,1863,2001
+speaking,2001,2014
+eating banana,2014,2043
+eating cereal,2081,2311
+nodding head,2311,2334
+taking a drink,2334,2424
+shrugging,2424,2442
+speaking,2450,2489
+peeling banana,2482,2593
+eating banana,2593,2716
+speaking,2726,2838
+gesturing,2844,2980
+eating cereal,2999,3188
+nodding,3188,3236
+eating cereal,3236,3292
+speaking,3297,3329
+taking a drink,3329,3411
+reacting,3411,3436
+drinking,3436,3479
+speaking,3479,3494
+eating cereal,3494,3594
+peeling banana,3594,3694
+speaking,3728,3835
+eating and speaking,3835,4012

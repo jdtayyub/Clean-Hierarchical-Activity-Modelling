@@ -1,0 +1,7 @@
+Doing Work,7,136
+Cross Checking Files,156,508
+Finishing Work,508,694
+Start Work,25,59
+Searching Work,83,155
+Staple File and Closing,505,564
+Shutdown System,564,683

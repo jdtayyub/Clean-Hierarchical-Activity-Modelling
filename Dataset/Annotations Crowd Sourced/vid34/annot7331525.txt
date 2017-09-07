@@ -1,0 +1,16 @@
+arranging paper,1,49
+opening laptop,50,63
+wearing earphone,64,84
+using laptop,85,131
+writing on paper,132,167
+using laptop,168,267
+writing on paper,268,314
+using laptop,315,800
+writing on paper,801,835
+using laptop,836,886
+closing laptop,887,905
+using stapler,906,950
+laptop work,50,905
+paper work,132,835
+earphone taken off,805,942
+earphone use,64,942

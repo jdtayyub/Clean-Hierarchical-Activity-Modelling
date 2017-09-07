@@ -1,0 +1,30 @@
+(Customer) sitting at a table,1,1761
+(Both) having lunch,19,1708
+(Customer) waiting for waitress,1,11
+(Waiter/ess) bringing the menu,13,23
+(Waiter/ess) giving the menu,16,38
+(Customer) reading the menu,38,157
+(Customer) ordering food,154,200
+(Customer) closing the menu,199,204
+(Waiter/ess) taking back the menu,195,211
+(Customer) wating for meal,215,281
+(Waiter/ess) briging the meal,267,311
+(Customer) using her fork,320,342
+(Customer) putting food in mouth,342,351
+(Waiter/ess) bringing a glass,346,361
+(Waiter/ess) filling the glass,377,405
+(Waiter/ess) closing the bottle,405,424
+(Customer) chewing food,359,462
+(Customer) putting food in mouth,462,490
+(Customer) chewing food,490,534
+(Customer) putting food in mouth,607,646
+(Customer) taking glass on table,850,857
+(Customer) Bringing glass close,857,873
+(Customer) drinking from glass,873,935
+(Customer) putting glass on table,935,951
+(Customer) calling the waitress,956,989
+(Waiter/ess) taking back the plate,994,1025
+(Customer) taking an apple,1034,1050
+(Customer) cleaning an apple,1080,1142
+(Customer) taking a bite ,1142,1170
+(Customer) chewing an apple,1170,1219

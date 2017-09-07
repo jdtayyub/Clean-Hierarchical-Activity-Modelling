@@ -1,0 +1,37 @@
+(Waiter/ess) bringing the menu card,9,35
+(Waiter/ess) placing menucard on table,28,43
+(Customer) reads menu card,66,127
+(Customer) calls waitress,127,145
+(Waiter/ess) attends customer,145,154
+(Customer) gives the order,154,166
+(Waiter/ess) notes the order,166,179
+(Customer) uses fork and knife,290,386
+(Waiter/ess) brings water,370,384
+(Waiter/ess) leaves the table,387,400
+(Customer) eats her food,410,488
+(Customer) drinks water,488,555
+(Customer) eats the food,567,758
+(Customer) drinks water,758,784
+(Customer) eats the food,795,915
+(Waiter/ess) takes away plate,934,998
+(Customer) drinks water,998,1054
+(Waiter/ess) brings another recipe,1054,1077
+(Customer) takes a bite,1111,1130
+(Customer) checks the phone,1138,1190
+(Customer) takes bite left,1190,1238
+(Customer) checks the phone,1256,1310
+(Customer) drinks the water,1322,1343
+(Customer) calls waitress,1363,1401
+(Waiter/ess) takes away dishes,1401,1440
+(Customer) gives her card,1407,1453
+(Customer) types password,1484,1520
+(Waiter/ess) gives back her card,1528,1565
+(Customer) puts card in pocket,1570,1593
+(Waiter/ess) attends table,144,168
+(Waiter/ess) attends table,236,268
+(Waiter/ess) attends table,386,401
+(Waiter/ess) attends table,934,952
+(Waiter/ess) attends the table,1064,1091
+(Waiter/ess) attends table,1398,1444
+(Both) pays bill,1439,1527
+(Waiter/ess) attends the table,1527,1584

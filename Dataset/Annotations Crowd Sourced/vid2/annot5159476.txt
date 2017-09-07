@@ -1,0 +1,23 @@
+pouring milk into cup,27,81
+consuming apple,86,1777
+drinking coffee from cup,313,361
+eating apple,364,466
+eating apple,500,721
+drinking coffee from cup,723,748
+eating apple,748,1026
+drinking coffee from cup,1028,1048
+eating apple,1049,1272
+drinking coffee from cup,1273,1300
+eating apple,1302,1734
+taking cup,1758,1773
+taking milk pack,1775,1818
+opening milk pack,1815,1824
+poring milk into cup,1825,1844
+closing milk pack,1848,1853
+drinking milk from cup,1857,1956
+taking cornflakes packet,1959,2005
+putting cornflakes into bowl,2000,2031
+taking milk pack,2052,2068
+poring milk into bowl,2063,2103
+mixing with spoon,2108,2223
+eating cornflakes with spoon,2224,2440

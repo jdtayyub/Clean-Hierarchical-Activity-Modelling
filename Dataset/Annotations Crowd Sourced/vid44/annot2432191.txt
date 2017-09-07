@@ -1,0 +1,31 @@
+(Waiter/ess) puts plate,76,90
+(Waiter/ess) leaves,215,225
+(Customer) reads menu,211,346
+(Waiter/ess) gives juice,364,374
+(Waiter/ess) giving menu,28,38
+(Customer) grabbing menu,40,53
+(Waiter/ess) putting plate,53,91
+(Both) talking,35,217
+(Waiter/ess) leaving,216,226
+(Customer) reading menu,207,341
+(Waiter/ess)  coming,348,360
+(Waiter/ess) giving juice,362,370
+(Customer) giving magazine,464,471
+(Waiter/ess) giving coffee cup,362,371
+(Customer) juice in cup,569,597
+(Customer) drinking juice,613,633
+(Waiter/ess) placing food,850,858
+(Waiter/ess) giving chips,866,873
+(Customer) grabbing fork,897,901
+(Customer) mixing food,912,922
+(Customer) eating food,964,973
+(Customer) picking pasta,1034,1075
+(Customer) eating pasta,1118,1125
+(Customer) eating chips,1160,1208
+(Customer) picking pasta,1306,1316
+(Customer) eating pasta,1316,1325
+(Customer) drinking juice,1745,1768
+(Customer) eating chips,1792,1811
+(Waiter/ess) picking up plate,1951,1962
+(Waiter/ess) picking up juice,2133,2143
+(Waiter/ess) placing plate,2247,2260

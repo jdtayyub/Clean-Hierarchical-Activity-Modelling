@@ -1,0 +1,8 @@
+(Customer) reading menu,20,174
+(Customer) ordering food,174,221
+(Customer) drinking,340,362
+(Customer) eating food,633,1053
+(Customer) eating fruit,1155,1532
+(Customer) paying,1715,1809
+(Customer) taking out card,1700,1720
+(Customer) putting card away,1831,1853

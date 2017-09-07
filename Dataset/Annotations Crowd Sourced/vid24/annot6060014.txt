@@ -1,0 +1,20 @@
+wearing the headphone,30,60
+removed the headphone,72,89
+writing,112,289
+setting the paper,321,392
+writing something,403,670
+write something,687,847
+scribbled and throw pen,887,900
+wore headphone ,913,932
+started typing keyboard,959,1265
+wrote on a paper,1289,1325
+operated cellphone,1332,1740
+scribbled,1740,1777
+arranged and stapled paper,1826,1954
+scribbled,1970,2018
+removed the headphone,2029,2044
+took a pen ,2064,2245
+put down the pen,2286,2317
+took another pen,2338,2378
+started to scribble,2388,2493
+working in office,1,2493

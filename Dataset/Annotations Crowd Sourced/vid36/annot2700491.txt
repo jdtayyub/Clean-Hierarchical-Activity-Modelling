@@ -1,0 +1,22 @@
+puts on headphones,9,22
+uses laptop touchpad,26,77
+types on keyboard,78,123
+grabs red pen,130,135
+writes in notebook,142,229
+drops red pen,231,235
+types on keyboard,247,307
+picks up red pen,310,312
+writes in notebook,313,388
+drops pen,390,390
+types on keyboard,398,466
+grabs orange juice,471,475
+opens orange juice,476,480
+shakes juice bottle,482,487
+drinks orange juice,489,509
+closes orange bottle,511,522
+places bottle on desk,525,530
+consuming juice,460,554
+grabs red pen,531,531
+writes in notebook,535,621
+drops red pen,625,625
+uses red pen,531,622

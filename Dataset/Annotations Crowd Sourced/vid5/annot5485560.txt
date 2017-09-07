@@ -1,0 +1,14 @@
+tea bag box,1,61
+takes a tea bag,61,211
+tea bag used,211,265
+hot water used,265,435
+stirs,446,501
+infusing tea,501,715
+tea cooling,715,852
+consuming sandwich,852,2009
+drinking tea,2009,2080
+infusing tea,2080,2175
+including sugar,2175,2268
+Stirring Tea,2268,2383
+tea Ready,2383,2426
+drinkin tea,2426,3970

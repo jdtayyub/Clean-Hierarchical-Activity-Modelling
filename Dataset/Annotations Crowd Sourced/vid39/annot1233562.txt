@@ -1,0 +1,7 @@
+Puts on headphones,20,67
+Opens laptop,29,48
+Types on laptop,83,122
+Writes on paper,122,224
+Types on laptop,228,309
+Writes with pen,318,354
+Uses stapler,438,457

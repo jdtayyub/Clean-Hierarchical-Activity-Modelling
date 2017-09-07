@@ -1,0 +1,5 @@
+moves paper over,52,78
+picks up pen,32,48
+uses stapler,123,213
+types on laptop,231,555
+writes on paper,1347,1661

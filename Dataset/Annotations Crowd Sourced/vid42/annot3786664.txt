@@ -1,0 +1,43 @@
+(Waiter/ess) Brings menu,29,55
+(Both) Talking to each other,55,73
+(Customer) Flipping through menu ,88,371
+(Waiter/ess) Puts down cup,391,412
+(Waiter/ess) Puts down juice,412,420
+(Waiter/ess) Twists off cap,420,434
+(Waiter/ess) Pours juice ,434,445
+(Waiter/ess) Caps juice ,453,456
+(Waiter/ess) Takes out pen ,456,468
+(Waiter/ess) Begins taking order ,474,494
+(Both) Order being taken ,504,557
+(Customer) Hands waitress menu ,557,566
+(Waiter/ess) Waitress leaves ,566,569
+(Customer) Drinks from cup,578,603
+(Customer) Puts down cup,603,613
+(Customer) Talks and waits ,658,730
+(Customer) Picks up cup,730,772
+(Customer) Drinks from cup ,772,802
+(Customer) Puts down cup,802,811
+(Customer) Waits and talks ,837,1038
+(Waiter/ess) Brings salad ,1038,1053
+(Customer) Begins to eat ,1053,1083
+(Customer) Talking ,1108,1118
+(Customer) Takes bite ,1118,1164
+(Customer) Chewing ,1164,1201
+(Customer) Takes another bite,1234,1262
+(Customer) Chewing and nodding ,1262,1343
+(Customer) Takes bite ,1343,1358
+(Customer) Chewing and talking ,1376,1473
+(Customer) Takes bite ,1484,1491
+(Customer) Chewing and talking ,1491,1548
+(Customer) Takes bites ,1557,1622
+(Customer) Takes bites ,1622,1958
+(Customer) Finishes salad,2065,2145
+(Customer) Chewing ,2172,2242
+(Customer) Picks up cup,2242,2268
+(Customer) Drinks ,2276,2298
+(Waiter/ess) Takes plate ,2298,2336
+(Waiter/ess) Finishing service ,2350,2388
+(Waiter/ess) Leaves ,2388,2395
+(Customer) Takes another drink ,2405,2438
+(Customer) Talking,2479,2500
+

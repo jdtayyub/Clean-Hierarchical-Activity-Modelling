@@ -1,0 +1,23 @@
+open laptop,1,18
+put earphone in,18,29
+reach for computer,38,57
+move on touchpad,43,73
+reach for pen,71,74
+pick up pen,74,86
+write,109,185
+write,213,240
+move papers,221,267
+write,252,412
+pick up paper,412,426
+move paper,426,443
+write,443,475
+use computer,475,495
+read paper,495,540
+put paper down,484,499
+write,546,556
+write,549,637
+use computer,637,689
+type,686,758
+turn in chair,758,779
+take earphones out,812,832
+close laptop,832,863

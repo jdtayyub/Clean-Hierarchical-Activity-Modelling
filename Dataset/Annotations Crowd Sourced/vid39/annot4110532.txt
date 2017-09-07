@@ -1,0 +1,15 @@
+picked up headphone,5,21
+opened laptop ,21,40
+typing in laptop,40,117
+pick red pen,121,127
+writing in paper,127,184
+dropped pen ,184,188
+pick stapler ,188,196
+stappling paper ,196,204
+dropped stapler ,204,208
+typing laptop,208,298
+stopped typing on laptop,298,299
+pick red pen,299,304
+writing in paper,308,424
+dropped pen,424,433
+used stapler,433,461

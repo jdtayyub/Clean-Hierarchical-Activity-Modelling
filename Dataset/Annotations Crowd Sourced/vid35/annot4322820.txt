@@ -1,0 +1,15 @@
+Writing on book,76,328
+Viewing laptop screen,351,826
+Typing using keybord,826,1015
+Moving away,1273,1287
+Earphone using,38,76
+Opening laptop,76,87
+ writing on book,157,293
+Looking on laptop,293,603
+Writing,1152,1189
+Closing laptop,1203,1213
+Closing paper n pen,1223,1255
+Moving away,1272,1287
+Looking straight,14,32
+Ploughing earphone,45,68
+Writing,1143,1192

@@ -1,0 +1,234 @@
+(Waiter/ess) Gives Menu,1,54
+(Customer) WAITING FOR WAITRESS,14,39
+(Both) Talking,35,49
+(Waiter/ess) brings menu,39,49
+(Waiter/ess) give customer menu,40,50
+(Customer) Looks at menu,41,208
+(Both) eating at restaurant,44,3032
+(Customer) reading menu,46,315
+(Customer) looks through menu,46,313
+(Customer) looks at menu,47,313
+(Customer) looks through menu,49,215
+(Customer) looking at menu,54,210
+(Customer) points at item ,143,208
+(Customer) Calls Waitress,208,232
+(Customer) calling waitress,216,233
+(Customer) ORDERING FOOD,217,313
+(Customer) ordering,218,309
+(Both) Order Exchanged,222,331
+(Both) Ordering,224,316
+(Both) ordering,226,306
+(Customer) points to menu,227,242
+(Waiter/ess) walks to table,228,242
+(Both) discuss order,237,260
+(Waiter/ess) takes order,240,301
+(Waiter/ess) writes order,242,301
+(Customer) looking at menu,244,263
+(Customer) place order,260,306
+(Both) places order,261,303
+(Waiter/ess) writing order,282,302
+(Waiter/ess) takes menu away,302,318
+(Waiter/ess) takes menu,306,320
+(Waiter/ess) closes menu,307,312
+(Waiter/ess) taking menu,307,321
+(Waiter/ess) walks away,317,328
+(Waiter/ess) leaving,318,328
+(Waiter/ess) leaves,318,328
+(Waiter/ess) leaves,320,328
+(Both) HAVING CONVERSATION,322,417
+(Waiter/ess) walking away,322,328
+(Customer) Waiting for food,331,403
+(Customer) rubs hands together,363,371
+(Customer) waiting for food,389,420
+(Waiter/ess) brings drink,398,477
+(Waiter/ess) walks to table,398,409
+(Waiter/ess) arriving with drink,401,462
+(Waiter/ess) Serving Drink,403,466
+(Waiter/ess) puts cup down,409,411
+(Waiter/ess) unscrews lid,411,431
+(Waiter/ess) opens juice,412,447
+(Waiter/ess) POURING DRINK,415,469
+(Waiter/ess) pours juice,431,451
+(Waiter/ess) pours drink,437,454
+(Waiter/ess) pourring drink,439,451
+(Waiter/ess) pouring drink,439,455
+(Waiter/ess) pours juice,447,459
+(Waiter/ess) puts lid on juice,451,460
+(Waiter/ess) drink down,457,467
+(Waiter/ess) puts juice on table,460,466
+(Waiter/ess) leaves,463,482
+(Customer) Takes her drink,466,514
+(Waiter/ess) leaves room,468,477
+(Waiter/ess) leaving,469,477
+(Customer) picks up glass,470,480
+(Customer) drinks drink,474,514
+(Customer) drinking juice,474,518
+(Customer) drinking,477,512
+(Customer) drinks juice,480,503
+(Customer) drinks juice,482,513
+(Customer) holding cup,482,519
+(Customer) having lunch,489,2053
+(Customer) Drinking juice,490,503
+(Customer) having a drink ,490,522
+(Customer) having a drink,497,524
+(Customer) puts glass down,503,515
+(Waiter/ess) brings food,504,551
+(Waiter/ess) walks to table,505,517
+(Waiter/ess) arriving with order,506,540
+(Waiter/ess) brings food,513,537
+(Waiter/ess) Serves Food,514,544
+(Waiter/ess) puts plate down,515,524
+(Waiter/ess) puts utensils down,515,526
+(Waiter/ess) placing plate,519,528
+(Customer) begins to eat,537,545
+(Waiter/ess) leaves room,538,554
+(Customer) picking plastic utensils,540,553
+(Customer) Takes Food,544,567
+(Waiter/ess) leaves,545,554
+(Customer) eats,554,1186
+(Customer) eats,554,1211
+(Customer) eating main meal,563,1989
+(Customer) picking food,566,1185
+(Customer) Eating Food,567,1212
+(Customer) keeps eating,574,667
+(Customer) EATING MEAL,574,1991
+(Customer) eats with hands,579,688
+(Customer) eating,583,1187
+(Customer) Eating,587,2831
+(Customer) eating food,587,1197
+(Customer) taking bites,799,1194
+(Customer) drinking juice,1190,1313
+(Customer) brushes hands,1192,1201
+(Customer) dusts hands,1194,1205
+(Customer) drinks,1203,1300
+(Customer) taking drink,1210,1297
+(Customer) drinks juice,1211,1293
+(Customer) Drinking Water,1212,1300
+(Customer) holding cup,1216,1301
+(Customer) DRINKING,1225,1285
+(Customer) drinking juice,1232,1306
+(Customer) eats,1301,1697
+(Customer) eating,1302,1694
+(Customer) starts eating,1306,1394
+(Customer) eating,1307,1709
+(Customer) Eating Food,1315,1419
+(Customer) continues to eat,1320,1522
+(Customer) Eating,1550,1714
+(Customer) continues eating,1550,1702
+(Customer) drinks,1704,1775
+(Customer) drinking juice,1708,1780
+(Customer) picking drink,1709,1775
+(Customer) drinks juice,1709,1773
+(Customer) drinks juice,1713,1767
+(Customer) Drinking Water,1714,1776
+(Customer) drinking,1741,1762
+(Customer) eating,1773,2022
+(Customer) eating,1774,1943
+(Customer) Eating Food,1776,1961
+(Customer) eats,1776,1950
+(Customer) eating,1777,1952
+(Customer) Clapping Clean,1945,1983
+(Customer) brushes hands,1951,1971
+(Customer) dusting off hands,1951,1975
+(Customer) dusts hands,1952,1976
+(Customer) cleaning hands,1952,1971
+(Customer) looking for waitress,1998,2009
+(Waiter/ess) comes over,1998,2072
+(Waiter/ess) walks to table,2003,2023
+(Waiter/ess) arriving,2006,2062
+(Waiter/ess) walks over,2009,2018
+(Customer) Speaking to waitress,2013,2043
+(Both) talking together,2014,2065
+(Waiter/ess) discuss food,2017,2054
+(Both) talking,2025,2045
+(Waiter/ess) Clearing Table,2043,2074
+(Waiter/ess) picking plate,2047,2070
+(Waiter/ess) clearing the dishes,2048,2070
+(Waiter/ess) carrying plate away,2050,2071
+(Waiter/ess) CLEARING DISHES,2052,2068
+(Waiter/ess) leaves with plate,2053,2072
+(Waiter/ess) leaving ,2063,2072
+(Waiter/ess) leaves room,2064,2073
+(Customer) waits for waitress,2074,2105
+(Waiter/ess) comes back,2100,2142
+(Waiter/ess) walks to table,2101,2118
+(Waiter/ess) brings yogurt,2102,2121
+(Waiter/ess) arriving,2102,2132
+(Waiter/ess) Giving Desert,2105,2131
+(Waiter/ess) bringing yogurt ,2109,2124
+(Customer) Chewing Food,2131,2192
+(Customer) picking yogurt,2131,2146
+(Waiter/ess) leaving,2132,2141
+(Customer) eating yogurt,2145,2823
+(Customer) prepares yogurt,2175,2234
+(Customer) grabbing yogurt,2187,2226
+(Customer) Shaking Can,2192,2227
+(Customer) shaking yogurt,2204,2224
+(Customer) Drinking Water,2227,2294
+(Customer) eating yogurt,2228,2815
+(Customer) drinking juice,2228,2320
+(Customer) drinks,2229,2299
+(Customer) drinking juice,2234,2323
+(Customer) drinking,2234,2285
+(Customer) holding cup,2234,2299
+(Customer) DRINKING,2241,2290
+(Customer) Opening Lid,2294,2355
+(Customer) opens dessert,2298,2344
+(Customer) eats,2300,2803
+(Customer) opening yogurt,2305,2342
+(Customer) OPEN CONTAINER,2310,2346
+(Customer) opening lid,2320,2346
+(Customer) starts eating yogurt,2323,2479
+(Customer) places cover down,2345,2351
+(Customer) picks up spoon,2354,2360
+(Customer) Taking Spoon,2355,2372
+(Customer) picking spoon,2356,2798
+(Customer) holding spoon,2357,2808
+(Customer) stirs,2367,2404
+(Customer) Using Spoon,2372,2405
+(Customer) EATING FOOD,2404,2809
+(Customer) Eating with spoon,2405,2475
+(Customer) brings to mouth,2412,2423
+(Customer) eating a yogurt,2412,2818
+(Customer) eating with spoon,2422,2794
+(Customer) eating yogurt,2423,2788
+(Customer) eating yogurt,2479,2562
+(Customer) Eating with spoon,2501,2586
+(Customer) eating yogurt,2514,2608
+(Customer) Moving glass,2619,2640
+(Customer) eating yogurt,2638,2798
+(Customer) Eating with spoon,2640,2795
+(Customer) Looking for waitress,2795,2806
+(Customer) greeting waitress,2798,2816
+(Waiter/ess) comes back,2804,2885
+(Customer) Keeping glass aside,2806,2821
+(Waiter/ess) arriving with bill,2808,2848
+(Both) discuss service,2815,2863
+(Waiter/ess) brings bill,2816,2844
+(Customer) Speaking for service,2821,2841
+(Customer) puting in pin,2833,2994
+(Customer) looking for card,2837,2888
+(Waiter/ess) Clearing table,2841,2891
+(Waiter/ess) clearing table,2848,2873
+(Waiter/ess) clearing dishes,2859,2882
+(Waiter/ess) leaves with dishes,2863,2882
+(Customer) pays with card,2875,2989
+(Customer) pays bill with card,2880,2984
+(Customer) enters pin,2883,2955
+(Customer) Paying with credit card,2885,2983
+(Customer) swiping card,2886,2902
+(Customer) Inserting Card,2894,2934
+(Customer) PUT PIN,2915,2989
+(Customer) Punching Amount,2934,2983
+(Waiter/ess) leaves,2944,3044
+(Customer) using card machine ,2955,2991
+(Customer) paying with card,2968,3038
+(Customer) Giving machine,2978,2988
+(Waiter/ess) Taking Machine,2983,2996
+(Waiter/ess) Giving back card,2996,3027
+(Both) discuss payment,3000,3019
+(Waiter/ess) gives customer receipt,3003,3015
+(Waiter/ess) handing card back,3003,3017
+(Customer) Calling waitress,3027,3038
+(Customer) Instructs waitress,3038,3049
+(Waiter/ess) Giving back card,3039,3051

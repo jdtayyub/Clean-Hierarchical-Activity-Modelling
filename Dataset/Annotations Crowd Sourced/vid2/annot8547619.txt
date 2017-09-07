@@ -1,0 +1,21 @@
+add sugar to glass,33,66
+eating apple,94,315
+drink water,313,357
+eat apple,368,384
+eating apple,504,717
+drinking water,726,748
+eating apple,756,1024
+drinking,1028,1049
+eating apple,1050,1136
+eating apple,1167,1238
+drinking,1276,1293
+eating apple,1303,1377
+eating apple,1446,1508
+eating apple,1571,1725
+add water,1818,1856
+drinking,1870,1895
+drinking,1906,1939
+add snack to bowl,1978,2047
+add cereal to bowl,2059,2105
+mix using spoon,2113,2224
+eating food,2231,2438

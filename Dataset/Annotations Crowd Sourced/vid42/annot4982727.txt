@@ -1,0 +1,22 @@
+(Customer) push up sleeve,1,8
+(Waiter/ess) put menu on table,18,32
+(Customer) chat with waiter,42,68
+(Waiter/ess) leave scene,67,77
+(Customer) read menu,76,377
+(Waiter/ess) bring drink,379,389
+(Waiter/ess) open drink,396,424
+(Waiter/ess) pour drink glass,426,442
+(Waiter/ess) close bottle,446,450
+(Waiter/ess) grab the pen,451,458
+(Waiter/ess) grab notepad,456,465
+(Both) chat between them,473,499
+(Waiter/ess) write on notepad,500,550
+(Waiter/ess) grab menu,551,557
+(Waiter/ess) leave scene,555,566
+(Customer) grab the cup,564,576
+(Customer) drink from cup,576,596
+(Customer) put cup back,597,604
+(Customer) grab cup,725,738
+(Customer) drink from cup,773,798
+(Waiter/ess) enter scene,1033,1041
+(Waiter/ess) put plate table,1043,1049

@@ -1,0 +1,10 @@
+opened the laptop,33,76
+took the pen,100,237
+wrote on a paper,248,558
+used the stapler,578,610
+took the pen,632,718
+plugged in laptop,728,902
+started typing,924,1014
+put on headphone ,1021,1092
+typing the laptop,1100,1434
+removed the headphone,1445,1460

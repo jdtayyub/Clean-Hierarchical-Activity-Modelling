@@ -1,0 +1,17 @@
+(Waiter/ess) arrives with menu,1,158
+(Customer) reads menu,158,378
+(Waiter/ess) arrives with drink and takes order,378,454
+(Customer) makes and takes drink,454,529
+(Waiter/ess) delivers food,529,560
+(Customer) eats food,560,737
+(Customer) check phone,737,788
+(Customer) eating and checking phone,788,1212
+(Customer) sets phone down,1212,1222
+(Customer) eating meal,1222,1335
+(Waiter/ess) clears dishes from table,1335,1425
+(Customer) checks phone ,1425,1865
+(Waiter/ess) brings dessert,1865,1926
+(Customer) eats dessert,1926,2841
+(Waiter/ess) clears dessert plate,2841,2959
+(Customer) waits for bill,2960,3090
+(Both) Pays bill and recieves payment,3101,3451

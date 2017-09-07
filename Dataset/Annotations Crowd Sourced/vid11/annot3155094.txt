@@ -1,0 +1,7 @@
+Making Cereal,135,303
+making tea,405,591
+Eating cereal,675,3703 
+drinking tea,675,3703
+playing/using phone,1235,2544
+sitting,1,66
+drinking tea,1497,1842

@@ -1,0 +1,7 @@
+Typing the document at work,23,847
+Wearing headphones ,36,66
+Using calculator ,377,400
+Drinking water,486,574
+Using stapler,600,621
+Using pen drive ,645,681
+Using laptop,681,796

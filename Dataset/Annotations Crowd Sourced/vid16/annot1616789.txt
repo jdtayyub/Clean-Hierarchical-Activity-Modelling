@@ -1,0 +1,6 @@
+making coffee,28,243
+getting cereal ready,249,392
+reading newspaper,424,1706
+eating breakfast,492,1690
+drinking coffee,606,1463
+performing breakfast action,23,1716

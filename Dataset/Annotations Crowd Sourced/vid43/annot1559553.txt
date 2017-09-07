@@ -1,0 +1,31 @@
+(Waiter/ess) Walks in with menu,1,33
+(Both) Places food order,33,123
+(Customer) Waits for order,123,225
+(Waiter/ess) Brings juice and mug,318,340
+(Waiter/ess) Pours juice in mug,340,380
+(Customer) Places food order,380,440
+(Waiter/ess) Takes the order,440,497
+(Waiter/ess) Walks away,497,591
+(Customer) Drinks juice from mug,591,636
+(Customer) waiting for order,636,792
+(Waiter/ess) Brings in food,792,875
+(Waiter/ess) Opens bag of chips,875,919
+(Customer) Eats chips,919,986
+(Customer) Continues eating chips,986,1070
+(Customer) Eats more chips,1070,1165
+(Customer) Eats more chips,1165,1296
+(Customer) Eats more chips,1296,1474
+(Customer) Eats more chips,1474,1564
+(Customer) Drinks juice,1564,1668
+(Customer) Continues eating,1668,1732
+(Customer) Drinks more juice,1732,1835
+(Customer) Eats more chips,1835,1933
+(Waiter/ess) Walks in again,1933,2053
+(Both) Talk to each other,2053,2129
+(Waiter/ess) Clears the table,2129,2164
+(Customer) Eats more chips ,2164,2208
+(Waiter/ess) Brings in bill,2208,2255
+(Waiter/ess) Calculates bill amount,2255,2300
+(Customer) Makes the payment,2300,2386
+(Waiter/ess) Walks away,2386,2407
+(Both) Paying the bill,2230,2410

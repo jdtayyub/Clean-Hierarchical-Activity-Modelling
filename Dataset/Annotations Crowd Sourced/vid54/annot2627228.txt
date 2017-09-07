@@ -1,0 +1,16 @@
+(Waiter/ess) giving menu,1,28
+(Customer) reading,28,92
+(Both) talking,92,161
+(Waiter/ess) serving food,161,322
+(Customer) eating food,322,366
+(Waiter/ess) pouring drink,366,396
+(Customer) eating,396,504
+(Customer) chewing,504,548
+(Waiter/ess) clean table,548,625
+(Customer) drinking,625,693
+(Customer) eating,693,813
+(Waiter/ess) serving food,1082,1212
+(Customer) eating,1212,1277
+(Waiter/ess) clean table,1582,1616
+(Both) Payment Transaction,1616,1715
+

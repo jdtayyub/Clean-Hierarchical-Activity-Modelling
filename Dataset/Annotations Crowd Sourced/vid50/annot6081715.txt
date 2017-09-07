@@ -1,0 +1,5 @@
+(Customer) drinking,384,436
+(Customer) eating,470,1062
+(Customer) drinking,1062,1215
+(Customer) eating apple,1383,1659
+(Customer) using phone,1763,1852

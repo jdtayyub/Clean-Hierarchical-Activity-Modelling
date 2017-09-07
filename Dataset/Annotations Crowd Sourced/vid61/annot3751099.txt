@@ -1,0 +1,25 @@
+(Waiter/ess) giving menu,1,35
+(Both) talking ,35,47
+(Waiter/ess) going back,47,58
+(Customer) reading menu,58,106
+(Customer) giving order,118,160
+(Customer) checking phone,160,236
+(Waiter/ess) serving food ,249,280
+(Customer) eating,280,334
+(Waiter/ess) puting glass,334,351
+(Customer) eating ,351,417
+(Customer) drinking,417,467
+(Customer) eating food,467,697
+(Customer) drinking ,697,722
+(Customer) arranging spoon,722,779
+(Waiter/ess) serving food ,779,815
+(Customer) eating,815,911
+(Customer) checking phone,911,978
+(Customer) checking phone,978,1075
+(Customer) calling waiter,1075,1100
+(Both) paying bill,1100,1190
+(Both) talking,1190,1264
+(Waiter/ess) cleaning table,1264,1308
+(Both) talking ,1308,1353
+(Customer) checking phone,1353,1467
+(Both) Lunch in Restaurant,1,1470

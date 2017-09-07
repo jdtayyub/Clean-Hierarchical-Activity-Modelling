@@ -1,0 +1,9 @@
+Opened the Laptop,33,39
+Wearing Headset,52,73
+Writing on Paper,276,383
+Calculatng,388,412
+Typing on keyboard,456,556
+Closing Laptop,591,599
+Removing eyeglass,600,605
+Moving the headset,21,31
+Working on laptop,75,112

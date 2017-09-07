@@ -1,0 +1,12 @@
+added the coffee,83,136
+added the milk,247,330
+stirring,348,391
+stirring,451,537
+used teapot,563,593
+eating banana,601,845
+used teapot,869,957
+preparing cornflakes,957,1183
+eating,1465,1712
+eating banana,3058,3341
+drinking,3341,3461
+eating banana,3486,4054

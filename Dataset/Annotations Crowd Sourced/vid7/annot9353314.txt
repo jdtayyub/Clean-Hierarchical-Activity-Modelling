@@ -1,0 +1,23 @@
+add teapowder to glass,15,56
+teapot water to glass,62,117
+add snack to bowl,129,177
+add milk to bowl,191,225
+mix it using spoon,240,275
+eating it,275,292
+reading newspaper,292,356
+eating food,356,419
+reading newspaper,419,509
+eating food,509,535
+reading newspaper,535,612
+drinking tea,626,708
+drinking tea,718,736
+reading newspaper,755,776
+eating food,776,883
+add milk to bowl,883,935
+add snacks to bowl,935,963
+eating food,963,1000
+reading newspaper,1000,1055
+drinking tea,1083,1115
+eating food,1133,1327
+drinking tea,1365,1397
+close newspaper,1424,1448

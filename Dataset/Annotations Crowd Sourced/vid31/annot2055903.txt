@@ -1,0 +1,15 @@
+Grabs Pen,147,167
+Flips Paper,155,174
+Adjusts Headphones,195,269
+Writes,267,330
+Writes,392,482
+Grabs Stapler,482,491
+Flips Paper,491,501
+Staples Sheet,501,539
+Opens Papers,539,547
+Writes Something,547,580
+Takes Out Headphone,580,612
+Uses Mouse,612,630
+Talks To Someone,630,688
+Adjusts Headphones,1,21
+Uses Laptop,15,148

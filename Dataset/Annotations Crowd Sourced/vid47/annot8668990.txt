@@ -1,0 +1,19 @@
+(Waiter/ess) Gives menu,1,62
+(Customer) viewing menu items,63,189
+(Customer) ordering food,190,267
+(Customer) waiting for food,268,315
+(Waiter/ess) giving water,316,366
+(Customer) giving menu back,367,381
+(Customer) drinking water,382,439
+(Waiter/ess) giving food,461,501
+(Customer) having food,505,1174
+(Customer) drinking water,1175,1215
+(Waiter/ess) taking plate,1190,1270
+(Waiter/ess) giving ice-cream,1271,1341
+(Customer) removing cup cover,1342,1502
+(Customer) having ice-cream,1503,1718
+(Customer) drinking water,1719,1774
+(Waiter/ess) giving swiping-machine,1775,1815
+(Waiter/ess) taking empty-cup back,1816,1842
+(Customer) using swiping-machine,1843,1902
+(Customer) giving swiping-machine back,1903,1927

@@ -1,0 +1,15 @@
+(Customer) Eating and drinking,965,2210
+(Customer) reading the menu,32,333
+(Customer) paying the bill,2308,2391
+(Customer) ordering,527,570
+(Waiter/ess) giving the menu,28,128
+(Waiter/ess) asking the order,405,575
+(Customer) drinking from cup,626,691
+(Customer) waiting for order,817,869
+(Both) completed the order,875,931
+(Both) talking,2254,2395
+(Customer) waiting for menu,1,28
+(Waiter/ess) brought the menu,37,84
+(Waiter/ess) something to drink,330,410
+(Waiter/ess) taking the order,421,571
+(Customer) waiting,584,875

@@ -1,0 +1,27 @@
+(Customer) waiting,1,48
+(Customer) looking at waiter,54,105
+(Customer) receives menu,105,120
+(Customer) picks menu,122,129
+(Customer) read menu,129,219
+(Customer) calling waiter,221,229
+(Customer) waiting,237,266
+(Customer) ordering food,271,319
+(Customer) waiting,330,421
+(Customer) receiving order,441,472
+(Customer) eating,477,920
+(Customer) picking cup,921,1004
+(Customer) drinking,1009,1049
+(Customer) putting cup down,1050,1062
+(Customer) waiting,1067,1136
+(Customer) getting food,1141,1158
+(Customer) picks up food,1159,1162
+(Customer) eating,1168,1518
+(Customer) setting cup apart,1544,1556
+(Both) Paying up bill,1581,1732
+(Customer) storing card,1688,1732
+(Customer) picking banana,1741,1776
+(Customer) peeling banana,1790,1856
+(Customer) getting up,1829,1855
+(Customer) eats banana,1859,1875
+(Customer) walking away,1854,1884
+(Customer) Leaving,1820,1885

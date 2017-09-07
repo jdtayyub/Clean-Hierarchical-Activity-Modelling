@@ -1,0 +1,18 @@
+Open laptop,9,23
+type on keyboard,30,42
+Pick up headphone,42,50
+use mouse pad,83,91
+pick up pen,100,111
+stack paper,126,143
+writing,178,356
+use calculator,356,384
+writing,391,393
+typing in laptop,400,448
+input usb ,478,507
+drinking,540,563
+use mousepad,574,595
+staple paper,624,637
+staple papers,619,703
+use laptop,703,725
+put down headphone,725,738
+close laptop,738,747

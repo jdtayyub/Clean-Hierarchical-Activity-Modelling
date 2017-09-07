@@ -1,0 +1,25 @@
+Making breakfast,1,421
+Eating breakfast,421,2130
+Having breakfast,1,2140
+Making coffee,1,285
+Drinking coffee,285,315
+Holding coffee cup,542,574
+Drinking coffee,574,595
+Holding coffee cup,595,671
+Drinking coffee,671,698
+Holding coffee cup,1597,1677
+Drinking coffee,1677,1698
+Holding coffee cup,1698,1733
+Drinking coffee,1733,1758
+Drinking coffee,2067,2116
+Eating apple,691,911
+Eating apple,1161,1595
+Eating apple,1894,2018
+Pouring milk,1,72
+Adding coffee beans,72,201
+Mixing coffee,201,282
+Preparing coffee,1,285
+Pouring cereal,318,369
+Pouring milk,369,421
+Preparing ceral,315,422
+Taking apple,499,545

@@ -1,0 +1,12 @@
+Wear Headphone,1,15
+Opens Laptop,15,36
+Types on Laptop,36,94
+Writes on paper,94,205
+Types on Laptop,205,238
+Writes on Paper,238,258
+Staple papers,258,264
+Drinking Water,264,278
+Types on Laptop,281,303
+Writing on paper,303,332
+Typing on Keyboard,332,346
+Writing on paper,344,358

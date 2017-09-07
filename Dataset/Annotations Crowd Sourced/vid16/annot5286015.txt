@@ -1,0 +1,13 @@
+making coffee,15,239
+fixing cereal,240,420
+reading paper,420,597
+drinking cofee,598,646
+reading paper,648,960
+drinking cofee,961,995
+reading paper,998,1152
+eating cereal,1153,1186
+reading paper,1187,1433
+drinking cofee,1434,1470
+reading paper,1471,1556
+eating cereal,1557,1584
+reading paper,1585,1732

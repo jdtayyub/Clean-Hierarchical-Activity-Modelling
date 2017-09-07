@@ -1,0 +1,39 @@
+(Customer) receiving menu card,32,38
+(Customer) moving menu paper,45,55
+(Customer) using mobile,73,86
+(Customer) reading menu,137,176
+(Waiter/ess) kept spoons down,207,218
+(Waiter/ess) writing on the paper,240,254
+(Waiter/ess) picking up menu,281,291
+(Customer) using mobile,369,393
+(Waiter/ess) kept plate down,795,805
+(Waiter/ess) kept cup down,817,821
+(Waiter/ess) pouring juice in cup,820,828
+(Waiter/ess) kept bottle down,842,847
+(Customer) picking up fork,962,969
+(Customer) picking up snack ,992,1000
+(Customer) eating,1005,1013
+(Customer) eating,1046,1053
+(Customer) kept snack down,1059,1061
+(Customer) picking up spoon,1061,1063
+(Customer) eating,1106,1113
+(Customer) eating,1170,1173
+(Customer) picking up cup,1189,1192
+(Customer) drinking from cup,1197,1212
+(Customer) drinking from cup,1235,1238
+(Customer) kept down cup,1252,1258
+(Customer) picking up spoon,1264,1269
+(Customer) eating,1314,1319
+(Customer) eating,1350,1353
+(Customer) eating,1401,1411
+(Customer) eating,1470,1476
+(Customer) kept spoon down,1487,1493
+(Customer) picking up plate,1494,1498
+(Customer) kept plate down,1498,1502
+(Customer) picking up cup,1515,1527
+(Customer) drinking from cup,1533,1551
+(Customer) kept down cup,1646,1654
+(Customer) picking up mobile,1670,1677
+(Customer) picking up cup,1692,1698
+(Customer) drinking from cup,1707,1711
+(Customer) kept cup down,1725,1731

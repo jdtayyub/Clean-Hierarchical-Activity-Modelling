@@ -1,0 +1,22 @@
+(Customer) Asking for Menu,2,22
+(Customer) Ordering Food ,42,167
+(Customer) Browsing Mobile,183,246
+(Customer) Eating First Dish,286,779
+(Customer) Eating Second Dish,838,1097
+(Both) Paying Bill,1118,1265
+(Customer) Browsing Mobile,1383,1467
+(Customer) Drinking Water,412,457
+(Customer) Drinking Water,697,727
+(Customer) Browsing Mobile while eating,867,1082
+(Waiter/ess) Brings Menu,29,35
+(Waiter/ess) Takes Order,132,164
+(Waiter/ess) Brings Food,239,284
+(Waiter/ess) Brings Water,329,343
+(Waiter/ess) Brings Second Food,784,817
+(Waiter/ess) Brings Bill,1100,1261
+(Waiter/ess) Cleans Table,1256,1303
+(Waiter/ess) Takes Bill Machine,1354,1367
+(Waiter/ess) Food Ordering,22,41
+(Waiter/ess) Ordering and taking Order,125,166
+(Both) Billing and Payment,1104,1277
+(Waiter/ess) Asking and giving menu,25,40

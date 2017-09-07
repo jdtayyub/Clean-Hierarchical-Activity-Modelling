@@ -1,0 +1,6 @@
+putting on earphones,1,195
+opening laptop,75,85
+using laptop,85,1205
+filling out paper,156,306
+leaving,1266,1291
+typing on laptop,797,948

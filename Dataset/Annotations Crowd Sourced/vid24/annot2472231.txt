@@ -1,0 +1,38 @@
+Putting on headphone,30,74
+Putting down headphone,74,89
+Pickup up ballpen,89,108
+Writing with ballpen,108,277
+Picking up paper,277,326
+Putting down paper,326,353
+Writing with ballpen,353,456
+Using mobile phone,463,509
+Writing with ballpen,509,657
+Writing with ballpen,681,837
+Putting down ballpen,837,846
+Pickup up ballpen,856,865
+Writing with ballpen,865,892
+Putting down ballpen,892,900
+Putting on headphone,905,953
+Typing on laptop,955,1248
+Using mobile phone,1248,1269
+Pickup up ballpen,1273,1284
+Writing with ballpen,1284,1317
+Putting down ballpen,1317,1324
+Using mobile phone,1324,1741
+Pickup up ballpen,1743,1750
+Writing with ballpen,1750,1770
+Putting down ballpen,1770,1779
+Moving stapler,1779,1801
+Arranging papers,1811,1918
+Using stapler,1918,1960
+Pickup up ballpen,1960,1969
+Writing with ballpen,1969,2009
+Putting down ballpen,2009,2013
+Putting down headphone,2013,2041
+Pickup up marker,2041,2064
+Using marker,2064,2258
+Using marker,2270,2295
+Putting down marker,2295,2313
+Picking up pencil,2328,2341
+Writing with pencil,2349,2485
+Putting down pencil,2485,2494

@@ -1,0 +1,20 @@
+(Waiter/ess) Gives Menu,8,35
+(Customer) Reads Menu,35,90
+(Customer) Calls waitress,90,115
+(Waiter/ess) Takes Order,115,200
+(Waiter/ess) Takes Menu,200,210
+(Customer) Gives Order,150,203
+(Customer) Waits,208,276
+(Waiter/ess) Brings food,264,299
+(Customer) Eats food,312,376
+(Waiter/ess) Brings water,336,357
+(Waiter/ess) Pours Water,357,404
+(Waiter/ess) Leaves,424,441
+(Customer) eats food,441,655
+(Customer) scooping food,531,602
+(Customer) takes a drink,854,954
+(Customer) waves at waitress,959,970
+(Waiter/ess) takes plate,992,1027
+(Customer) takes fruit,1034,1077
+(Customer) brush fruit,1077,1136
+(Both) having lunch in restaurant,1,1760

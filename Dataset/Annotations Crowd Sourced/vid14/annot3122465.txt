@@ -1,0 +1,28 @@
+Pouring Water,2,62
+Adding Mixture,62,132
+Scooping,95,117
+Stirring Mixture,132,154
+Putting Cap On,154,190
+Setting Mixture Down,189,209
+Stirring Drink,208,302
+Taking A Drink,280,314
+Pouring Cereal,314,369
+Pouring Milk,368,423
+Stirring Cereal,423,436
+Eating Cereal,436,500
+Grabbing Apple,500,520
+Takes A drink,572,598
+Takes A Drink,669,698
+Eats Apple,698,914
+Eats Cereal,910,1161
+Eats Apple,1161,1592
+Chews Her Food,1592,1675
+Takes A Drink,1675,1756
+Eats Cereal,1756,1849
+Eats her Apple,1925,2010
+Picks Up Cup,2077,2086
+Takes A Drink,2090,2115
+Makes A Drink,11,291
+Makes Some Cereal,313,440
+Checks Her Phone,1848,1858
+

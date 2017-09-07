@@ -1,0 +1,9 @@
+(Waiter/ess) giving menu card,8,31
+(Customer) Opening Menu card,36,86
+(Customer) Ordering food,88,100
+(Waiter/ess) Taking order,151,219
+(Waiter/ess) Serving Food,316,329
+(Customer) Eating Food,354,1000
+(Waiter/ess) Removing plates,1095,1126
+(Customer) drinking water,1175,1229
+(Customer) Eating icecream,1250,1557

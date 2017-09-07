@@ -1,0 +1,14 @@
+Putting on HeadPhones,50,90
+Picking up Pen,102,181
+Writing,225,520
+Placing stapler aside,537,554
+Writing,585,1053
+Listening and writing,1103,2179
+Puts pen down,2205,2222
+Works on laptop,2234,2459
+adjusts microphone,2472,2542
+Speaks on microphone,2547,2773
+removes headphones,2808,2872
+writing,46,2932
+Writing,178,2217
+Uses Laptop,2234,2881

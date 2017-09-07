@@ -1,0 +1,24 @@
+grabbing milk carton,47,246
+pouring milk,95,205
+grabbing cereal box,248,346
+pouring cereal,288,318
+grabbing mug,348,427
+drinking coffee,372,401
+grabbing spoon,440,870
+eating cereal,519,840
+grabbing cereal bowl,438,858
+reading newspaper,868,1462
+pushing mug away,887,902
+having breakfast,1,3370
+grabbing mug,1456,1810
+drinking coffee,1758,1785
+grabbing cereal bowl,1815,2039
+eating cereal,1837,2005
+grabbing bowl,2159,2554
+eating cereal,2294,2534
+reading newspaper,2544,2572
+grabbing bowl,2622,2731
+eating cereal,2679,2697
+grabbing mug,2734,3016
+drinking coffee,2824,2832
+drinking coffee,2959,2989

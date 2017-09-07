@@ -1,0 +1,10 @@
+working on laptop,1,155
+pick up pencil,155,193
+working on laptop,193,274
+writing on paper,274,343
+typing on laptop,343,399
+writing on paper,399,488
+using stapler,488,539
+writing on paper,539,584
+working on laptop,584,648
+closing laptop flap,648,689

@@ -1,0 +1,13 @@
+preparing drink,55,188
+using kettle,105,156
+stirring drink,157,180
+pouring cereal,276,313
+pouring milk,365,397
+opening newspaper,538,573
+drinking from cup,605,634
+reading paper,711,885
+eating cereal,881,909
+turning newspaper page,1055,1075
+moving milk carton,438,454
+pouring coffee grounds,55,85
+securing coffee top,86,96

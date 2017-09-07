@@ -1,0 +1,15 @@
+grading a paper,36,74
+staple paper,137,207
+grading papers,37,119
+typing on laptop,220,600
+typing,657,715
+typing and talking,657,820
+talking,837,861
+typing and talking,861,1220
+talking and grading,1220,1366
+grading paper,1366,1719
+talking,1719,1756
+grading papers,1756,2213
+typing,2295,2683
+talking,2853,3003
+Working in schoo,1,2974

@@ -1,0 +1,29 @@
+(Customer) loooking at menu,42,301
+(Both) order being taken,23,381
+(Customer) moves spoon,522,528
+(Waiter/ess) appears back,692,700
+(Waiter/ess) pours drink,716,733
+(Waiter/ess) brings food,824,841
+(Customer) starts eating food,841,979
+(Customer) takes drink sip,979,1004
+(Customer) takes another bite,1026,1065
+(Customer) cuts food,1085,1132
+(Customer) takes food bites,1144,1219
+(Customer) takes drink sip,1242,1269
+(Customer) takes food bite,1285,1314
+(Customer) grabs drink,1314,1340
+(Customer) holds drink,1352,1401
+(Customer) takes drink sip,1401,1414
+(Customer) looks at phone,1427,1449
+(Customer) takes drink sip,1449,1467
+(Customer) looks at phone,1467,1483
+(Waiter/ess) takes order,1483,1564
+(Customer) takes drink sip,1564,1585
+(Waiter/ess) brings more food,1645,1655
+(Waiter/ess) leaves table,1655,1672
+(Customer) eats food,1672,1909
+(Both) talk each other,1959,2071
+(Waiter/ess) starts clearing table,2071,2089
+(Customer) looks at phone,2089,2160
+(Waiter/ess) comes to table,2160,2173
+(Waiter/ess) takes payment,2173,2223

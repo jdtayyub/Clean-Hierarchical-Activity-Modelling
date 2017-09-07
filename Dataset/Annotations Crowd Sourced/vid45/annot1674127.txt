@@ -1,0 +1,12 @@
+(Waiter/ess) walks over,24,39
+(Waiter/ess) gives menu,33,46
+(Customer) flips pages,148,284
+(Waiter/ess) walks over,380,401
+(Waiter/ess) takes menu,437,450
+(Customer) drinks,502,528
+(Customer) eats,610,739
+(Customer) looks at phone,745,1139
+(Customer) drinks from cup,1147,1187
+(Waiter/ess) guy takes plate,1340,1423
+(Customer) eats with spoon,2014,2774
+(Both) payment,3123,3429

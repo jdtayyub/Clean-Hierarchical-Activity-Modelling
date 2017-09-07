@@ -1,0 +1,9 @@
+putting on headphones,1,12
+opening laptop,22,33
+typing on laptop,37,94
+writing with pen,98,207
+writing on paper,98,203
+using stapler,261,265
+drinking beverage,268,279
+writing on paper,304,333
+doing work,1,372

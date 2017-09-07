@@ -1,0 +1,20 @@
+opening a box,1,47
+putting the coffee,58,75
+pouring milk,75,142
+adding cereal,142,222
+adding milk,222,258
+going through newspaper,292,355
+having breakfast,355,825
+breakfast action,1,840
+reading newspaper,371,407
+sipping coffee,407,442
+reading newspaper,442,482
+eating breakfast,482,515
+reading newspaper,515,585
+eating breakfast,585,644
+drinking coffee,644,672
+reading newspaper,672,728
+eating breakfast,728,782
+drinking coffee,782,806
+reading newspaper,806,839
+folding newspaper,839,877

@@ -1,0 +1,24 @@
+(Waiter/ess) Gives Menu,3,27
+(Customer) Reads Menu,27,173
+(Customer) Places Order,173,241
+(Customer) Waits for Drink,241,365
+(Waiter/ess) Drinking Water Served,365,379
+(Customer) Drinks Water,379,458
+(Waiter/ess) Food Served,427,450
+(Customer) Takes Food,450,541
+(Customer) Calls Waitress,541,584
+(Waiter/ess) Arrives,584,592
+(Waiter/ess) Gives plate,592,612
+(Customer) Eating Food,612,1064
+(Customer) Drinking Water,1064,1197
+(Customer) Calling Waitress,1197,1212
+(Customer) Instructing Waitress,1212,1290
+(Waiter/ess) Takes Plate Away,1269,1293
+(Waiter/ess) Gives Desert,1333,1356
+(Customer) Eating Apple,1360,1636
+(Customer) Looks for waitress,1636,1705
+(Both) Exchanging card machine,1705,1752
+(Waiter/ess) Clearing Table,1752,1818
+(Customer) Enters Pin,1818,1898
+(Waiter/ess) Card is returned,1898,1940
+(Customer) Pockets Card,1940,1959

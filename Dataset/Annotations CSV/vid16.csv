@@ -1,0 +1,155 @@
+openning coffee pot,1,54
+openning coffee pot,1,48
+Having breakfast,1,1480
+performing breakfast action,23,1716
+Making Coffee,24,243
+Pouring coffee beans,24,104
+putting coffee powder,28,102
+POUR IN CUP,35,68
+unscrewing coffee lid,38,44
+pouring coffee into cup,52,80
+add coffee to water,55,110
+pouring coffee grounds,55,85
+put coffee into cup,55,86
+PUT IN LIQUID,68,129
+putting lid on jar,84,95
+securing coffee top,86,96
+closing coffeepot,86,101
+adding hot water,104,154
+Pouring milk,104,161
+pouring coffee,105,155
+using kettle,105,156
+Add milk to coffee,126,158
+STIRRING,129,173
+put water into cup,137,152
+stirring coffee,152,169
+spoon in mouth,154,194
+stirring with spoon,157,190
+stirring drink,157,180
+mix coffee,158,203
+removing spoon from coffee,170,202
+USE CEAREAL,173,261
+picking up spoon,220,243
+spoon in mouth,221,246
+stirring coffee,225,232
+mix coffee again,229,245
+fixing cereal,240,420
+Making cereal,243,418
+Pouring cereal,243,326
+getting cereal ready,249,392
+picking up cereal,249,324
+use cereal box,254,313
+looking in cereal packet,259,267
+use cereal box,261,328
+POUR CEREAL,261,305
+put cereal into plate,273,317
+pouring cereal,276,313
+pouring cereal into bowl,280,305
+PUT BOX DOWN,305,324
+OPEN POUR MILK,324,371
+Pouring milk,326,418
+picking up milk,329,416
+adding milk to cereals,333,409
+taking milk,339,351
+removing top off milk,343,359
+opening milk box,354,365
+pouring milk,365,397
+Pour the milk into plate,366,390
+pouring milk,368,388
+PUT CAP ON,371,404
+add milk to cereal,376,399
+putting top on milk,394,405
+PUT BOX DOWN,404,426
+Adjusting newspaper,418,474
+reading paper,420,597
+reading newspaper,424,1706
+moving milk,433,445
+moving milk carton,438,454
+unfolding newspaper,449,462
+PICK UP SPOON,452,499
+taking newspaper,453,496
+taking newspaper,455,493
+Reading newspaper,474,1703
+Consuming breakfast,486,1719
+eating cereal,488,512
+spoon in mouth,489,517
+eating cereal,491,511
+having cereals,492,512
+eating breakfast,492,1690
+eat cereal,496,514
+TURN PAGE,499,568
+reading newspaper,510,1710
+read newspaper,526,608
+opening newspaper,538,573
+turning page,551,593
+PICK UP CUP,568,612
+Drinking coffee,596,646
+drinking cofee,598,646
+drinking coffee,600,646
+drinking coffee,601,651
+drinking from cup,605,634
+drinking coffee,606,1463
+drinking coffee,609,645
+PUT CUP DOWN,612,644
+drink coffee,617,650
+EAT FROM BOWL,644,700
+reading paper,648,960
+read newspaper,663,692
+reading newspaper,665,682
+spoon in mouth,688,712
+having cereals,689,706
+eating cereal,689,707
+eat cereal,692,710
+READ PAPER,700,787
+read newpaper,710,902
+reading paper,711,885
+EAT WITH SPOON,787,942
+eating cereal,877,920
+spoon in mouth,880,918
+eating cereal,881,909
+eat cereal,902,917
+read newpaper,917,960
+turning page,930,947
+DRINK FROM CUP,942,967
+Drinking coffee,954,995
+drinking coffee,958,996
+drinking coffee,959,993
+drink coffee,960,994
+drinking cofee,961,995
+PUT CUP DOWN,967,994
+read newspaper,994,1154
+TURN PAGE,994,1073
+reading paper,998,1152
+turning newspaper,1047,1084
+turning newspaper page,1055,1075
+turning page,1060,1071
+EAT FROM BOWL,1073,1171
+eating cereal,1153,1186
+spoon in mouth,1154,1188
+eating cereal,1157,1182
+eat cereal,1160,1180
+reading paper,1187,1433
+read newspaper,1188,1439
+wiping face,1217,1262
+DRINK FROM CUP,1259,1447
+Drinking coffee,1431,1472
+drinking coffee,1432,1475
+drinking coffee,1434,1470
+drinking cofee,1434,1470
+drink coffee,1439,1473
+PUT CUP DOWN,1447,1474
+turning page,1471,1485
+reading paper,1471,1556
+EAT FROM BOWL,1474,1580
+turning newspaper,1477,1501
+read newpaper,1479,1563
+eating cereal,1557,1584
+eating cereal,1560,1588
+spoon in mouth,1564,1596
+eat cereal,1569,1589
+TURN PAGE,1580,1676
+reading paper,1585,1732
+read newspaper,1589,1721
+turning page,1651,1663
+CLOSE MAZINE,1676,1720
+closing paper,1694,1703

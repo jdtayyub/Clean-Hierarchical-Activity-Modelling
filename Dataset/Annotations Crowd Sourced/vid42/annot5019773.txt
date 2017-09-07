@@ -1,0 +1,10 @@
+(Customer) reading menu,83,559
+(Waiter/ess) pouring orange juice,432,447
+(Waiter/ess) taking order,501,556
+(Waiter/ess) taking menu,556,567
+(Customer) eating food,1113,2167
+(Waiter/ess) taking plate ,2315,2391
+(Customer) having a drink,575,618
+(Customer) having a drink ,776,810
+(Customer) having a drink ,2271,2303
+(Customer) having a drink ,2417,2444

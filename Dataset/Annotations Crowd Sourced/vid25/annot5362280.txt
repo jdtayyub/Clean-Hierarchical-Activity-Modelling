@@ -1,0 +1,17 @@
+setting the paper,35,87
+writing on paper,109,316
+writing on paper,653,783
+replacing blue pen,791,811
+marking,830,1412
+sketching,1448,1657
+keying on laptop,1672,1726
+chatting and keying,2185,2742
+taking headphone,2742,2757
+wearing headphone,2757,2785
+talking through mic,2785,2865
+removing headphone,2865,2900
+marking  with pen,2900,2933
+using stapler,2933,3030
+arranging the papers,3030,3124
+arranging the articles,3124,3156
+leaving the table,3156,3205

@@ -1,0 +1,31 @@
+(Waiter/ess) Walking towards table,15,27
+(Waiter/ess) handing the menu,23,37
+(Customer) goes through the menu,44,198
+(Waiter/ess) walked towards customer,200,220
+(Waiter/ess) takes the order,213,250
+(Waiter/ess) walks away,251,265
+(Customer) waiting,285,314
+(Waiter/ess) walks towards table,314,333
+(Waiter/ess) pours drink,333,357
+(Waiter/ess) walks away,357,384
+(Customer) drinks from cup,384,421
+(Waiter/ess) walks with plate,461,475
+(Waiter/ess) serves and walk away,476,505
+(Customer) eating food,505,1166
+(Customer) drinking from cup,1181,1192
+(Waiter/ess) walks towards table,1192,1209
+(Waiter/ess) lifts plate,1209,1237
+(Waiter/ess) walks away,1237,1280
+(Customer) puts cup down,1280,1298
+(Waiter/ess) walks towards table,1298,1317
+(Waiter/ess) walks away,1317,1339
+(Customer) opens lid,1342,1501
+(Customer) eating,1501,1703
+(Customer) drink from cup,1717,1775
+(Waiter/ess) walks to table,1775,1808
+(Waiter/ess) hands device,1802,1819
+(Waiter/ess) walks away,1823,1848
+(Customer) use card machine,1848,1893
+(Customer) removes card,1893,1902
+(Waiter/ess) walks to table,1902,1914
+(Waiter/ess) take machine ,1914,1930

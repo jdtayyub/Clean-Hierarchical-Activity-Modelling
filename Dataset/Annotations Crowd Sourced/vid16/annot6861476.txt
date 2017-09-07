@@ -1,0 +1,14 @@
+Making breakfast,24,418
+Having breakfast,1,1480
+Making Coffee,24,243
+Making cereal,243,418
+Adjusting newspaper,418,474
+Reading newspaper,474,1703
+Consuming breakfast,486,1719
+Pouring coffee beans,24,104
+Pouring milk,104,161
+Pouring cereal,243,326
+Pouring milk,326,418
+Drinking coffee,596,646
+Drinking coffee,954,995
+Drinking coffee,1431,1472

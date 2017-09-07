@@ -1,0 +1,116 @@
+(Customer) checking phone,1,41
+(Both) Ordering from menu,32,180
+(Waiter/ess) gives customer menu,35,69
+(Waiter/ess) giving menu,42,63
+(Waiter/ess) gives customer menu,45,63
+(Customer) looks at menu,54,145
+(Customer) reading menu,57,130
+(Customer) turns menu page,59,94
+(Customer) reviews menu,67,147
+(Waiter/ess) taking order,130,145
+(Customer) orders food,145,186
+(Both) orders food,147,185
+(Waiter/ess) takes order,156,182
+(Customer) checking phone,187,252
+(Customer) checking phone,187,253
+(Customer) checks phone,188,251
+(Customer) checks phone,199,256
+(Waiter/ess) Bringing plate,247,263
+(Waiter/ess) serving food ,253,278
+(Waiter/ess) brings food,256,285
+(Waiter/ess) gives customer food,261,274
+(Customer) BEING SERVED,276,343
+(Customer) eating ,278,321
+(Customer) eats food,284,1061
+(Customer) eats food,286,327
+(Customer) eating sandwich,298,1059
+(Customer) eating sandwich,300,1056
+(Customer) checks phone,323,636
+(Waiter/ess) pours customer water,325,378
+(Waiter/ess) brings water,327,386
+(Waiter/ess) pouring water,330,375
+(Customer) checking phone,335,642
+(Customer) check phone,337,655
+(Waiter/ess) POURING WATER,343,387
+(Waiter/ess) going back,375,393
+(Customer) checking phone,393,598
+(Customer) TEXTING,427,604
+(Customer) continues eating,595,666
+(Customer) eating ,598,615
+(Customer) TAKING A BITE,604,618
+(Customer) holding phone,615,642
+(Customer) eating,642,655
+(Customer) drinks water,650,678
+(Customer) drinking,655,682
+(Customer) checking phone while eating,666,1057
+(Customer) TAKING A DRINK,671,702
+(Customer) checking phone,682,1030
+(Customer) checks phone,696,1053
+(Customer) TAKING A BITE,907,918
+(Customer) eating,1030,1059
+(Customer) TAKING A BITE,1053,1071
+(Customer) finished eating,1057,1182
+(Customer) drinking water,1059,1134
+(Customer) drinks water,1083,1133
+(Customer) TAKING A DRINK,1099,1135
+(Customer) drinking from cup,1102,1126
+(Waiter/ess) bringing bowl,1167,1218
+(Waiter/ess) brings another dish,1167,1254
+(Waiter/ess) gives customer bowl,1175,1215
+(Both) TALKING,1195,1239
+(Waiter/ess) serving food,1200,1237
+(Customer) eating,1237,1313
+(Customer) eats from bowl,1244,1505
+(Customer) eats second dish,1254,1319
+(Customer) eating out bowl,1266,1307
+(Customer) drinks water,1308,1376
+(Customer) drinking,1313,1341
+(Customer) DRINKING,1318,1354
+(Customer) drinks water,1319,1340
+(Customer) drinking cup,1320,1380
+(Customer) drinking,1341,1381
+(Customer) drinks water,1356,1376
+(Customer) drinks water,1415,1459
+(Customer) drinking,1417,1460
+(Customer) TAKING DRINK,1425,1462
+(Customer) drinking from cup,1440,1459
+(Customer) drinks water,1441,1470
+(Customer) eating,1460,1521
+(Customer) eating from bowl,1476,1509
+(Customer) eats,1489,1518
+(Customer) checks phone,1515,1584
+(Customer) checking phone,1517,1583
+(Customer) checks phone,1518,1591
+(Customer) checking phone,1521,1583
+(Customer) calling ,1583,1610
+(Waiter/ess) brings bill,1601,1668
+(Both) Make Bill Payment,1601,1820
+(Both) talking,1610,1644
+(Waiter/ess) gives bill,1615,1662
+(Customer) holding card,1631,1667
+(Both) Making Payment,1631,1800
+(Both) PAYING,1642,1730
+(Both) paying bill,1644,1800
+(Customer) pays bill,1652,1718
+(Waiter/ess) clears table,1662,1684
+(Waiter/ess) bringing credit machine,1662,1721
+(Waiter/ess) clearing table,1663,1735
+(Waiter/ess) removes dishes,1668,1685
+(Waiter/ess) cleaning ,1671,1680
+(Customer) types pin and pays,1685,1715
+(Waiter/ess) cleaning table,1706,1728
+(Waiter/ess) takes more dishes,1715,1735
+(Waiter/ess) clears table,1718,1738
+(Customer) checking phone,1728,1790
+(Customer) checks phone,1730,1834
+(Customer) checking phone,1731,1794
+(Customer) checks phone,1735,1817
+(Waiter/ess) gives card back,1773,1800
+(Waiter/ess) takes bill,1775,1820
+(Waiter/ess) removing card,1780,1795
+(Customer) going ,1790,1829
+(Customer) leaves,1802,1819
+(Customer) walking away,1824,1847
+(Customer) exits,1826,1857
+(Customer) leaves,1827,1857
+(Customer) leave table,1829,1857

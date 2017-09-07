@@ -1,0 +1,20 @@
+cereal box,249,324
+spoon in mouth,154,194
+spoon in mouth,221,246
+spoon in mouth,489,517
+spoon in mouth,688,712
+spoon in mouth,880,918
+spoon in mouth,1154,1188
+spoon in mouth,1564,1596
+putting coffee powder,28,102
+adding hot water,104,154
+stirring with spoon,157,190
+adding milk to cereals,333,409
+taking newspaper,453,496
+having cereals,492,512
+drinking coffee,601,651
+having cereals,689,706
+drinking coffee,958,996
+turning newspaper,1047,1084
+drinking coffee,1432,1475
+turning newspaper,1477,1501

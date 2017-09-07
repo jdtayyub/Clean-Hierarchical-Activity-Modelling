@@ -1,0 +1,8 @@
+opening laptop,10,24
+putting on earphones,23,41
+writting on paper,112,185
+reading from laptop,53,105
+removing earphones,821,832
+closing laptop,832,852
+filling out papers,88,636
+using laptop,645,851

@@ -1,0 +1,10 @@
+wearing headphone,1,23
+working on laptop,23,63
+writing on paper,63,127
+stapling paper,127,194
+drinking water ,194,259
+working on laptop,259,348
+writing on paper,348,449
+typing on laptop,449,487
+writing on paper,487,560
+stapling paper,560,603

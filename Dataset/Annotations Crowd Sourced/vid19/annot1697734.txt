@@ -1,0 +1,11 @@
+Making breakfast,1,278
+Eating breakfast,350,812
+Making tea,1,147
+Drinking tea,403,448
+Drinking tea,634,673
+Drinking tea,776,811
+Pouring Milk,76,147
+Pouring Milk,216,277
+Reading Newspaper,277,833
+Adding tea sachet,1,75
+Adding cereal,150,219

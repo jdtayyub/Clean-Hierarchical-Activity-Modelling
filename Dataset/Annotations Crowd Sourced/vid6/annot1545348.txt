@@ -1,0 +1,23 @@
+adding sugar ,18,64
+adding hot water ,64,120
+stirring ,120,139
+adding cereal ,139,177
+adding milk,177,226
+eating cereal ,226,287
+reading cereal box,287,435
+eating cereal ,435,464
+reading cereal box ,464,531
+eating cereal ,531,620
+drinking coffee ,620,705
+eating ,705,735
+turning newspaper pages,735,821
+eating ,821,838
+reading newspaper ,838,926
+eating ,926,943
+turning newspaper pages ,943,994
+eating ,994,1017
+reading newspaper ,1017,1198
+eating ,1198,1243
+drinking ,1243,1344
+reading newspaper ,1344,1454
+using newspaper,730,1450

@@ -1,0 +1,16 @@
+Pouring instant coffee,33,162
+Pouring hot water,178,308
+Pouring creamer,334,484
+Pouring milk,506,665
+Pouring cereal,669,792
+Stirring cereal,807,871
+Eating cereal,885,1240
+Setting cereal down,1246,1290
+Stirring coffee,1323,1367
+Drinking coffee,1392,1612
+Setting coffee down,1554,1593
+Drinking coffee,1618,1673
+Eating cereal,1698,2172
+Drinking coffee,2297,2462
+Drinking coffee,2822,2871
+Eating cereal,2888,3048

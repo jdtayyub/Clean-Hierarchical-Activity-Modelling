@@ -1,0 +1,114 @@
+(Waiter/ess) GIVING MENU TO CUSTOMER,22,32
+(Customer) checking menu,29,194
+(Waiter/ess) GOING BACK,33,45
+(Customer) reading menu,39,205
+(Customer) LOOK AT MENU,41,202
+(Customer) Reading Menu,41,196
+(Customer) looks at menu,45,199
+(Customer) LOOKING ON MENU,46,109
+(Customer) LOOKING ON MENU,110,149
+(Waiter/ess) COMING WITH PEN,196,214
+(Waiter/ess) takes order,199,288
+(Customer) ORDER FROM MENU,202,285
+(Waiter/ess) taking order,205,288
+(Both) Discussing order,211,283
+(Waiter/ess) Taking order,213,290
+(Both) ORDERING FOOD,215,243
+(Waiter/ess) taking order,215,286
+(Both) placing order,224,296
+(Customer) giving order,229,285
+(Waiter/ess) WRITING DOWN THE ORDER,244,283
+(Waiter/ess) GOING BACK WITH MENU,284,302
+(Customer) START TO EAT,285,542
+(Waiter/ess) taking back menu,286,301
+(Customer) waits for meal,288,450
+(Waiter/ess) Taking away menu,289,300
+(Customer) waiting for order,307,435
+(Customer) waiting for food,329,440
+(Waiter/ess) Bringing order,438,451
+(Waiter/ess) serving food,439,462
+(Waiter/ess) COMING WITH ORDERS,440,467
+(Waiter/ess) offering food spoons,440,460
+(Waiter/ess) delivers meal,450,530
+(Waiter/ess) pouring water,460,515
+(Waiter/ess) pouring drink,462,518
+(Waiter/ess) PORING WATER TO CUP,468,512
+(Waiter/ess) pouring water,482,511
+(Waiter/ess) pouring drink,487,525
+(Waiter/ess) GOING BACK,513,525
+(Customer) talking while eating ,518,1237
+(Customer) STARTING TO EAT,526,534
+(Customer) eating food,528,1231
+(Customer) eating with spoon,528,1221
+(Customer) EATING USING FORK,535,705
+(Customer) eating food,537,1238
+(Customer) eats meal,537,1222
+(Customer) EATING USING FORK,776,838
+(Customer) PICKING UP FOOD,932,978
+(Customer) DRINK FROM CUP,1045,1258
+(Customer) EATING USING FORK,1088,1147
+(Customer) EATING USING FORK,1171,1199
+(Customer) PLACING BACK KNIFE,1201,1224
+(Customer) puts knife on plate,1222,1251
+(Customer) MOVING THE PLATE,1225,1238
+(Customer) drinking water,1231,1274
+(Customer) drinking,1237,1280
+(Customer) PICKING UP CUP,1239,1249
+(Customer) picking up glass,1242,1253
+(Customer) taking a drink,1248,1269
+(Customer) DRINKING FROM CUP,1250,1271
+(Customer) takes drink,1251,1285
+(Customer) drinking from glass,1253,1317
+(Customer) TAKE APPLE,1258,1454
+(Waiter/ess) COMING TO CUSTOMER,1278,1288
+(Waiter/ess) taking plate back,1280,1323
+(Waiter/ess) taking back plate,1283,1321
+(Waiter/ess) clears plate,1285,1325
+(Waiter/ess) taking away plate,1288,1324
+(Waiter/ess) TAKING THE PLATE,1289,1300
+(Waiter/ess) clearing the table,1295,1319
+(Waiter/ess) GOING BACK,1301,1326
+(Customer) cleaning apple,1323,1485
+(Customer) reaches for apple,1325,1352
+(Customer) PICKING UP THE FRUITE,1326,1344
+(Customer) eating an apple,1328,1735
+(Customer) picking up apple,1342,1351
+(Customer) CLEANING THE FRUITE,1345,1465
+(Customer) eating an apple,1348,1759
+(Customer) takes off stem,1352,1458
+(Customer) eats apple,1458,1826
+(Customer) BITE APPLE,1465,1491
+(Customer) EATING THE FRUITE,1466,1726
+(Customer) eating apple,1485,1733
+(Customer) Eating apple,1488,1724
+(Customer) put down apple,1715,1726
+(Customer) KEEPING FRUIT ON TABLE,1727,1756
+(Customer) holding glass,1733,1818
+(Customer) cleaning mouth,1737,1744
+(Customer) DRINK FROM CUP,1745,1845
+(Customer) HOLDING THE CUP,1757,1814
+(Customer) drinking water,1762,1853
+(Customer) picking up glass,1809,1819
+(Customer) taking a drink,1815,1871
+(Customer) PICKING UP THE CUP,1815,1829
+(Customer) drinking,1818,1852
+(Customer) takes drink,1826,1861
+(Customer) DRINKING FROM THE CUP,1830,1853
+(Customer) drinking from glass,1830,1848
+(Both) paying bill,1831,1937
+(Both) PAY WITH CARD,1845,1933
+(Customer) talking,1852,1874
+(Customer) KEEPING THE CUP,1854,1862
+(Waiter/ess) COMING TO CUSTOMER,1858,1860
+(Waiter/ess) HANDING OVER THE MACHINE,1861,1877
+(Waiter/ess) brings the bill,1861,1894
+(Waiter/ess) giving card machine,1869,1894
+(Customer) picking up apple,1872,1881
+(Both) paying order,1875,1919
+(Customer) putting card away,1877,1937
+(Customer) taking apple,1877,1887
+(Customer) SWIPING THE CARD,1878,1931
+(Waiter/ess) picking apple back,1880,1913
+(Both) paying bill,1880,1937
+(Both) talking,1887,1915
+(Customer) pays the bill,1894,1937

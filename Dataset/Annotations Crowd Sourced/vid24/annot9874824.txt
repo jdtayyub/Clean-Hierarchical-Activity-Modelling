@@ -1,0 +1,19 @@
+puts on head phones,49,83
+headphones on table,83,98
+writes on paper,98,497
+manipulates phone,497,534
+writes on paper,534,923
+puts on headphones,954,963
+works on laptop,963,1264
+manipulates cellphone,1250,1284
+writes,1284,1330
+uses phone texting,1330,1644
+takes photo ,1462,1509
+puts phone down,1755,1749
+write on paper,1749,1809
+uses stapler,1809,1975
+takes off headphones,2024,2041
+uses highlighter ,2041,2314
+more writing ,2343,2443
+working on homework,102,1285
+uses cellphone to call,1336,1738

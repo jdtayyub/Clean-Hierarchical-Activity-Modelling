@@ -1,0 +1,19 @@
+pouring hot water ,13,73
+getting coffee,71,98
+getting spoon,97,155
+pouring nescafe,112,157
+getting nescafe,73,199
+stirring drinking coffee,206,312
+grabbing cereal,317,328
+pouring cereal,328,365
+pouring milk,375,419
+eating cereal,422,499
+grabbing apple,503,544
+grabbing mug,544,700
+eating apple,700,908
+eating cereal,918,1156
+eating apple,1156,1586
+drinking coffee,1596,1766
+eating cereal,1766,1896
+eating apple,1896,2016
+drinking cofeee,2076,2136

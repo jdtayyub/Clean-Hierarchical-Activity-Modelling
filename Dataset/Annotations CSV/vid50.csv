@@ -1,0 +1,125 @@
+(Both) Have Lunch Service,1,1909
+(Waiter/ess) walks away,26,36
+(Customer) Reads Menu,27,173
+(Customer) flips menu,30,37
+(Waiter/ess) hands menu,30,37
+(Customer) watching menu,32,163
+(Customer) reads menu,46,81
+(Customer) flipping through menu,52,116
+(Waiter/ess) serving,80,198
+(Customer) flips menu,81,103
+(Customer) reads menu,125,148
+(Customer) CLOSE MENU,138,163
+(Customer) sets aside menu,162,184
+(Waiter/ess) kept the spoon,163,220
+(Waiter/ess) gives silverware,166,207
+(Customer) Places Order,173,241
+(Waiter/ess) take order,183,241
+(Waiter/ess) kept the spoon,187,206
+(Customer) giving order,198,244
+(Both) conversing,212,208
+(Customer) Waits for Drink,241,365
+(Customer) touches phone,335,346
+(Customer) DRINK FROM CUP,358,405
+(Waiter/ess) Drinking Water Served,365,379
+(Customer) drinking,366,404
+(Waiter/ess) kept the glass,367,383
+(Waiter/ess) delivers cup,373,387
+(Customer) picks up cup,379,393
+(Waiter/ess) serve drink,379,387
+(Customer) Drinks Water,379,458
+(Customer) pick up glass,383,432
+(Customer) takes cup,392,400
+(Customer) drinks from cup,393,428
+(Customer) sip drink,397,454
+(Waiter/ess) serving food,404,451
+(Customer) PICK UP SALAD,405,490
+(Customer) drinks from cup,411,428
+(Waiter/ess) Food Served,427,450
+(Waiter/ess) kept the food,432,446
+(Waiter/ess) delivers food,434,443
+(Waiter/ess) serve meal,434,447
+(Customer) drinking water,446,461
+(Customer) Takes Food,450,541
+(Customer) eating,470,1062
+(Customer) eats with fork,477,1059
+(Customer) pick up spoon,479,505
+(Customer) begins eating,484,505
+(Customer) EAT SALAD,490,646
+(Customer) mix the food,505,548
+(Customer) Calls Waitress,541,584
+(Customer) call waiter,548,583
+(Customer) call waitresss,562,578
+(Customer) calls waitress,563,573
+(Waiter/ess) walks to customer,582,587
+(Waiter/ess) Arrives,584,592
+(Waiter/ess) get plate,590,606
+(Waiter/ess) Gives plate,592,612
+(Waiter/ess) kept a plate,594,615
+(Customer) eating,595,954
+(Customer) Eating Food,612,1064
+(Customer) eating food,615,651
+(Customer) CONSUME DRINK,646,1132
+(Customer) mix the food,680,739
+(Customer) eating food,739,792
+(Customer) eating food,817,867
+(Customer) eating food,882,905
+(Customer) eating food,922,943
+(Customer) eating,954,1052
+(Customer) eating food,967,1047
+(Customer) drink water,1052,1127
+(Customer) picks up cup,1059,1137
+(Customer) drinking,1062,1215
+(Customer) Drinking Water,1064,1197
+(Customer) sets food aside,1071,1078
+(Customer) pick up glass,1072,1103
+(Customer) grabs cup,1082,1100
+(Customer) drinking water,1116,1158
+(Customer) drinks from cup,1118,1147
+(Customer) drink,1131,1149
+(Customer) BITE APPLE,1132,1381
+(Customer) drinking water,1166,1208
+(Customer) drink,1195,1202
+(Customer) Calling Waitress,1197,1212
+(Customer) call waitress,1202,1252
+(Customer) Instructing Waitress,1212,1290
+(Customer) pick up glass,1227,1245
+(Waiter/ess) takes order,1256,1279
+(Waiter/ess) serving order,1268,1359
+(Waiter/ess) Takes Plate Away,1269,1293
+(Waiter/ess) pick up plate,1279,1296
+(Waiter/ess) picks up dishes,1281,1292
+(Waiter/ess) Gives Desert,1333,1356
+(Customer) kept a glass,1344,1360
+(Waiter/ess) provide desert,1347,1358
+(Customer) eating apple,1359,1388
+(Customer) Eating Apple,1360,1636
+(Customer) eating apple,1371,1508
+(Customer) eats apple,1373,1512
+(Customer) eating apple,1383,1659
+(Customer) eating apple,1388,1470
+(Customer) bites apple,1392,1633
+(Waiter/ess) applechewing,1470,1520
+(Customer) eats apple ,1491,1497
+(Customer) eating apple,1524,1575
+(Customer) eating apple,1611,1630
+(Customer) Looks for waitress,1636,1705
+(Customer) pick up desert,1659,1675
+(Both) Exchanging card machine,1705,1752
+(Waiter/ess) brings bill and machine,1706,1813
+(Waiter/ess) pick up card,1715,1763
+(Waiter/ess) take card and prepare,1715,1759
+(Waiter/ess) clean table,1746,1828
+(Waiter/ess) Clearing Table,1752,1818
+(Waiter/ess) clear table,1763,1814
+(Customer) using phone,1763,1852
+(Waiter/ess) picks up silverware,1795,1808
+(Both) paid bill,1805,1938
+(Customer) pays bill,1813,1909
+(Customer) Enters Pin,1818,1898
+(Waiter/ess) walks away,1825,1837
+(Customer) use card machine,1829,1859
+(Customer) picks up phone,1845,1852
+(Waiter/ess) Card is returned,1898,1940
+(Waiter/ess) pick up card machine,1909,1939
+(Customer) Pockets Card,1940,1959

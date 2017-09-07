@@ -1,0 +1,12 @@
+Opening Macbook,17,39
+Wearing earphone,61,73
+watching macbook,81,98
+using calculator,313,345
+typing on computer,419,446
+drinking water,460,483
+Reading something,487,499
+using stapler,558,568
+Removing earphone,620,639
+closing macbook,639,659
+Ending activity,659,692
+Working Activity,13,700

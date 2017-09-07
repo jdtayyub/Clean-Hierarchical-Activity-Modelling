@@ -1,0 +1,20 @@
+getting tea bag,28,252
+picking up teapot,281,311
+pouring tea,311,427
+placing teapot down,427,452
+stirring tea,462,506
+moving teabag,507,723
+Making tea,25,510
+grab sandwich,862,903
+eat sandwich,913,2030
+add sugar,2180,2300
+drinks tea,2440,2510
+drinks tea,2920,3280
+drinks tea,2441,3938
+conversing with someone,316,3541
+break sandwich,906,966
+dust crumbs,1826,1906
+finish sandwich,1986,2026
+stirs tea,2276,2386
+tastes tea,2386,2426
+drinks tea,2426,2476

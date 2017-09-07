@@ -1,0 +1,12 @@
+pouring coffee grounds,33,129
+pouring water,180,285
+adding sugar,338,474
+adding milk,512,612
+pouring cereal,678,780
+eating cereal,887,1324
+stiring coffee,1324,1372
+drinking coffee,1377,1691
+eating cereal,1691,2218
+holding coffee/conversing,2297,2827
+drinking coffee,2827,2859
+eating cereal,2891,3071

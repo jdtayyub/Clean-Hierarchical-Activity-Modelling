@@ -1,0 +1,23 @@
+(Customer) reading menu,39,126
+(Customer) calling waiter ,126,138
+(Both) talking ,138,169
+(Both) talking ,169,228
+(Waiter/ess) serving food ,228,277
+(Customer) cutting food,277,372
+(Waiter/ess) serving drink,372,388
+(Customer) eating food ,388,492
+(Customer) drinking ,492,559
+(Customer) eating food,559,759
+(Customer) drinking ,759,785
+(Customer) eating,785,911
+(Customer) calling waiter ,911,932
+(Waiter/ess) cleaning table,932,987
+(Customer) drinking ,987,1046
+(Waiter/ess) serving food ,1046,1083
+(Customer) eating ,1083,1130
+(Customer) checking phone,1130,1313
+(Customer) drinking,1313,1337
+(Customer) calling waiter,1337,1399
+(Both) paying bill,1399,1532
+(Both) talking,1532,1592
+(Both) Having Lunch,1,1600

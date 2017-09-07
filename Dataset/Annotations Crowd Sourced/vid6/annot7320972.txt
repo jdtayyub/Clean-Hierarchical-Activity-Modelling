@@ -1,0 +1,17 @@
+teabag in cup,15,66
+pour water,72,116
+stir tea,129,140
+pour cereal,142,174
+pour milk,190,214
+eat cereal,243,1242
+read cereal box,289,535
+drink tea,631,700
+read newspaper,746,1201
+drink tea,1245,1438
+read newspaper,1347,1452
+pick up teabags,19,31
+pick up teapot,67,75
+put down teapot,115,123
+open milk,192,200
+close milk,215,225
+stir cereal,239,255

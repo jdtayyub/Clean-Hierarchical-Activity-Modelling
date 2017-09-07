@@ -1,0 +1,26 @@
+having breakfast,1,930
+taking the coffee,14,16
+opening the coffee,17,30
+pouring the coffee,32,57
+closing the coffee,57,68
+taking the teapot,109,118
+pouring water in cup,119,141
+putting back the teapot,147,149
+taking the spoon,152,160
+stiring the coffee,161,175
+putting back the spoon,182,185
+drinking coffee,186,207
+taking the cereals,217,235
+pouring the cereals,236,273
+putting back the cereals,278,283
+taking the milk,284,294
+opening the milk,293,310
+pouring the milk,311,324
+closing the bottle,325,332
+taking the newspaper,346,357
+opening the newspaper,361,375
+turning a newspaper page,385,397
+eating cereals,409,441
+drinking coffee,449,482
+reading the newspaper,483,546
+eating cereals,555,576

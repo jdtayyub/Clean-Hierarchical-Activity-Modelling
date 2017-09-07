@@ -1,0 +1,11 @@
+headphone listen,25,40
+writing,65,75
+laptop use,87,153
+writing,157,285
+watch laptop,299,582
+watch laptop,659,750
+laptop keyboard typing,809,951
+laptop use,974,1139
+taken note,1137,1188
+laptop and note closed,1189,1255
+went outside,1260,1288

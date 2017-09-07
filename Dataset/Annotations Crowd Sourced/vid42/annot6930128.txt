@@ -1,0 +1,33 @@
+(Waiter/ess) giving menu,19,36
+(Customer) reading menu,36,61
+(Both) talking ,61,71
+(Customer) reading menu,71,385
+(Both) talking ,385,407
+(Waiter/ess) opening bottle,407,433
+(Waiter/ess) pouring in glass,433,467
+(Waiter/ess) taking order,467,563
+(Customer) drinking ,563,599
+(Customer) talking,599,735
+(Customer) drinking,735,759
+(Customer) drinking ,776,826
+(Customer) talking,848,1032
+(Waiter/ess) serving food,1032,1061
+(Customer) eating,1061,1095
+(Customer) eating,1095,1226
+(Customer) eating food,1226,1267
+(Customer) eating food,1267,1396
+(Customer) talking ,1396,1443
+(Customer) talking ,1443,1580
+(Customer) eating food,1580,1644
+(Customer) eating food,1644,1915
+(Customer) eating food,1915,2085
+(Customer) talking,2085,2108
+(Customer) looking left,2108,2221
+(Customer) drinking ,2221,2289
+(Waiter/ess) taking plate,2289,2317
+(Both) talking ,2317,2388
+(Waiter/ess) going back ,2376,2395
+(Both) laughing,2395,2413
+(Customer) drinking,2413,2446
+(Customer) talking ,2446,2500
+

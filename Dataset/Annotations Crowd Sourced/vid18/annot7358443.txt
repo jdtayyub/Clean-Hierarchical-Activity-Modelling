@@ -1,0 +1,22 @@
+taking coffee powder,20,62
+opening the milk box,84,102
+pouring water,120,144
+stirring with spoon,161,180
+sipping the tea,191,211
+adding powder,224,280
+pouring milk,298,336
+opening newspaper,353,368
+reading newspaper,378,417
+eating,415,436
+sipping tea,451,492
+reading newspaper,503,556
+eating ,556,579
+reading newspaper,579,596
+drinking tea,596,626
+reading newspaper,632,693
+eating ,693,728
+drinking tea,728,777
+reading newspaper,777,845
+drinking tea,845,889
+reading newspaper,899,927
+breakfast time,1,930

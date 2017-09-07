@@ -1,0 +1,13 @@
+putting headphones on,70,100
+grabbing a pen ,104,116
+reading the paper,158,169
+writing,240,528
+Replacing the stapler,536,560
+writing on the paper,589,1068
+writing,1117,2194
+Using the laptop,2239,2464
+adjusting headphones/mic,2482,2528
+talking on the mic,2533,2779
+ending call,2767,2797
+removing headphones,2826,2879
+doing office work,1,2879

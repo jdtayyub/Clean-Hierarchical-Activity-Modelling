@@ -1,0 +1,177 @@
+having breakfast,1,4170
+sitting in chair,1,4169
+reaching the mug,47,58
+grabbing the mug,66,68
+grabbing yellow box,68,77
+touching the box,71,92
+touching the box,71,93
+moves yellow box,74,89
+moving yellow box,77,90
+makes breakfast,85,1731
+moving coffee,86,122
+moving coffee jar,88,109
+grabs container,89,118
+open a jar,91,137
+openning coffee jar,93,167
+opens container,108,145
+opening coffee jar,108,136
+taking lid off,132,138
+pouring coffee,136,237
+coffee powder to glass,150,234
+pours powder,155,235
+pouring coffee,167,240
+closing coffee jar,240,308
+close the jar,243,304
+putting lid on,243,303
+caps container,245,305
+moving coffee jar,300,311
+grabbing teapot,305,383
+taking teapot,308,362
+grabs teapot,310,350
+Pouring hot water,312,531
+teapot water to glass,313,511
+pours teapot,338,506
+pours water,350,500
+pouring hot water,358,501
+pouring water,362,511
+puts teapot down,500,519
+moving teapot,501,520
+taking sugar,511,613
+picks up spoon,532,578
+grabbing sugar,532,582
+grabs sugar packet,535,555
+Pouring sweetener,543,754
+take sugar,546,558
+adds sugar,548,1054
+shaking sugar,563,586
+shake and open it,565,666
+tearing sugar pack,579,689
+opens sugar packet,580,674
+pours sugar packet,633,759
+opening sugar,634,674
+add sugar to glass,666,730
+pouring sugar,674,728
+pours sugar,677,718
+pouring sugar,679,718
+put packet down,718,723
+grabs spoon,721,744
+taking spoon,728,742
+mix sugar using spoon,730,905
+stirring coffee,736,899
+mixing coffee,742,885
+stirs tea,744,872
+stir and test,759,1054
+Stirring coffee,759,911
+moves mug,874,891
+tasting coffee,885,972
+taste coffee,905,977
+taste tea,911,962
+Tasting the coffee,916,1031
+tasting coffee,919,969
+talking somebody,972,1053
+taste tea,1006,1019
+putting spoon back,1009,1059
+set spoon down,1021,1055
+grabbing cereal,1049,1119
+putting down spoon,1053,1066
+bag out of box,1054,1112
+grabs cereal,1065,1123
+add food to bowl,1067,1175
+taking cereal,1067,1131
+Pouring cereal,1102,1248
+poors cearal ,1117,1142
+putting cereal,1119,1179
+pours cereal,1126,1168
+pouring cereal into bowl,1131,1163
+putting down cereal,1163,1233
+put cereal back,1171,1221
+close the cover,1197,1237
+eating cereal,1222,4169
+grabs milk,1231,1251
+taking milk box,1233,1251
+add milk to bowl,1237,1386
+pours milk,1251,1391
+openning milk box,1251,1289
+pours milk,1253,1377
+Pouring milk,1253,1421
+pouring milk box,1289,1383
+closing milk box,1383,1426
+puts milk down,1401,1421
+grabs spoon,1425,1442
+taking spoon,1426,1446
+mixes up cereal,1432,1643
+mix content in bowl,1442,1632
+Eating cereal,1452,2064
+spoons cereal,1452,1642
+mixing while talking,1457,1892
+spoons cereal,1726,1884
+mix it,1738,1792
+consuimg breakfast,1750,4170
+eat cereal,1886,2065
+eating breakfast,1892,4169
+eats cereal,1895,4171
+eat food,1900,2002
+eating food,2013,2065
+Drinking coffee,2071,2317
+move mug,2082,2129
+take the mug,2082,2126
+taking cup,2093,2141
+taking cup,2094,2118
+putting down the cup,2119,2137
+point to milk,2131,2144
+pointing at the box,2132,2146
+putting down cup,2141,2186
+holding the cup,2144,2183
+turn mug,2145,2180
+looking at the box,2179,2199
+turn milk,2181,2196
+drinking coffee,2186,2297
+drinking tea,2195,2258
+drinking coffee,2200,2274
+pickup mug,2206,2228
+drinking coffee,2208,2288
+drink tea,2228,2258
+put mug down,2255,2283
+talking and mixing,2274,2371
+grab spoon,2286,2296
+spoon cereal,2293,2362
+Eating cereal,2337,2659
+eat cereal,2362,2647
+eating food,2371,2449
+eating and talking,2372,2665
+eating food,2541,2585
+eating food,2614,2646
+Drinking coffee,2670,2871
+drinking coffee,2674,2758
+drink tea,2677,2759
+drinks from mug,2681,2762
+drinking tea,2685,2741
+eating and talking,2759,3365
+eat cereal,2779,2856
+eating food,2783,2854
+Eating cereal,3116,3343
+eat cereal,3145,3357
+eating food,3177,3222
+eating food,3245,3296
+Drinking coffee,3354,3453
+drinking coffee,3366,3447
+pickup mug,3367,3388
+drinks from mug,3369,3444
+drinking tea,3387,3438
+drink tea,3391,3431
+eating,3448,3818
+eat cereal,3461,3775
+Eating cereal,3463,3790
+eating food,3469,3582
+eating food,3638,3681
+eating food,3706,3764
+wipes mouth,3775,3811
+Drinking coffee,3796,3902
+drinking,3819,4093
+drinks tea,3821,3896
+drinks from mug,3832,3905
+drinking tea,3834,3879
+eats cereal,3900,4187
+Eating cereal,3906,4158
+eating food,3921,4063
+eating food,4085,4182

@@ -1,0 +1,13 @@
+arranging paper,1,43
+opening laptop,43,62
+wearing headphone,62,78
+working on laptop,78,142
+writing on paper,142,171
+typing on laptop,171,272
+writing on paper,272,323
+working on laptop,323,804
+writing on paper,804,835
+working on laptop,835,893
+closing laptop,885,906
+stapler using,906,935
+removed headphone,935,950

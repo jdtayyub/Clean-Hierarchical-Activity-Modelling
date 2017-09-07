@@ -1,0 +1,315 @@
+(Customer) Waiting for Menu,1,22
+(Customer) puts phone down,20,28
+(Both) TAKING MAIN COURSE ORDER,20,305
+(Waiter/ess) COMING WITH MENU,21,37
+(Both) EATING AT RESTAURANT,26,2959
+(Waiter/ess) giving menu,27,46
+(Waiter/ess) hands off menu,28,36
+(Customer) RECEIVED MENU,28,45
+(Customer) Reads menu,30,121
+(Waiter/ess) HANDING OVER MENU,38,47
+(Customer) looking through menu,42,78
+(Waiter/ess) leaves table,44,57
+(Customer) moving menu paper,45,55
+(Customer) LOOKING AT MENU,45,185
+(Customer) reading menu,46,81
+(Customer) checking phone,46,122
+(Customer) Ordering Food,47,193
+(Waiter/ess) GOING BACK,48,55
+(Customer) flips menu page,50,54
+(Customer) Checking Phone,55,96
+(Customer) looks at menu,56,69
+(Customer) LOOKING ON MENU,56,79
+(Customer) reaches for phone,70,73
+(Customer) using mobile,73,86
+(Customer) interacts with phone,74,130
+(Customer) looks at phone,77,85
+(Customer) Playing on phone,78,133
+(Customer) CHECKING HER PHONE,81,133
+(Customer) reading menu again,81,186
+(Waiter/ess) Walks in again,121,189
+(Customer) reading menu,122,183
+(Customer) looks at menu,131,189
+(Customer) Flicking through menu,133,187
+(Customer) LOOKING ON MENU,135,179
+(Customer) reading menu,137,176
+(Waiter/ess) approaches table,175,189
+(Waiter/ess) COMING WITH CUTLERY,180,211
+(Customer) gives order,182,201
+(Waiter/ess) taking order,183,292
+(Waiter/ess) takes order,185,285
+(Waiter/ess) taking order,186,284
+(Waiter/ess) Takes the order,189,254
+(Waiter/ess) places silverware,193,219
+(Waiter/ess) sets silverware,207,218
+(Waiter/ess) kept spoons down,207,218
+(Waiter/ess) PUTTING DOWN CUTLERY,212,227
+(Customer) checking phone,213,376
+(Customer) ordering food,214,294
+(Customer) OREDRING FOOD,228,240
+(Waiter/ess) WRITING ORDER,239,278
+(Customer) adjusts phone,240,288
+(Customer) gives order,240,253
+(Waiter/ess) writing on the paper,240,254
+(Waiter/ess) WRITING THE ORDER ,241,275
+(Waiter/ess) Walks away with menu,254,298
+(Waiter/ess) reaches for menu,273,277
+(Waiter/ess) GOING BACK WITH MENU,276,301
+(Waiter/ess) removes menu,278,289
+(Waiter/ess) picking up menu,281,291
+(Customer) checking phone,284,351
+(Customer) interacts with phone,288,813
+(Waiter/ess) takes menu,290,304
+(Waiter/ess) leaves table,291,303
+(Customer) adjusts spoon,293,311
+(Customer) Browses cell phone,298,388
+(Waiter/ess) takes menu,298,305
+(Customer) USING HER PHONE,302,460
+(Customer) USING CELL PHONE,306,798
+(Customer) On phone,309,312
+(Customer)  texting,356,800
+(Customer) types on phone,358,453
+(Customer) using phone,367,464
+(Customer) checking phone,367,481
+(Customer) using mobile,369,393
+(Customer) checking phone,376,552
+(Customer) texting,383,470
+(Customer) Browses cell phone,388,552
+(Customer) typing on phone,481,793
+(Customer) using phone,502,802
+(Customer) TYPING ON HER PHONE,503,791
+(Customer) types on phone,508,797
+(Customer) texting,515,792
+(Customer) Texts on cell phone,552,791
+(Waiter/ess) serving food,552,807
+(Waiter/ess) approaches table,785,795
+(Both) MAIN COURSE,790,1830
+(Waiter/ess) Serves food and drink,791,839
+(Waiter/ess) DELIVERING FOOD,791,853
+(Waiter/ess) bringing food to table,792,825
+(Waiter/ess) COMING WITH FOOD,792,802
+(Waiter/ess) serving food ,793,823
+(Waiter/ess) kept plate down,795,805
+(Waiter/ess) delivers food/drink,800,862
+(Waiter/ess) PLACING THE FOOD,803,829
+(Waiter/ess) pouring drink,807,836
+(Waiter/ess) brings food,815,841
+(Waiter/ess) kept cup down,817,821
+(Waiter/ess) pouring juice in cup,820,828
+(Waiter/ess) POURING DRINK,820,840
+(Waiter/ess) pouring drink ,823,843
+(Waiter/ess) pouring drink,824,842
+(Waiter/ess) POURING WATER INTO CUP,830,843
+(Customer) checking phone,836,971
+(Waiter/ess) Pours drink,839,853
+(Waiter/ess) kept bottle down,842,847
+(Waiter/ess) going back,843,856
+(Waiter/ess) GOING BACK,845,860
+(Customer) Browses on phone,853,964
+(Customer) checking phone,856,967
+(Customer) CHECKING HER PHONE,862,964
+(Customer) using phone,864,968
+(Customer) texting,869,972
+(Customer) on phone,902,980
+(Customer) picking up fork,962,969
+(Customer) Starts eating sandwich,964,1010
+(Customer) PICKING UP FORK KNIFE,965,984
+(Customer) eating food,967,1076
+(Customer) eating food,971,1193
+(Customer) EATING FOOD,979,1652
+(Customer) eating,980,1195
+(Customer) eating,983,1187
+(Customer) TAKING THE FOOD,985,1007
+(Customer) eating,988,1516
+(Customer) picking up snack ,992,1000
+(Customer) eating,1005,1013
+(Customer) EATING THE FOOD,1008,1034
+(Customer) Cuts into sandwich,1010,1113
+(Customer) CHEWING THE FOOD,1037,1048
+(Customer) eating,1046,1053
+(Customer) EATING THE FOOD,1049,1062
+(Customer) kept snack down,1059,1061
+(Customer) picking up spoon,1061,1063
+(Customer) CUTTING WITH KNIFE,1064,1107
+(Customer) cutting food ,1076,1108
+(Customer) eating,1106,1113
+(Customer) EATING WITH FORK,1108,1129
+(Customer) eating food,1108,1186
+(Customer) drinks the juice,1113,1210
+(Customer) PICKING FOOD WITH FORK,1130,1168
+(Customer) EATING USING FORK,1169,1178
+(Customer) eating,1170,1173
+(Customer) PICKING UP CUP,1179,1192
+(Customer) drinking ,1186,1257
+(Customer) drinking,1187,1255
+(Customer) picking up cup,1189,1192
+(Customer) drinking,1193,1222
+(Customer) DRINKING FROM CUP,1194,1247
+(Customer) drinks,1195,1272
+(Customer) drinking from cup,1197,1212
+(Customer) Takes more sips,1210,1253
+(Customer) eating,1222,1439
+(Customer) drinking from cup,1235,1238
+(Customer) KEEPING BACK CUP,1248,1261
+(Customer) kept down cup,1252,1258
+(Customer) Continues eating,1253,1391
+(Customer) eating food ,1257,1498
+(Customer) CUTTING FOOD,1262,1317
+(Customer) picking up spoon,1264,1269
+(Customer) eating,1272,1497
+(Customer) finishes food,1278,1506
+(Customer) eating,1314,1319
+(Customer) EATING FOOD,1318,1326
+(Customer) PICKING FOOD ,1327,1350
+(Customer) eating,1350,1353
+(Customer) EATING FOOD,1351,1360
+(Customer) PICKING WITH FORK,1361,1394
+(Customer) Empties the plate,1391,1516
+(Customer) EATING WITH FORK,1398,1420
+(Customer) eating,1401,1411
+(Customer) FINISHING THE FOOD,1427,1494
+(Customer) drinking,1439,1553
+(Customer) eating,1470,1476
+(Customer) kept spoon down,1487,1493
+(Customer) picking up plate,1494,1498
+(Customer) kept plate down,1498,1502
+(Customer) drinking ,1498,1654
+(Customer) MOVING THE PLATE,1499,1510
+(Customer) PICKING UP CUP,1512,1524
+(Customer)s drinks,1513,1653
+(Customer) picking up cup,1515,1527
+(Customer) Drinks more juice,1516,1654
+(Customer) drinking,1516,1686
+(Customer) drinking,1521,1653
+(Customer) DRINKING FROM CUP,1525,1579
+(Customer) drinking from cup,1533,1551
+(Customer) talking,1553,1833
+(Customer) CHEWING FOOD,1582,1619
+(Customer) DRINKING FROM CUP,1620,1637
+(Customer) KEEPING BACK CUP,1639,1659
+(Customer) kept down cup,1646,1654
+(Customer) Takes more sips,1654,1714
+(Customer) checking phone ,1654,1692
+(Customer) TAKING HER PHONE,1661,1683
+(Customer) picking up mobile,1670,1677
+(Customer) KEEPING BACK THE PHONE,1671,1689
+(Customer) looking at phone,1688,1698
+(Customer) PICKING UP THE CUP,1690,1699
+(Customer) picking up cup,1692,1698
+(Customer) drinking ,1692,1729
+(Customer) drinking,1698,1730
+(Customer) DRINKING FROM CUP,1702,1719
+(Customer) Drinks,1704,1731
+(Customer) drinking from cup,1707,1711
+(Customer) Waits for waiter,1714,1839
+(Customer) KEEPING BACK CUP,1720,1731
+(Customer) kept cup down,1725,1731
+(Customer) talking ,1729,1887
+(Customer) CHEWING AND RELAXING,1732,1828
+(Customer) waits,1762,1893
+(Customer) talking,1833,1911
+(Waiter/ess) Walks in again,1839,1901
+(Customer) LOOKING FOR WAITRESS,1860,1888
+(Both) TAKING DESERT ORDER,1860,1992
+(Waiter/ess) taking order ,1887,1971
+(Waiter/ess) walking to table,1888,1898
+(Waiter/ess) COMING,1889,1906
+(Waiter/ess) Takes the order,1901,1974
+(Both) talks,1901,1985
+(Waiter/ess) takes plate,1904,1981
+(Customer) PLACED FOOD ORDER,1905,1971
+(Both) talking,1906,1969
+(Customer) ORDERING,1907,1944
+(Waiter/ess) cleanig table,1911,1987
+(Waiter/ess) WRITING ON PAPER,1945,1968
+(Waiter/ess) takes food,1964,1985
+(Waiter/ess) clearing plate,1969,1986
+(Waiter/ess) PICKING UP PLATE,1969,1981
+(Waiter/ess) taking plate back ,1971,1983
+(Waiter/ess) Clears table and goes,1974,1988
+(Waiter/ess) GOING BACK,1982,1992
+(Customer) drinking ,1983,2027
+(Customer) Drinks,1985,2028
+(Customer) drinking,1987,2026
+(Customer) Drinks more juice,1988,2024
+(Customer) TAKING CUP,1993,1998
+(Customer) drinking,1995,2035
+(Customer) DRINKING FROM CUP,1999,2016
+(Customer) KEEPING BACK THE CUP,2017,2024
+(Customer) talking,2026,2083
+(Customer) talking ,2027,2213
+(Customer) talking,2035,2150
+(Customer)s talks to camera,2036,2105
+(Customer) talking,2059,2080
+(Waiter/ess) serving food,2083,2215
+(Customer) waits,2120,2198
+(Waiter/ess) Brings ice cream,2145,2219
+(Waiter/ess) taking food to table,2193,2213
+(Waiter/ess) COMING WITH ORDER,2197,2216
+(Both) DESERT COURSE,2197,2777
+(Customer) gets food,2204,2257
+(Waiter/ess) serving icecream,2213,2252
+(Customer) eating,2215,2557
+(Waiter/ess) enters with desert cup,2217,2227
+(Waiter/ess) GOING BACK,2217,2240
+(Waiter/ess) Leaves after serving,2219,2248
+(Customer) STARTING TO EAT,2241,2251
+(Customer) eating,2244,2710
+(Customer) EATING FOOD,2245,2707
+(Customer) Starts eating ice cream,2248,2302
+(Customer) EATING ,2252,2269
+(Customer) eating icecream ,2252,2706
+(Customer) eating dessert,2255,2756
+(Customer) eats,2257,2716
+(Customer) CHEWING,2270,2286
+(Customer) EATING,2288,2358
+(Customer) Eats more ice cream,2302,2496
+(Customer) LOOKING ON THE PACKET,2359,2378
+(Customer) EATING USING SPOON,2379,2447
+(Customer) TAKING WITH SPOON,2449,2479
+(Customer) EATING USING SPOON,2481,2546
+(Customer) Puts ice cream down,2496,2710
+(Customer) TALKING,2548,2564
+(Customer) talking,2557,2850
+(Customer) EATING,2566,2597
+(Customer) TAKING WITH SPOON,2599,2652
+(Customer) EATING USING SPOON,2654,2680
+(Customer) KEEPING BACK THE PACKET,2681,2713
+(Customer) Waits for waiter,2710,2809
+(Customer) CHEWING AND TALKING,2715,2777
+(Customer) waits,2734,2838
+(Customer) LOOKING FOR WAITRESS,2779,2823
+(Waiter/ess) Brings in bill,2809,2851
+(Waiter/ess) COMING WITH BILL,2825,2843
+(Both) PAYMENT,2825,3038
+(Both) making payment,2827,3044
+(Customer) paying bill and typing pin ,2827,2953
+(Customer)s pays (Waiter/ess),2837,2896
+(Customer) pays,2838,2933
+(Customer) RETRIEVING CREDIT CARD,2839,2854
+(Customer) TAKING OUT CARD,2844,2856
+(Waiter/ess) cleaning table,2850,2911
+(Customer) Makes the payment,2851,2951
+(Customer) MADE PAYMENT,2854,2956
+(Waiter/ess) SWIPING THE CARD,2858,2885
+(Customer) LOOKING AT PHONE,2867,2902
+(Waiter/ess) Clears table and leaves,2873,2931
+(Waiter/ess) HANDING OVER THE MACHINE,2886,2899
+(Customer) ENTERING THE PIN,2901,2943
+(Waiter/ess) takes food,2902,2931
+(Waiter/ess) CLEARING DISHES,2904,2934
+(Waiter/ess) cleaning table ,2908,2932
+(Customer) paying bill,2911,3010
+(Waiter/ess) clearing table,2915,2929
+(Waiter/ess) cleans up,2927,2935
+(Customer) waits,2941,3044
+(Customer) KEEPING MACHINE ON TABLE,2945,2955
+(Customer) WAITING FOR WAITRESS,2956,2988
+(Customer) looking at  phone,2982,3006
+(Waiter/ess) COMING,2989,3002
+(Waiter/ess) Returns card and leaves,2995,3034
+(Waiter/ess) return card,2996,3026
+(Customer) GIVING BACK THE CARD,3003,3023
+(Waiter/ess) card back,3010,3044
+(Waiter/ess) returning card,3014,3028
+(Waiter/ess) GOING BACK WITH MACHINE,3024,3038

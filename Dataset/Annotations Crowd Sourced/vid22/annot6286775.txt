@@ -1,0 +1,5 @@
+Picking the pen ,22,33
+Using stapler,139,211
+Typing on laptop ,221,1214
+Writing on paper ,1333,2213
+Typing on laptop,2301,2941

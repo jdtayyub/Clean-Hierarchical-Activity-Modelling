@@ -1,0 +1,9 @@
+(Waiter/ess) brings menu,26,78
+(Customer) reads menu,77,234
+(Both) places order,247,443
+(Waiter/ess) pours drink,392,483
+(Waiter/ess) writes order,483,561
+(Customer) drinks from cup,585,606
+(Waiter/ess) bring plate,1046,1057
+(Customer) eats salad,1128,2147
+(Waiter/ess) takes plate,2304,2330

@@ -1,0 +1,26 @@
+making tea,446,506
+eating breakfast,662,693
+reading the paper,771,1071
+drinking tea,1146,1190
+eating while reading,1427,1681
+talking on the phone,1672,2134
+adding tea to cup,35,254
+pouring water,303,351
+pouring creamer,380,426
+opening yoguart,548,623
+turning pages,900,1050
+taking a sip,1113,1179
+reading a article,1246,1432
+eating yoguart,1580,1630
+answering the phone,1642,1675
+sipping tea,1695,1791
+talking on the phone,1791,1852
+taking a bite,1864,1928
+finishing breakfast,1928,1989
+talking and eating,1989,2050
+hanging up,2050,2136
+adding tea,45,177
+adding water,177,309
+adding cream,309,401
+stirring tea,401,490
+opening breakfast,500,565

@@ -1,0 +1,12 @@
+Listening on earphones,36,313
+Plugging earphones,10,55
+Starting Music,73,153
+Powering on laptop,76,124
+Working,150,290
+Browsing on laptop,285,1143
+Working,1138,1180
+Closing Laptop,1188,1206
+Plugging out earphones,1208,1215
+Arranging work,1215,1249
+Walking away,1261,1291
+Picking up pen,49,62

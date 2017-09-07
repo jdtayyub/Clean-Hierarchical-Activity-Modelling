@@ -1,0 +1,15 @@
+eating an apple,166,1751
+drinking in a cup,312,361
+pouring juice,1810,1855
+drinking in a cup,1857,1888
+pouring cereals,2001,2045
+eating cereals,2216,2434
+taking a bottle,23,30
+opening the bottle,31,46
+pouring milk,49,64
+closing the bottle,64,75
+taking an apple,84,95
+cleaning the apple,92,160
+chewing an apple,184,256
+having breakfast,1,2443
+drinking juice,1025,1047

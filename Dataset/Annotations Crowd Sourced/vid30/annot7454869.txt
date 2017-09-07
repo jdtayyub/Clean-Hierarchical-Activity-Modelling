@@ -1,0 +1,10 @@
+Opening Macbook,27,38
+Putting earphone,49,72
+taking pen,116,128
+writing something,181,387
+fixing headphone,389,410
+drinking water,508,525
+reading something,525,559
+using stapler,607,629
+puting usb,660,680
+typing something,704,735

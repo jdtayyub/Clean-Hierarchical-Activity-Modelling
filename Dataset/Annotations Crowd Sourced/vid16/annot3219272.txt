@@ -1,0 +1,34 @@
+picking up coffee,25,103
+unscrewing coffee lid,38,44
+pouring coffee into cup,52,80
+putting lid on jar,84,95
+pouring coffee,105,155
+stirring coffee,152,169
+removing spoon from coffee,170,202
+picking up spoon,220,243
+stirring coffee,225,232
+picking up cereal,249,324
+looking in cereal packet,259,267
+pouring cereal into bowl,280,305
+picking up milk,329,416
+removing top off milk,343,359
+pouring milk,368,388
+putting top on milk,394,405
+unfolding newspaper,449,462
+moving milk,433,445
+eating cereal,488,512
+drinking coffee,600,646
+turning page,551,593
+eating cereal,689,707
+reading newspaper,510,1710
+eating cereal,877,920
+turning page,930,947
+drinking coffee,959,993
+turning page,1060,1071
+eating cereal,1157,1182
+wiping face,1217,1262
+drinking coffee,1434,1470
+turning page,1471,1485
+eating cereal,1560,1588
+turning page,1651,1663
+closing paper,1694,1703

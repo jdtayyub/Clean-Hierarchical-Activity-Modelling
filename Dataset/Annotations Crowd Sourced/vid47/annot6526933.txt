@@ -1,0 +1,21 @@
+(Waiter/ess) Brings menu,26,39
+(Customer) Reads menu,39,208
+(Waiter/ess) Takes order,210,253
+(Customer) Slides menu away,268,289
+(Waiter/ess) Brings water,322,354
+(Customer) Hands over menu,367,372
+(Waiter/ess) Takes menu away,372,376
+(Customer) Drinks water,382,421
+(Waiter/ess) Brings food,466,486
+(Customer) Picks up fork,476,481
+(Customer) Eats food,485,1151
+(Customer) Drinks water,1174,1309
+(Waiter/ess) Takes away food,1219,1261
+(Waiter/ess) Brings dessert,1304,1319
+(Customer) Opens dessert,1320,1380
+(Customer) Eat dessert,1483,1707
+(Customer) Drinks water,1718,1769
+(Waiter/ess) Takes dessert away,1812,1822
+(Waiter/ess) Leaves payment device,1802,1822
+(Customer) Pays with device,1822,1903
+(Waiter/ess) Takes payment device,1906,1914

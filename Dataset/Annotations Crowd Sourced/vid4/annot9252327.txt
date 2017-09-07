@@ -1,0 +1,16 @@
+Breakfast Service,1,4933 
+Moving napkins,57,120
+Pouring instant coffee,125,400
+Pouring hot water,416,573
+Making Coffee,125,650
+Stirring coffee,599,649
+Drinking coffee,661,854
+Eating with spoon,851,948
+Opening sandwhich,948,1302
+Eating sandwhich,1312,2193
+Drinking coffee,2201,2397
+Eating sandwich,2410,4335
+Drinking coffee,4357,4684
+Moving sandwich,54,140
+Setting down spoon,898,963
+Peeling label open,1047,1150

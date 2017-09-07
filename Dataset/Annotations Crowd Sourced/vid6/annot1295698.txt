@@ -1,0 +1,14 @@
+holding box,17,37
+making tea,61,114
+adding cereal,136,175
+adding milk,195,213
+stirring ,242,271
+eating,271,283
+reading label,301,431
+eating,541,575
+drinking,637,703
+reading newspaper,764,1195
+eating ,1214,1222
+drinking something,1256,1440
+sitting ideal,1459,1460
+having breakfast,1,1446

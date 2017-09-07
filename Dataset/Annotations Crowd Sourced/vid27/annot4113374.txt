@@ -1,0 +1,21 @@
+Opening laptop,5,32
+Putting on headphones,36,84
+Picking up pen,104,121
+Adjusting papers,121,150
+Writing with pen,169,204
+Checking watch,204,220
+Writing with pen,220,349
+Using calculator,349,384
+Writing with pen,384,393
+Typing on laptop,395,443
+Putting pen down,443,446
+Picking pen drive,446,467
+Plugging pen drive,467,507
+Typing on laptop,507,530
+Operating laptop,507,531
+Drinking from cup,537,563
+Operating laptop,564,591
+Using stapler,612,653
+Using stapler,672,703
+Puting down headphone,724,732
+Closing laptop,732,742

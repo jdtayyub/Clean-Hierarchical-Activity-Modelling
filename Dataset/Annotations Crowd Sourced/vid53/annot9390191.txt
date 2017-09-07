@@ -1,0 +1,8 @@
+(Customer) reading a menu,64,322
+(Customer) having a drink ,490,522
+(Customer) having lunch,489,2053
+(Waiter/ess) clearing the dishes,2048,2070
+(Customer) eating a yogurt,2412,2818
+(Customer) using card machine ,2955,2991
+(Customer) having a drink,497,524
+(Waiter/ess) clearing dishes,2859,2882

@@ -1,0 +1,12 @@
+(Both) Pre-order of Drink,1,387
+(Both) Serve Drink and take meal order,387,1033
+(Both) Service and eating,1033,2218
+(Both) End of service and clearing,2218,2496
+(Waiter/ess) pours drink,387,466
+(Both) Desert Order,466,606
+(Customer) Wait for desert,606,1033
+(Waiter/ess) Service of Desert,1033,1060
+(Customer) Consuming desert,1060,2241
+(Customer) Takes a drink,2241,2295
+(Waiter/ess) clear dinner plate,2295,2389
+(Customer) takes drink,2402,2500

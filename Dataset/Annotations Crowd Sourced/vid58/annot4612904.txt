@@ -1,0 +1,33 @@
+(Both) Having a Lunch,1,1579
+(Both) Ordering a food,17,192
+(Customer) Checking her Mobile,192,244
+(Customer) Eating the Dish,256,798
+(Waiter/ess) Taking back the plates,814,862
+(Customer) Checking her mobile,878,1133
+(Customer) Eating ,1165,1388
+(Both) Paying the bill,1420,1579
+(Customer) getting menu card,33,49
+(Customer) calling the waitress,134,149
+(Customer) ordering the dish,150,191
+(Customer) Taking the mobile,194,208
+(Customer) looking at the mobile,209,241
+(Waiter/ess) brings the food,242,255
+(Waiter/ess) keeps food on table,256,264
+(Waiter/ess) places the fork/spoon,265,275
+(Customer) starts eating,291,305
+(Waiter/ess) serves water,319,416
+(Customer) Drinks water,423,506
+(Customer) Eating the dish,505,670
+(Customer) Drinks water,674,752
+(Customer) waiting for waiteress,759,799
+(Waiter/ess) arrives,800,819
+(Waiter/ess) Taking the plate,823,830
+(Waiter/ess) Takes the water bottle,833,837
+(Waiter/ess) takes the cup,840,855
+(Waiter/ess) serves the desert,1149,1181
+(Customer) Eats the desert,1192,1244
+(Customer) Eats the desert,1197,1372
+(Customer) waiting for the bill,1356,1420
+(Customer) Taking out card,1420,1467
+(Customer) Making payment,1436,1515
+(Waiter/ess) returning card,1515,1563

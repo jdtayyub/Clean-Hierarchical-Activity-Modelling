@@ -1,0 +1,20 @@
+(Waiter/ess) approaches table,18,27
+(Customer) puts phone down,20,28
+(Waiter/ess) hands off menu,28,36
+(Customer) flips menu page,50,54
+(Customer) looks at menu,56,69
+(Customer) reaches for phone,70,73
+(Customer) interacts with phone,74,130
+(Waiter/ess) leaves table,44,57
+(Customer) looks at menu,131,189
+(Waiter/ess) approaches table,175,189
+(Waiter/ess) places silverware,193,219
+(Customer) adjusts phone,240,288
+(Customer) interacts with phone,288,813
+(Waiter/ess) reaches for menu,273,277
+(Waiter/ess) removes menu,278,289
+(Waiter/ess) leaves table,291,303
+(Customer) adjusts spoon,293,311
+(Customer) types on phone,358,453
+(Customer) types on phone,508,797
+(Waiter/ess) approaches table,785,795

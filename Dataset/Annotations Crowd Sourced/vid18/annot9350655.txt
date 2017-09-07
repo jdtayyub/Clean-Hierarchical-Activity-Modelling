@@ -1,0 +1,13 @@
+used teapot,109,149
+reading newspaper,346,410
+reading newspaper,436,550
+drinking coffee,593,617
+reading newspaper,610,684
+eating cereal,694,727
+drinking coffee,733,774
+reading newspaper,782,938
+drinking coffee,840,879
+drinking coffee,187,213
+drinking coffee,450,485
+opening jar,11,29
+making coffee,15,182

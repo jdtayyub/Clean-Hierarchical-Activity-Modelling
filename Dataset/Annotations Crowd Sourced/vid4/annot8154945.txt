@@ -1,0 +1,34 @@
+reaches for sandwich,76,110
+gets instant coffee,110,167
+pours instant coffee,206,282
+uses teapot,384,558
+stirs coffee,617,712
+opens sandwich,956,1112
+takes a bite,1327,1435
+takes a drink,2264,2368
+picks up sandwich,64,116
+opens coffee,125,168
+picks up coffee,115,133
+opens coffee,133,159
+puts coffee in cup,212,272
+puts lid on,335,364
+uses teapot,391,543
+stirs coffee,626,708
+takes a drink,760,830
+licks spoon,872,885
+opens sandwich,970,1111
+takes out sandwich,1128,1250
+first bite,1327,1434
+second bite,1639,1681
+third bite,1824,1908
+eats sandwich,1320,1908
+picks up cup,2230,2268
+takes a drink,2277,2340
+sets down cup,2368,2384
+breaks off sandwich,2481,2535
+takes bite,3327,3405
+last bite,3967,3992
+picks up cup,4365,4387
+takes drink,4413,4482
+takes drink,4545,4614
+set down cup,4629,4650

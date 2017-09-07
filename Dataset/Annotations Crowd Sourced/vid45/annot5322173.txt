@@ -1,0 +1,38 @@
+(Waiter/ess) arriving,21,31
+(Waiter/ess) Brings menu,32,42
+(Customer) taking menu,43,60
+(Customer) reading menu,54,73
+(Customer) Waiting waiter,1,20
+(Waiter/ess) talking,71,122
+(Customer) talking,122,131
+(Waiter/ess) leaving,132,151
+(Customer) reading menu,142,303
+(Customer) leaving the menu,301,326
+(Customer) waiting for order.,327,374
+(Waiter/ess) bringing the order,375,405
+(Customer) talking,406,433
+(Waiter/ess) taking the menu,434,445
+(Waiter/ess) leaving,446,456
+(Customer) opening bottle,457,460
+(Customer) pouring glass,461,473
+(Customer) closing bottle,474,492
+(Customer) drinking juice,493,520
+(Waiter/ess) bringing order,526,546
+(Waiter/ess) leaving,547,571
+(Customer) eating meal,572,736
+(Customer) taking phone,737,816
+(Customer) eating meal,817,832
+(Customer) looking phone,827,896
+(Customer) eating meal,897,933
+(Customer) looking phone,933,1010
+(Customer) eating meal,1011,1066
+(Customer) looking phone,1067,1134
+(Customer) drinking juice,1132,1186
+(Customer) looking phone,1187,1218
+(Customer) leaving phone,1219,1221
+(Customer) drinking juice,1221,1260
+(Customer) eating meal,1260,1322
+(Customer) calling waiter,1320,1338
+(Waiter/ess) taking plate,1335,1420
+(Customer) checking phone,1420,1861
+(Waiter/ess) bring sweet,1861,1907

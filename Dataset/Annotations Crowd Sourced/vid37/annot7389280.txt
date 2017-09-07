@@ -1,0 +1,14 @@
+wearing headphone,1,23
+typing on laptop,23,114
+writing on paper ,114,191
+typing on paper,191,229
+writing on paper,216,275
+using stapler ,275,310
+adjusting paper ,310,335
+drinking water,335,383
+typing on laptop,383,450
+writing on paper ,450,540
+typing on laptop,540,583
+removed headphone,583,615
+listening to music,1,615
+working at desk,1,615

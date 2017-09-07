@@ -1,0 +1,15 @@
+Pour from pot,1,76
+Stir in coffee,76,203
+Drink,272,326
+Pour cereal,326,375
+Pour milk,375,431
+Stir milk and eat,431,456
+Take apple,506,536
+Talk and drink,542,694
+Eat apple,692,919
+Eat cereal,919,1169
+Eat apple,1169,1603
+Hold and drink coffee,1603,1760
+Eat cereal,1760,1872
+Eat apple,1916,2026
+Talking and drinking,2026,2163

@@ -1,0 +1,20 @@
+Taking and opening the box,1450,29
+taking and placing,29,45
+putting stirrer and taking jar and cup,45,62
+pouring and placing jar,65,111
+taking box and pouringin pot,111,166
+placing box,166,178
+taking another box and pouring,178,218
+placing the box,218,236
+stirring with spoon,236,266
+eating,266,289
+seeing and reading paper,282,365
+eating,346,403
+reading,403,505
+eating,505,536
+reading paper,536,597
+laughing herself,597,613
+stirring and drinking,613,698
+stirring and drinking,698,754
+eating,754,886
+pouring and eating and reading,886,1450

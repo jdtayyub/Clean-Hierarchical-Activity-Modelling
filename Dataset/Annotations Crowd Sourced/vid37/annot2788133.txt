@@ -1,0 +1,15 @@
+Picks up headphones,7,13
+Puts headphones on ear,13,26
+Types on keyboard,32,112
+Writes notes on notepad,117,192
+Types on keyboard,198,226
+Writes on notepad,229,270
+Picks up stapler,270,279
+Staples papers together,289,306
+Sets stapler on desk,305,312
+Organizes papers,308,335
+drink Juice,335,384
+Types on keyboard,394,450
+Writes on Notepad,456,541
+Types on Keyboard,544,581
+takes of headphones,599,615

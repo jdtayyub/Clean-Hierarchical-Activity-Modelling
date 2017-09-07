@@ -1,0 +1,39 @@
+(Both) talking,13,59
+(Customer) reading notes,59,100
+(Both) talking,100,212
+(Waiter/ess) going back,212,234
+(Both) talking ,234,281
+(Customer) turning pages,287,328
+(Customer) reading,328,466
+(Customer) reading ,549,596
+(Customer) turning pages,596,607
+(Waiter/ess) coming,607,635
+(Waiter/ess) opening bottle,635,694
+(Waiter/ess) pouring,694,728
+(Waiter/ess) taking order,728,1210
+(Waiter/ess) going back,1210,1224
+(Customer) holding mug,1258,1295
+(Customer) left paper,1295,1329
+ (Customer) drinking,1329,1417
+(Customer) talking,1417,1489
+(Customer) talking,1489,1619
+(Customer) talking,1619,1800
+(Waiter/ess) coming back,1800,1811
+(Waiter/ess) serving food,1811,1824
+(Both) talking,1824,1843
+(Waiter/ess) going back,1843,1849
+(Customer) eating ,1868,2459
+(Customer) eating,2459,2803
+(Customer) drinking,2803,2854
+(Customer) talking,2854,3184
+(Customer) eating,3184,3427
+(Customer) talking,3427,3516
+(Customer) eating,3516,3639
+(Waiter/ess) coming back,3639,3651
+(Both) talking,3651,3709
+(Waiter/ess) going back,3709,3723
+(Customer) drinking,3748,3793
+(Customer) paying bill,3793,3910
+(Waiter/ess) cleaning table,3910,3971
+(Customer) paid bill,3971,4049
+(Waiter/ess) going back,4049,4089

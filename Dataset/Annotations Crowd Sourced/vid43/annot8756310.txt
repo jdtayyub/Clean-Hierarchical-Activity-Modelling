@@ -1,0 +1,29 @@
+(Waiter/ess) give menu,24,38
+(Customer) pick menu,38,95
+(Customer) touching menu,151,191
+(Waiter/ess) water to glass,329,385
+(Customer) open menu,385,456
+(Customer) order something,456,484
+(Waiter/ess) write something,484,568
+(Customer) pick menu,584,598
+(Customer) pick up glass,614,632
+(Customer) drinking water,638,667
+(Customer) pick up glass,689,766
+(Waiter/ess) give food,869,903
+(Waiter/ess) open a cover,903,921
+(Customer) pick the cover,921,973
+(Customer) eating food,977,1005
+(Customer) eating food,1005,1090
+(Customer) eating food,1109,1120
+(Customer) eating food,1143,1180
+(Customer) eating food,1239,1275
+(Customer) eating food,1326,1355
+(Customer) eating food,1451,1485
+(Customer) eating food,1508,1587
+(Customer) eating food,1603,1642
+(Customer) drinking water,1642,1715
+(Customer) eating food,1715,1769
+(Customer) drinking water,1813,1851
+(Customer) eating food,1885,1970
+(Both) talking and conversing,2066,2140
+

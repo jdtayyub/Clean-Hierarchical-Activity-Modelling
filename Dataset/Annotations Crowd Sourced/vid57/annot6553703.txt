@@ -1,0 +1,8 @@
+(Customer) Orders food ,202,301
+(Customer) Gets a menu,114,142
+(Customer) Gets food,454,500
+(Customer) Eats food finishes,524,974
+(Customer) drinks from cup,938,1064
+(Customer) Gets dessert,1144,1555
+(Both) pays for meal,1611,1697
+(Customer) gets a banana,1745,1856

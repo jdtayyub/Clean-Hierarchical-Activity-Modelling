@@ -1,0 +1,49 @@
+reach for cup,58,68
+moves yellow box,74,89
+grabs container,89,118
+opens container,108,145
+pours powder,155,235
+caps container,245,305
+grabs teapot,310,350
+pours water,350,500
+puts teapot down,500,519
+grabs sugar packet,535,555
+picks up spoon,532,578
+opens sugar packet,580,674
+pours sugar,677,718
+put packet down,718,723
+grabs spoon,721,744
+stirs tea,744,872
+moves mug,874,891
+taste tea,911,962
+taste tea,1006,1019
+set spoon down,1021,1055
+grabs cereal,1065,1123
+pours cereal,1126,1168
+put cereal back,1171,1221
+grabs milk,1231,1251
+pours milk,1251,1391
+puts milk down,1401,1421
+grabs spoon,1425,1442
+spoons cereal,1452,1642
+spoons cereal,1726,1884
+eat cereal,1886,2065
+move mug,2082,2129
+point to milk,2131,2144
+turn mug,2145,2180
+turn milk,2181,2196
+pickup mug,2206,2228
+drink tea,2228,2258
+put mug down,2255,2283
+grab spoon,2286,2296
+spoon cereal,2293,2362
+eat cereal,2362,2647
+drink tea,2677,2759
+eat cereal,2779,2856
+eat cereal,3145,3357
+pickup mug,3367,3388
+drink tea,3391,3431
+eat cereal,3461,3775
+wipes mouth,3775,3811
+drinks tea,3821,3896
+eats cereal,3900,4187

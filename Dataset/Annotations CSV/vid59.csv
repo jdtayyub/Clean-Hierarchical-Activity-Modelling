@@ -1,0 +1,111 @@
+(Customer) checking phone,1,38
+(Both) having lunch,13,1212
+(Waiter/ess) walking in,22,39
+(Waiter/ess) providing menu,35,56
+(Customer) looking at menu,35,51
+(Waiter/ess) giving menu,36,55
+(Waiter/ess) waiting on customer,50,1138
+(Customer) reading menu,51,117
+(Waiter/ess) walking away,51,67
+(Customer) reading menu,55,149
+(Customer) reading menu,56,144
+(Customer) Reads Menu,69,115
+(Customer) flips pages,69,111
+(Customer) CHECK PHONE,86,216
+(Both) Gives Takes order,115,177
+(Both) talking,117,169
+(Customer) Calls waitress,122,138
+(Customer) Gives Order,138,183
+(Waiter/ess) taking order ,144,180
+(Both) ordering,149,199
+(Waiter/ess) taking order,153,184
+(Waiter/ess) Takes Order,154,181
+(Both) ordering,154,166
+(Waiter/ess) walking away,175,191
+(Customer) Checks Phone,177,260
+(Customer) checking phone ,180,279
+(Customer) checking phone,184,281
+(Customer) checking phone,184,273
+(Waiter/ess) KNIFE FORK,216,342
+(Waiter/ess) delivering food,262,310
+(Waiter/ess) coming with order,262,314
+(Waiter/ess) Brings food,265,329
+(Waiter/ess) serving food ,279,321
+(Customer) picking plastic utensils,308,547
+(Customer) eating meal,310,356
+(Waiter/ess) walking away,317,338
+(Customer) eating food ,321,389
+(Customer) East food,335,555
+(Customer) EAT FOOD,342,363
+(Customer) DRINK FROM CUP,363,588
+(Waiter/ess) Brings drink,377,481
+(Waiter/ess) bringing water,377,467
+(Waiter/ess) Brings cup,380,401
+(Waiter/ess) serving drink,389,459
+(Waiter/ess) bringing drink,394,452
+(Waiter/ess) Takes off cap,401,419
+(Waiter/ess) pouring water,401,441
+(Waiter/ess) Fills Cup,419,447
+(Waiter/ess) Puts cap  on,447,456
+(Waiter/ess) Puts on table,456,469
+(Customer) eating food ,459,558
+(Waiter/ess) walking away,467,488
+(Customer) cutting food,492,519
+(Customer) drinking water,552,601
+(Customer) Takes drink,556,608
+(Customer) Picks up glass,556,580
+(Customer) drinking water,561,600
+(Customer) drinking water ,565,604
+(Customer) STARTING EATING,588,657
+(Customer) Put down glass,595,602
+(Customer) eating food ,604,761
+(Customer) eating food,609,767
+(Customer) Picks up utensils,610,637
+(Customer) eating,617,764
+(Customer) Eats food,621,759
+(Customer) DRINK ROM CUP,657,780
+(Customer) Drinks,759,804
+(Customer) drinking water,760,797
+(Customer) drinking ,761,791
+(Customer) drinking,764,800
+(Customer) PUT CUP DOWN,780,805
+(Customer) looking at waitress,790,802
+(Both) talking ,791,828
+(Waiter/ess) clearing table,800,875
+(Customer) SWIPE CARD,805,1025
+(Waiter/ess) coming,806,872
+(Waiter/ess) Takes dishes,812,875
+(Waiter/ess) picking plate,821,873
+(Waiter/ess) cleaning table ,828,866
+(Waiter/ess) picking cup,837,873
+(Waiter/ess) picking bottle water,847,873
+(Waiter/ess) walking away,859,875
+(Waiter/ess) Brings Check,937,1132
+(Both) talking ,938,973
+(Waiter/ess) coming to customer,938,961
+(Waiter/ess) bringing the check,938,1123
+(Both) Making Payment Transaction,938,1125
+(Both) first attempt on bill,952,959
+(Both) talking ,973,1012
+(Both) receiving bill / paying,986,1054
+(Both) second attempt on bill,989,1119
+(Customer) typing pin,1012,1070
+(Customer) PUT CARD BACK,1025,1118
+(Both) Pays,1035,1117
+(Waiter/ess) giving card back,1070,1105
+(Customer) putting away card,1104,1127
+(Customer) keeping card back,1105,1142
+(Customer)taking credit card,1106,1124
+(Customer) BREAK ONE BANANAES,1118,1223
+(Waiter/ess) walking away,1119,1135
+(Customer) grabs phone,1138,1151
+(Customer) taking banana ,1142,1205
+(Customer) taking banana,1155,1188
+(Customer) Takes fruit,1158,1196
+(Customer) preparing to leave,1160,1212
+(Customer) grabs bannana,1163,1187
+(Customer) getting up,1188,1218
+(Customer) leaving,1188,1218
+(Customer) Leaves,1196,1223
+(Customer) leaves,1200,1212
+(Customer) going ,1205,1223

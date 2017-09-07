@@ -1,0 +1,21 @@
+reaching for container,35,45
+pours powder into mug,61,89
+puts cap on container,89,104
+pours milk into mug,106,140
+stirs drink,140,185
+drinks from mug,189,218
+making coffee to drink,33,189
+makes bowl cereal,224,262
+fills mug water,109,140
+liquid poured on,273,352
+spreads newspaper,359,407
+eats cereal,410,440
+reading newspaper,460,517
+drinks from mug,519,549
+eats cereal,576,611
+reads newspaper,601,658
+drinks from mug,658,691
+eats from bowl,696,734
+reads newspaper,734,770
+makes a meal,1,355
+having breakfast,9,763

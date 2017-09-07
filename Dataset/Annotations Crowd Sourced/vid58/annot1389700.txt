@@ -1,0 +1,23 @@
+(Waiter/ess) Walks in with menu,1,30
+(Customer) Looks at menu,30,139
+(Waiter/ess) Walks in again,139,156
+(Customer) Places order,156,190
+(Customer) Looks at cell phone,190,248
+(Waiter/ess) Brings in salad,248,274
+(Waiter/ess) Serves beverage in cup,274,327
+(Customer) Starts eating,327,353
+(Waiter/ess) Pours water in cup ,353,399
+(Customer) Eats and drinks,399,462
+(Customer) Continues eating salad,462,636
+(Customer) Drinks water,636,696
+(Customer) Calls waiter,696,782
+(Waiter/ess) Clears the table,782,832
+(Waiter/ess) Walks away,832,880
+(Customer) Looks at phone,880,943
+(Customer) Continues browsing phone,943,1093
+(Waiter/ess) Brings in food,1093,1182
+(Customer) Starts eating,1182,1353
+(Waiter/ess) Walks in with bill,1353,1458
+(Customer) Enters code,1458,1499
+(Waiter/ess) Clears the table,1499,1534
+(Waiter/ess) Takes payment and goes,1534,1575

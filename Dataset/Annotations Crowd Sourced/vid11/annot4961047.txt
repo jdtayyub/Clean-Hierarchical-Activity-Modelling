@@ -1,0 +1,17 @@
+Making breakfast,63,616
+Eating breakfast,616,3693
+Pouring cereal,63,228
+Pouring milk,228,327
+Picking coffee jar,327,402
+Opening/Closing coffee jar,358,401
+Returning coffee jar,401,434
+Adding tea sachet,434,496
+Adding milk,496,617
+Picking coffee jar,327,358
+Drinking tea,1052,1137
+Drinking tea,1657,1737
+Drinking tea,3013,3089
+Drinking tea,3618,3697
+Using mobile phone,1190,2508
+Using mobile phone,2727,2785
+Using mobile phone,3076,3149

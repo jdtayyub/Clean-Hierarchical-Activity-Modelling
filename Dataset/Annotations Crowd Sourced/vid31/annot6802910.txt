@@ -1,0 +1,9 @@
+using laptop,1,172
+typing on laptop,172,254
+writing on paper ,254,344
+using laptop,344,413
+writing on paper ,413,489
+stapling paper ,489,560
+writing on paper ,560,583
+using laptop,583,655
+talking ,655,694

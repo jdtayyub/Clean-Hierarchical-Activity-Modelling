@@ -1,0 +1,12 @@
+(Customer) reading,55,298
+(Customer) pouring,471,482
+(Customer) drinking,505,528
+(Customer) smiling,564,571
+(Customer) eating,586,741
+(Customer) texting,753,1221
+(Customer) eating,872,1067
+(Customer) drinking,1135,1183
+(Customer) drinking,1237,1256
+(Customer) texting,1456,1896
+(Customer) eating,1923,2805
+(Both) paying,3135,3452

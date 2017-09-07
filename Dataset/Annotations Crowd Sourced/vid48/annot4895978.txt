@@ -1,0 +1,28 @@
+(Customer) texting,1,25
+(Customer) looking through menu,42,78
+(Customer) Playing on phone,78,133
+(Customer) Flicking through menu,133,187
+(Customer) ordering food,214,294
+(Customer) On phone,309,312
+(Customer) using phone,367,464
+(Customer) using phone,502,802
+(Waiter/ess) bringing food to table,792,825
+(Waiter/ess) pouring drink,824,842
+(Customer) using phone,864,968
+(Customer) eating,983,1187
+(Customer) drinking,1187,1255
+(Customer) eating,1272,1497
+(Customer) drinking,1521,1653
+(Customer) looking at phone,1688,1698
+(Customer) drinking,1698,1730
+(Waiter/ess) walking to table,1888,1898
+(Both) talking,1906,1969
+(Waiter/ess) clearing plate,1969,1986
+(Customer) drinking,1995,2035
+(Customer) talking,2035,2150
+(Waiter/ess) taking food to table,2193,2213
+(Customer) eating,2244,2710
+(Both) making payment,2827,3044
+(Waiter/ess) clearing table,2915,2929
+(Customer) looking at  phone,2982,3006
+(Waiter/ess) returning card,3014,3028

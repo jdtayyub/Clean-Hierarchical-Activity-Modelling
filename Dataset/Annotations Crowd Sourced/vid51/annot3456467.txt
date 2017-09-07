@@ -1,0 +1,23 @@
+(Waiter/ess) Gave menu,29,31
+(Customer) Reading Menu,96,172
+(Both) Ordering and order writting,199,236
+(Waiter/ess) Taking away the menu,243,258
+(Customer) Waiting for order,258,307
+(Waiter/ess) Bringing Water ,312,326
+(Customer) Picking up the glass,330,334
+(Customer) Drinking from the glass,341,450
+(Waiter/ess) Placing spoons ,393,405
+(Waiter/ess) Bringing order,616,629
+(Customer) Eating the order,646,1052
+(Waiter/ess) Taking order,1080,1105
+(Waiter/ess) Taking away the order,1132,1151
+(Customer) Picking the apple,1153,1164
+(Customer) eating the apple,1183,1498
+(Customer) Drinking from glass,1439,1456
+(Waiter/ess) Taking card ,1702,1711
+(Waiter/ess) inserting card,1722,1730
+(Waiter/ess) Taking spoon and glass,1744,1769
+(Customer) typing pin ,1769,1805
+(Waiter/ess) returning card,1835,1842
+(Customer) keeping card inside pocket,1849,1855
+(Both) Carrying out payment,1650,1860

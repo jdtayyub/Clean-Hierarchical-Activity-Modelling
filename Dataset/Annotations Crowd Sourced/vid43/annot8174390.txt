@@ -1,0 +1,40 @@
+(Waiter/ess) receiving the menu,25,33
+(Waiter/ess) set down cup,327,331
+(Waiter/ess) opening the cap,348,354
+(Waiter/ess) pouring into the cup,354,357
+(Waiter/ess) closing cap,368,372
+(Waiter/ess) set down bottle,378,384
+(Waiter/ess) picking pen,386,393
+(Waiter/ess) picking paper,393,397
+(Customer) reading menu,399,407
+(Waiter/ess) writing on paper,479,485
+(Waiter/ess) leaving room,550,564
+(Customer) picking up cup,605,628
+(Customer) drinking from cup,633,637
+(Customer) set down cup,656,662
+(Waiter/ess) set plate down,872,876
+(Waiter/ess) opening the pack,885,889
+(Waiter/ess) set down pack,913,920
+(Waiter/ess) picking up paper,916,923
+(Customer) set down pack,934,942
+(Customer) taking from the pack,955,972
+(Customer) eating,972,979
+(Customer) eating,994,998
+(Customer) eating,1035,1039
+(Customer) eating,1067,1072
+(Customer) picking up from plate,1119,1123
+(Customer) eating,1253,1265
+(Customer) picking up cup,1643,1648
+(Customer) drinking from cup,1653,1657
+(Customer) drinking from cup,1682,1692
+(Customer) set down cup,1707,1711
+(Customer) taking from pack,1709,1721
+(Customer) eating,1725,1729
+(Customer) picking up pack,1740,1753
+(Customer) set down pack,1765,1770
+(Customer) picking up cup,1800,1808
+(Customer) drinking from cup,1816,1822
+(Customer) set down pack,1841,1849
+(Customer) picking up pack,1888,1899
+(Customer) eating,1932,1940
+(Waiter/ess) picking up bottle,2151,2157

@@ -1,0 +1,8 @@
+Putting on headset,4,27
+Typing on laptop,27,131
+Writing on paper,131,240
+Drinking Water,474,527
+Picking pen,133,142
+Started writing,147,240
+working on laptop,249,309
+Writing again,309,394

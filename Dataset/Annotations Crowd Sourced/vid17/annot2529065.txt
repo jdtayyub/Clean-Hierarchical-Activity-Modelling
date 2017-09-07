@@ -1,0 +1,20 @@
+Picking Jar,1,48
+Opening Jar,48,54
+Pouring Coffee,54,82
+Closing Jar,83,103
+Keeping Jar,101,106
+Using Kettle,108,144
+Using Spoon,144,184
+Drinking Coffee,188,218
+Using Creal Box,218,267
+Using Milk Box,267,350
+Opening Newspaper,350,410
+Eating Cereal,410,439
+Reading Newspaper,439,517
+Drinking Coffee,517,552
+Reading Newspaper,552,585
+Eating Cereal,585,600
+Reading,600,651
+Drinking and Reading,651,692
+Eating,692,730
+Reading,730,770

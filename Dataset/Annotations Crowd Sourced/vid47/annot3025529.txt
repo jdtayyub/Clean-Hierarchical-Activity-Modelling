@@ -1,0 +1,11 @@
+(Customer) read menu,36,199
+(Customer) drink liquid,393,414
+(Customer) eat food,503,1164
+(Customer) drink glass,1183,1211
+(Customer) open yogurt,1344,1373
+(Customer) eat yogurt,1511,1724
+(Customer) drink glass,1738,1772
+(Customer) give card waiter,1903,1918
+(Both) talking,215,260
+(Waiter/ess) Water Served,326,365
+(Waiter/ess) Menu taken,374,383

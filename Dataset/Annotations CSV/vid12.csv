@@ -1,0 +1,193 @@
+HAVING BREAKFAST,1,3900
+ADD COFFEE TO CUP,22,225
+opening coffee lid,42,62
+preparing coffee,42,530
+opening jar lid,49,69
+OPENING BOTTLE,58,81
+picking up spoon,85,108
+POURING COFFEE INTO CUP,99,182
+Pours coffee in mug,106,188
+pouring contents,128,179
+pouring coffee grounds,129,182
+pouring coffee ,134,182
+Puts lid back on,188,247
+CLOSING COFFEE BOTTLE,194,224
+closing coffee lid,196,218
+closing coffee grounds,198,223
+closing jar lid,203,213
+using teapot ,233,339
+picking up pot,235,248
+added the milk,247,330
+Lifts teapot,247,269
+pouring liquid,248,327
+TAKING TEAPOT,249,257
+ADD WATER TO CUP,250,330
+pouring water,255,319
+pouring water,256,331
+PORING WATER INTO CUP,261,324
+Pours hot water,269,326
+Stirs mug with spoon,326,389
+setting pot down,327,335
+stirring drink,335,382
+MIXING WITH SPOON,336,386
+ADD MILK TO CUP,340,488
+stirring coffee ,342,380
+mixing with spoon,345,385
+stirring,348,391
+TAKING MILK PACK,388,401
+Pours milk in mug,389,447
+picking up carton,390,398
+using milk,391,490
+pouring carton contents,398,444
+opening milk,398,414
+PORING MILK INTO CUP,410,445
+pouring milk,422,447
+setting carton down,444,488
+Stirs coffee in mug,447,526
+stirring,451,537
+closing milk,452,484
+CLOSING MILK PACK,456,487
+stirring drink,488,527
+MIXING WITH SPOON,497,528
+Drinks coffee from mug,526,579
+taking a sip,527,578
+DRINKING COFFEE,531,584
+drinking from mug,548,574
+drinking coffee ,549,570
+CONSUMING BANANA,550,835
+used teapot,563,593
+picking up banana,578,625
+Takes banana and peels,579,632
+TAKINH BANANA,589,614
+picking up banana ,595,731
+eating banana,601,845
+PEELING BANANA,618,688
+pealing banana ,618,683
+peeling banana,619,689
+peeling banana,625,691
+Peels banana,632,689
+Eats the banana,689,754
+EATING BANANA,691,730
+eating banana,691,718
+eating banana ,698,715
+Places banana on table,754,768
+SITTING PROPERLY,756,775
+Picks up banana,768,814
+eating banana,769,830
+EATING BANANA,777,833
+eating banana ,791,811
+eating banana,814,861
+DRINKING COFFEE,836,927
+holding mug,849,936
+drinking coffee ,861,919
+Lifts mug,861,920
+used teapot,869,957
+taking sip,891,921
+Lifts milk carton,902,931
+TAKING MILK PACK,920,960
+ADD MILK TO BOWL,920,1001
+Drinks coffee,920,930
+grabbing carton,921,947
+picking up milk,925,1021
+Pours milk in bowl,931,996
+preparing cornflakes,957,1183
+pouring milk,958,989
+pouring milk,960,989
+POURING MILK INTO BOWL,962,992
+setting down carton,989,1021
+Pours cereal in bowl,996,1094
+ADD CORNFLAKES INO BOWL,1001,1099
+TAKING CORNFLAKES PACK,1018,1048
+picking up box,1020,1120
+grabbing cereal,1021,1043
+pouring cereal,1043,1096
+PUTTING CORNFLAKES INTO BOWL,1049,1096
+pouring cereal,1051,1097
+Places cereal box,1094,1125
+setting down cereal,1096,1122
+stirring cereal,1122,1157
+Eats cereal,1125,1238
+MIXING WITH SPOON,1128,1170
+EATING WITH SPOON,1172,1221
+taking bite,1172,1196
+chewing,1196,1220
+checking phone,1220,1416
+interacting with phone,1224,1421
+USING MOBILE,1230,1419
+Picks up cellphone,1238,1262
+Browses cellphone,1262,1421
+eating cereal,1416,1499
+Puts cellphone down,1422,1451
+EATING WITH SPOON,1427,1480
+Eats more cereal,1451,1533
+eating,1465,1712
+looking at phone,1499,1608
+USING MOBILE,1500,1610
+Looks at cellphone,1533,1591
+Lifts coffee mug,1591,1625
+drinking,1603,1677
+DRINKING COFFEE,1614,1669
+Drinks coffee,1625,1668
+Looks at cellphone,1668,1776
+USING MOBILE,1673,1872
+looking at phone,1677,1863
+Browses through cellphone,1776,1874
+eating banana,1863,2001
+Picks up banana,1874,1929
+EATING BANANA,1879,2040
+eating banana,1907,2073
+Peels and eats banana,1929,2009
+Puts down banana,2009,2057
+eating banana,2014,2043
+Eats more cereal,2057,2220
+EATING WITH SPOON,2078,2321
+eating cereal,2081,2311
+eating cereal,2123,2346
+Lifts cereal bowl,2220,2291
+lifting bowl,2270,2309
+Continues eating,2291,2314
+Puts down cereal bowl,2314,2330
+Lifts coffee mug,2330,2391
+taking a drink,2334,2424
+DRINKING COFFEE,2350,2429
+Drinks more coffee,2391,2427
+Puts down mug,2427,2456
+Picks up banana,2456,2539
+PEELING BANANA,2457,2578
+peeling banana,2482,2593
+Peels banana,2539,2607
+EATING BANANA,2593,2709
+eating banana,2593,2716
+Eats the banana,2607,2694
+Puts banana down,2694,2734
+Lifts cereal bowl,2978,3040
+eating cereal,2999,3188
+EATING WITH SPOON,3005,3227
+Eats more cereal,3040,3254
+eating banana,3058,3341
+EATING WITH SPOON,3229,3319
+eating cereal,3236,3292
+Continues eating cereal,3254,3298
+Puts cereal bowl down,3298,3323
+Lifts coffee mug,3323,3349
+DRINKING COFFEE,3324,3411
+taking a drink,3329,3411
+drinking,3341,3461
+Drinks more coffee,3349,3475
+DRINKING COFFEE,3413,3476
+drinking,3436,3479
+Lifts cereal bowl,3475,3538
+eating banana,3486,4054
+eating cereal,3494,3594
+EATING WITH SPOON,3504,3589
+Eats more cereal,3538,3591
+Puts cereal bowl down,3591,3604
+TAKING BANANA,3592,3633
+peeling banana,3594,3694
+Lifts banana and peels,3604,3692
+PEELING BANANA,3635,3729
+putting peel down,3686,3724
+Breaks banana off peel,3692,3777
+Talks while holding banana,3777,3832
+Finishes eating banana,3832,4021
+eating and speaking,3835,4012

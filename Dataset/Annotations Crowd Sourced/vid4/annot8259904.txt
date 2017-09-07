@@ -1,0 +1,31 @@
+Uses teapot,388,569
+reaches for sandwich,60,110
+grab coffee bottle,102,127
+opens coffee bottle,142,158
+puts coffee  in cup,199,272
+grabs cover,305,319
+puts cover on,328,370
+puts coffee back,370,399
+grabs teapot,390,410
+pours from teapot,433,534
+reaches for sugar,571,609
+grabs spoon,620,625
+stirs coffee,621,693
+drinks from spoon,709,723
+drinks coffee,747,819
+spoon in mouth,865,882
+grabs bread,926,964
+opens sandwich,964,1278
+removes sandwich,1212,1314
+eats sandwich,1321,1987
+reaches for cup,2220,2269
+sips coffee,2269,2352
+eats sandwich,2544,2941
+chews food,3133,3266
+talks,3263,3325
+bites sandwich,3325,3543
+eats sandwich piece,3564,4185
+grabs coffee,4348,4388
+drinks coffee,4388,4622
+puts cup down,4622,4655
+pulls upsleeve,4929,4952

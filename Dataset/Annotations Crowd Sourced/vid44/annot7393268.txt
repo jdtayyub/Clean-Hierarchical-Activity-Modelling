@@ -1,0 +1,21 @@
+(Customer) waiting,1,21
+(Waiter/ess) serving,21,96
+(Both) talking,96,221
+(Customer) reading,226,351
+(Waiter/ess) serving,351,422
+(Both) talking,422,480
+(Waiter/ess) pouring drink,551,601
+(Customer) taking a drink,608,657
+(Customer) waiting,654,826
+(Waiter/ess) serving,838,896
+(Customer) eating,896,1271
+(Customer) eating,896,1889
+(Waiter/ess) checking on customer,1922,2165
+(Waiter/ess) serving food,2234,2269
+(Customer) eating,2288,2500
+(Both) talking,1917,2147
+(Both) talking,805,816
+(Customer) picking up a fork,892,899
+(Customer) mixing salad,899,938
+(Customer) putting food into mouth,958,966
+(Customer) chewing food,966,1896

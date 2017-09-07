@@ -1,0 +1,14 @@
+wearing headphone,1,104
+pickup pen,104,167
+writing on paper,167,529
+moved stapler ,529,561
+writing on paper,561,1068
+writing on paper,1068,2194
+moving hand,2194,2240
+working on laptop,2240,2401
+working on laptop,2401,2470
+adjusting headphone,2470,2530
+watching laptop,2530,2640
+speaking on mic,2640,2779
+working on laptop,2779,2804
+removing headphone,2804,2886

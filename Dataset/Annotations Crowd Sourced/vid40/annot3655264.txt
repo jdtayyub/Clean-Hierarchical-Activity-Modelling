@@ -1,0 +1,14 @@
+using headset,1,16
+opening laptop,16,35
+typing,35,95
+writing,95,205
+typing,205,238
+writing,238,257
+stapling,257,264
+taking the bottle,264,265
+drinking,265,277
+put down the bottle,277,282
+typing,282,299
+writing,299,333
+typing,333,347
+writing,347,361

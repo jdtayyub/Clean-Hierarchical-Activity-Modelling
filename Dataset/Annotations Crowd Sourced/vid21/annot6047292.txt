@@ -1,0 +1,11 @@
+Taking an examination,12,1448
+Opening testing laptop,58,80
+Reading exam question,143,204
+Answering exam question,290,541
+Stapling paper,593,604
+Connecting listening device,725,834
+Finding headphone jack,758,828
+Typing,834,1012
+Taking off headphones,1449,1457
+Conversing with Monitor,1190,1401
+listen to music,702,1440

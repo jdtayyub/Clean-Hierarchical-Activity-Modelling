@@ -1,0 +1,13 @@
+Pick headset,25,37
+Typing on laptop,37,115
+Writing on paper,124,195
+Typing on laptop,195,225
+Writing on paper,225,271
+Stapling paper,271,308
+Picking up paper,321,340
+Drinking water,340,373
+Typing on laptop,397,451
+Writing on paper,457,541
+Typing on laptop,551,581
+Touch the paper,593,604
+Remove headset,604,615

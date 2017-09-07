@@ -1,0 +1,208 @@
+(Customer) waiting for menu,1,28
+(Waiter/ess) Walks to Table,15,35
+(Waiter/ess) placing menu down,19,31
+(Customer) ordering a drink,24,125
+(Waiter/ess) giving the menu,28,128
+(Customer) reading the menu,32,333
+(Both) Places food order,33,123
+(Waiter/ess) walks up,36,46
+(Waiter/ess) brought the menu,37,84
+(Customer) pick menu,38,95
+(Both) discuss menu options,64,131
+(Both) talking together,83,124
+(Waiter/ess) Walks away,117,131
+(Customer) Waits for order,123,225
+(Waiter/ess) walks away,131,141
+(Customer) touching menu,151,191
+(Customer) touches banana,281,331
+(Waiter/ess) Brings juice and mug,318,340
+(Waiter/ess) brings cup,323,386
+(Waiter/ess) set down cup,327,331
+(Waiter/ess) sets cup down,329,341
+(Waiter/ess) water to glass,329,385
+(Waiter/ess) something to drink,330,410
+(Waiter/ess) serving drink,332,389
+(Waiter/ess) brings cup and bottle,332,347
+(Waiter/ess) Pours juice in mug,340,380
+(Waiter/ess) sets down napkin,342,350
+(Waiter/ess) sets down menu,343,349
+(Waiter/ess) pours bottle in cup,347,376
+(Waiter/ess) opening the cap,348,354
+(Waiter/ess) pouring into the cup,354,357
+(Waiter/ess) pouring drink,356,369
+(Waiter/ess) pours juice,358,371
+(Waiter/ess) closing cap,368,372
+(Waiter/ess) set down bottle,378,384
+(Customer) Places food order,380,440
+(Customer) open menu,385,456
+(Waiter/ess) picking pen,386,393
+(Customer) flipping through menu,391,422
+(Waiter/ess) picking paper,393,397
+(Customer) looking through menu,398,594
+(Customer) reading menu,399,407
+(Waiter/ess) takes order,400,569
+(Waiter/ess) asking the order,405,575
+(Customer) ordering food,421,572
+(Waiter/ess) taking the order,421,571
+(Both) dicuss menu options,425,546
+(Waiter/ess) Takes the order,440,497
+(Customer) order something,456,484
+(Waiter/ess) writing on paper,479,485
+(Waiter/ess) writes in notebook,479,563
+(Waiter/ess) write something,484,568
+(Waiter/ess) writing down order,484,550
+(Waiter/ess) Walks away,497,591
+(Customer) ordering,527,570
+(Waiter/ess) leaving room,550,564
+(Waiter/ess) walking away,563,576
+(Waiter/ess) leaves,569,583
+(Customer) waiting,584,875
+(Customer) pick menu,584,598
+(Customer) Drinks juice from mug,591,636
+(Customer) picking up cup,605,628
+(Customer) holding cup,606,669
+(Customer) pick up glass,614,632
+(Customer) taking a drink,616,669
+(Customer) Takes drink 1,624,665
+(Customer) drinking from cup,626,691
+(Customer) drinks from cup,628,663
+(Customer) drinking from cup,633,637
+(Customer) drinking from cup,633,653
+(Customer) waiting for order,636,792
+(Customer) drinking water,638,667
+(Customer) drinks from cup,638,661
+(Customer) set down cup,656,662
+(Customer) pick up glass,689,766
+(Customer) toys with cup,690,869
+(Waiter/ess) Brings in food,792,875
+(Customer) waiting for order,817,869
+(Waiter/ess) brings food,866,923
+(Waiter/ess) bringing food out,869,937
+(Waiter/ess) give food,869,903
+(Customer) brings food,869,931
+(Waiter/ess) set plate down,872,876
+(Waiter/ess) Opens bag of chips,875,919
+(Both) completed the order,875,931
+(Waiter/ess) placing plate,875,882
+(Waiter/ess) sets plate down,876,889
+(Waiter/ess) opening the pack,885,889
+(Waiter/ess) opening bag,892,901
+(Waiter/ess) opens chips,898,916
+(Waiter/ess) open a cover,903,921
+(Waiter/ess) set down pack,913,920
+(Customer) holding bag,915,973
+(Waiter/ess) picking up paper,916,923
+(Customer) Eats chips,919,986
+(Customer) pick the cover,921,973
+(Customer) eating chips,930,1113
+(Customer) opens bag,931,985
+(Customer) eating chip,934,985
+(Customer) set down pack,934,942
+(Customer) eats chips,951,1114
+(Customer) taking from the pack,955,972
+(Customer) eating,967,2008
+(Customer) eating,972,979
+(Customer) eating from bag,973,1121
+(Customer) eating food,977,1005
+(Customer) eats chips,985,1648
+(Customer) Continues eating chips,986,1070
+(Customer) eating,994,998
+(Customer) eating food,1005,1090
+(Customer) eating,1035,1039
+(Customer) eating,1067,1072
+(Customer) Eats more chips,1070,1165
+(Customer) eating food,1109,1120
+(Customer) eating sandwich,1113,1436
+(Customer) eating sandwich,1117,1446
+(Customer) picking up from plate,1119,1123
+(Customer) eats from plate,1132,1452
+(Customer) eating food,1143,1180
+(Customer) Eats more chips,1165,1296
+(Customer) eating food,1239,1275
+(Customer) eating,1253,1265
+(Customer) Eats more chips,1296,1474
+(Customer) eating food,1326,1355
+(Customer) eating chips,1436,1637
+(Customer) eating from bag,1446,1642
+(Customer) eating food,1451,1485
+(Customer) Eats more chips,1474,1564
+(Customer) eating food,1508,1587
+(Customer) Drinks juice,1564,1668
+(Customer) eating food,1603,1642
+(Customer) drinking,1637,1724
+(Customer) drinking water,1642,1715
+(Customer) holding cup,1642,1724
+(Customer) drinks,1642,1724
+(Customer) picking up cup,1643,1648
+(Customer) drinks from cup,1648,1712
+(Customer) drinks again,1651,1714
+(Customer) drinking from cup,1653,1657
+(Customer) drinking from cup,1655,1707
+(Customer) Continues eating,1668,1732
+(Customer) drinking from cup,1682,1692
+(Customer) set down cup,1707,1711
+(Customer) taking from pack,1709,1721
+(Customer) eats chips,1712,1814
+(Customer) eating chips,1714,1789
+(Customer) eating food,1715,1769
+(Customer) eating,1725,1729
+(Customer) eating from bag,1727,1764
+(Customer) Drinks more juice,1732,1835
+(Customer) picking up pack,1740,1753
+(Customer) moves bag over,1754,1770
+(Customer) set down pack,1765,1770
+(Customer) drinking,1790,1855
+(Customer) holding cup,1798,1854
+(Customer) picking up cup,1800,1808
+(Customer) drink,1806,1854
+(Customer) drinking water,1813,1851
+(Customer) drinks again,1814,1852
+(Customer) drinks from cup,1814,1856
+(Customer) drinking from cup,1816,1822
+(Customer) drinking from cup,1820,1843
+(Customer) Eats more chips,1835,1933
+(Customer) set down pack,1841,1849
+(Customer) eating chips,1880,2018
+(Customer) eating food,1885,1970
+(Customer) picking up pack,1888,1899
+(Customer) eating chips,1890,2001
+(Customer) eats more chips,1899,2056
+(Customer) eating,1932,1940
+(Waiter/ess) Walks in again,1933,2053
+(Both) conversing,2045,2145
+(Both) Talk to each other,2053,2129
+(Customer) takes drinks,2056,2159
+(Both) talking and conversing,2066,2140
+(Both) talking and laughing,2071,2151
+(Waiter/ess) Clears the table,2129,2164
+(Waiter/ess) clearing away dishes,2145,2169
+(Waiter/ess) walks away,2151,2162
+(Waiter/ess) picking up bottle,2151,2157
+(Waiter/ess) clearing table,2151,2162
+(Waiter/ess) removes drinks,2154,2167
+(Customer) Eats more chips ,2164,2208
+(Customer) eating chips,2173,2241
+(Customer) eating chips,2182,2242
+(Customer) eats chips,2196,2252
+(Waiter/ess) Brings in bill,2208,2255
+(Both) Paying the bill,2230,2410
+(Both) paying food bill,2238,2422
+(Both) payment of bill,2240,2410
+(Waiter/ess) holding credit machine,2241,2305
+(Both) pays with card,2252,2430
+(Both) discuss check payment,2252,2335
+(Both) talking,2254,2395
+(Waiter/ess) Calculates bill amount,2255,2300
+(Customer) Makes the payment,2300,2386
+(Customer) paying the bill,2308,2391
+(Customer) holding credit machine,2308,2391
+(Waiter/ess) clearing away dishes,2310,2344
+(Waiter/ess) removes food,2310,2343
+(Waiter/ess) takes remaining items,2335,2344
+(Customer) typing pin,2337,2358
+(Customer) pays check,2344,2394
+(Customer) removing card,2358,2380
+(Both) saying goodbye,2374,2408
+(Waiter/ess) Walks away,2386,2407
+(Waiter/ess) holding machine,2387,2410
+(Waiter/ess) receives payment,2394,2407

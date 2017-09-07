@@ -1,0 +1,146 @@
+getting coffee,25,170
+preparing coffee,25,660
+taking the coffee,27,48
+opening the coffee,49,70
+add coffee,78,119
+pouring coffee in cup,82,122
+pouring coffee grounds,103,120
+closing the coffee,124,153
+closing coffee container ,125,155
+putting back the coffee,151,169
+taking the teapot,173,203
+taking tea pot,174,193
+adding hot water ,175,292
+adding water,175,310
+Pouring hot water,178,308
+pouring water,180,285
+use teapot,189,269
+mixing tea from pot,200,299
+pouring hot water,205,270
+pouring water,218,271
+putting back the teapot,278,306
+Pouring creamer,334,484
+grabs mug,336,356
+adding sugar,338,474
+taking sugar,343,370
+getting and adding sugar,350,460
+grabs sugar packet,353,365
+pouring sugar to coffee,359,482
+opening sugar,377,409
+adding sugar ,392,508
+pouring sugar,411,465
+pours sugar packet,427,468
+getting milk,500,650
+taking milk,504,513
+Pouring milk,506,665
+mixing milk to coffee,507,563
+adding milk,508,660
+adding milk,512,612
+opening milk,515,534
+pouring milk,536,563
+add milk,540,614
+pouring milk,553,603
+mixing milk to cereals,563,603
+closing milk,603,649
+putting back milk,649,654
+taking cereals,657,674
+preparing cereal,657,868
+taking cereal box,658,675
+adding cereal ,660,802
+Pouring cereal,669,792
+mixing cereals,675,787
+pouring cereal,678,780
+pouring cereals,692,772
+add cereal,700,781
+pouring cereal,753,771
+putting back the cereals,780,802
+stirring with spoon,799,878
+stiring cereals,800,868
+mix,804,876
+Stirring cereal,807,871
+mixing cereal,807,872
+holding bowl,872,1264
+talking while eating ,876,1327
+eating,878,962
+Eating cereal,885,1240
+eating cereal,887,1324
+eating with spoon,913,947
+eating cereals,914,1258
+eat cereal,929,1262
+eating with spoon,1042,1095
+eating,1045,1097
+chewing cereals,1088,1117
+eating with spoon,1120,1172
+eating,1125,1174
+chewing cereals,1167,1201
+eating with spoon,1209,1247
+pulling back a bowl,1244,1268
+Setting cereal down,1246,1290
+eating with spoon,1287,1314
+stirring coffee ,1289,1367
+eat spoon,1292,1306
+putting spoon in coffee,1317,1327
+stirring coffee with spoon,1322,1374
+Stirring coffee,1323,1367
+stiring coffee,1324,1372
+mixing mug contents,1326,1366
+drinking coffee ,1327,1689
+stiring coffee,1329,1360
+drinking coffee,1377,1691
+taking a mug,1390,1413
+Drinking coffee,1392,1612
+drinking coffee,1393,1465
+holding mug,1397,1682
+drink,1411,1662
+drinking coffee,1412,1463
+drink,1416,1507
+drinking coffee,1478,1554
+drinking coffee,1481,1505
+drinking coffee,1520,1564
+putting back a cup,1553,1583
+Setting coffee down,1554,1593
+Drinking coffee,1618,1673
+talking while eating ,1689,2214
+eating cereal,1691,2218
+taking cereal pot,1695,1715
+eating ,1697,1810
+Eating cereal,1698,2172
+eating cereals,1731,2205
+eating with spoon,1737,1762
+eat cereal,1743,2182
+holding a spoon,1752,2200
+holding a bowl,1753,1987
+chewing cereals,1754,1909
+chewing food,1849,1878
+eating with spoon,1984,2020
+eating from bowl,1994,2192
+eating with spoon,2034,2070
+eating with spoon,2122,2158
+chewing cereals,2147,2218
+taking a mug,2288,2308
+holding coffee mug ,2293,2829
+Drinking coffee,2297,2462
+holding coffee/conversing,2297,2827
+taking coffee mug,2302,2328
+holding a mug,2310,2817
+holding mug,2321,2876
+drinking coffee,2819,2856
+Drinking coffee,2822,2871
+drinking coffee,2827,2859
+drinking coffee ,2829,2890
+drinking coffee,2833,2869
+drink,2835,2865
+putting back a mug,2857,2878
+taking a bowl,2879,2900
+eating cereals,2882,3059
+eating with spoon,2884,2944
+Eating cereal,2888,3048
+lifting bowl,2889,2908
+eating cereal ,2890,3075
+eating cereal,2891,3071
+eat cereal,2927,3055
+chewing cereals,2942,3009
+holding a bowl,2950,3036
+eating with spoon,3006,3048
+putting bakc a bowl,3037,3067
+puts bowl down,3050,3067

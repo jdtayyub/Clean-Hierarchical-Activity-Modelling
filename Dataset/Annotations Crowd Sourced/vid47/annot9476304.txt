@@ -1,0 +1,25 @@
+(Both) having lunch in restaurant,1,1987
+(Waiter/ess) giving menu,18,37
+(Customer) looking at menu,44,209
+(Waiter/ess) taking order,216,255
+(Waiter/ess) holding cup,320,330
+(Waiter/ess) holding pitcher,320,383
+(Customer) handing menu over,369,377
+(Customer) taking cup,357,364
+(Customer) taking cup,385,425
+(Customer) drinking from cup,397,415
+(Waiter/ess) putting down plate,468,479
+(Waiter/ess) putting down fork,477,1150
+(Customer) eating from plate,523,1164
+(Customer) drinking from cup,1183,1206
+(Waiter/ess) clearing table,1217,1266
+(Customer) taking cup,1180,1303
+(Waiter/ess) giving desert,1300,1321
+(Customer) opening lid,1345,1371
+(Customer) taking spoon,1372,1437
+(Customer) eating desert,1511,1704
+(Customer) drinking from cup,1738,1760
+(Customer) using credit machine,1806,1911
+(Waiter/ess) handing over machine,1967,1974
+(Customer) holding credit machine,1974,1993
+(Both) Making payment,1806,1994

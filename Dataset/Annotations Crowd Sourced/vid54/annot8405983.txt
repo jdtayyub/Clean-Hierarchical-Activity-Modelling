@@ -1,0 +1,18 @@
+(Waiter/ess) brings menu,19,54
+(Customer) looks at menu,54,108
+(Customer) places order,108,223
+(Waiter/ess) brings food,323,347
+(Customer) goes to eat,347,374
+(Waiter/ess) pours drink,374,438
+(Customer) eats food,438,601
+(Customer) takes drink,676,763
+(Customer) eats food,779,1056
+(Customer) calls waitress,1056,1081
+(Waiter/ess) takes dishes,1104,1139
+(Customer) takes drink,1182,1211
+(Waiter/ess) brings food,1211,1249
+(Customer) eats food,1249,1540
+(Waiter/ess) brings bill,1564,1614
+(Waiter/ess) takes dishes,1614,1626
+(Customer) puts in payment,1626,1672
+(Waiter/ess) takes payment,1672,1717

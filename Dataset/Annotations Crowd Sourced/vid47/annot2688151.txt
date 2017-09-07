@@ -1,0 +1,9 @@
+(Waiter/ess) arrives with menu,1,57
+(Customer) Orders food and drink,57,261
+(Customer)  waits for drink,261,322
+(Both) Drink Served and Consumed,322,462
+(Both) Food Served and Consumed,462,1203
+(Both)  Clear Table,1203,1271
+(Customer)  waits for dessert,1271,1300
+(Both) Desert served and consumed,1300,1782
+(Both) Clears table and payment,1782,1990

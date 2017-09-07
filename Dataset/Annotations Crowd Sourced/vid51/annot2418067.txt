@@ -1,0 +1,17 @@
+(Waiter/ess) give menu,1,44
+(Customer) reading menu,44,88
+(Both) taking,88,180
+(Waiter/ess) giving water,180,329
+(Customer) drinking,329,371
+(Customer) drinking,371,490
+(Waiter/ess) serving food,598,635
+(Customer) eating,635,794
+(Customer) taking and eating,794,902
+(Customer) eating fruit,1103,1176
+(Customer) chewing,1176,1267
+(Customer) drinking,1267,1356
+(Customer) eating,1356,1511
+(Customer) drinking,1511,1566
+(Customer) paying bill,1717,1812
+(Waiter/ess) clean table,1717,1767
+(Waiter/ess) recieve payment/return card,1812,1846

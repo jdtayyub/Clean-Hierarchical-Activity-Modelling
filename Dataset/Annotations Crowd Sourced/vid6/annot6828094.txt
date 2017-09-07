@@ -1,0 +1,16 @@
+Pouring tea / coffee,74,112
+Pouring cereal,147,177
+pouring milk,205,225
+stirring,235,266
+eating a bite,266,281
+Reading cereal box,286,535
+eating a bite,339,359
+eating a bite,441,461
+eating a bite,546,571
+drinking coffee / tea,635,700
+eating a bite,713,728
+reading paper,741,1193
+eating a bite,922,938
+eating a bite,986,998
+eating a bite,1196,1216
+drinking coffee / tea,1251,1435

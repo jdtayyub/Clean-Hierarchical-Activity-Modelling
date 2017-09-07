@@ -1,0 +1,4 @@
+Uses Spoon to Stir,2022,2091
+Uses Spoon to Stir,2261,2430
+Use tea box,65,275
+Use Tea pot,279,452

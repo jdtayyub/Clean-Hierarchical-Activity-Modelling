@@ -1,0 +1,13 @@
+Opening Laptop,1,44
+connecting headphone,44,74
+watching laptop,74,113
+seeing papers,113,185
+writing in paper,185,299
+working on calculator,299,337
+writing in paper,337,367
+working on laptop,367,456
+drinking some water,456,482
+stapling papers,546,564
+working in laptop,564,618
+removing headphone,618,641
+closing laptop,641,661

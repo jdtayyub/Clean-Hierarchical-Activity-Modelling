@@ -1,0 +1,16 @@
+poured milk ,105,217
+added cereals in bowl,267,328
+eat the cereal ,503,540
+mixed well,558,573
+eat cereal,640,699
+chewed the cereal,744,812
+kept the bowl down,842,875
+turned the newspaper,910,1259
+read the news paper,1268,1482
+taken the cup,1491,1702
+eat the cereal once,1838,1899
+eat it once more,1984,2004
+eat once again,2369,2434
+eat once again,2510,2530
+eat once again,2554,2690
+drink,2759,2960

@@ -1,0 +1,45 @@
+(Customer) waits for waitress,1,39
+(Waiter/ess) brings menu,39,49
+(Customer) looks through menu,49,215
+(Customer) calling waitress,216,233
+(Both) discuss order,237,260
+(Customer) place order,260,306
+(Waiter/ess) takes menu,306,320
+(Waiter/ess) leaves,320,328
+(Customer) waiting for food,389,420
+(Waiter/ess) opens juice,412,447
+(Waiter/ess) pours juice,447,459
+(Waiter/ess) leaves,463,482
+(Customer) drinks juice,482,513
+(Waiter/ess) brings food,513,537
+(Customer) begins to eat,537,545
+(Waiter/ess) leaves,545,554
+(Customer) keeps eating,574,667
+(Customer) eats with hands,579,688
+(Customer) taking bites,799,1194
+(Customer) dusts hands,1194,1205
+(Customer) drinking juice,1232,1306
+(Customer) starts eating,1306,1394
+(Customer) continues to eat,1320,1522
+(Customer) continues eating,1550,1702
+(Customer) drinks juice,1713,1767
+(Customer) eating,1777,1952
+(Customer) dusts hands,1952,1976
+(Customer) looking for waitress,1998,2009
+(Waiter/ess) walks over,2009,2018
+(Waiter/ess) discuss food,2017,2054
+(Waiter/ess) leaves with plate,2053,2072
+(Waiter/ess) brings yogurt,2102,2121
+(Customer) prepares yogurt,2175,2234
+(Customer) drinking juice,2234,2323
+(Customer) starts eating yogurt,2323,2479
+(Customer) eating yogurt,2479,2562
+(Customer) eating yogurt,2514,2608
+(Customer) eating yogurt,2638,2798
+(Customer) greeting waitress,2798,2816
+(Waiter/ess) brings bill,2816,2844
+(Both) discuss service,2815,2863
+(Waiter/ess) leaves with dishes,2863,2882
+(Customer) looking for card,2837,2888
+(Customer) enters pin,2883,2955
+(Both) discuss payment,3000,3019

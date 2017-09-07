@@ -1,0 +1,34 @@
+(Customer) turns head,13,23
+(Waiter/ess) walks to table,20,28
+(Waiter/ess) sets paper down,29,35
+(Waiter/ess) moves back,27,37
+(Waiter/ess) greets customer,36,40
+(Customer) moves menu,42,56
+(Waiter/ess) puts fruit down,67,93
+(Customer) looks at menu,76,129
+(Customer) orders a drink,132,206
+(Waiter/ess) takes drink order,116,206
+(Waiter/ess) walks away,209,225
+(Customer) looks at menu,221,342
+(Waiter/ess) brings drink in,349,361
+(Waiter/ess) puts drink down,361,396
+(Waiter/ess) takes food order,387,462
+(Customer) orders food,418,463
+(Waiter/ess) walks away,470,480
+(Customer) drinks her milk,559,643
+(Customer) checks watch,709,720
+(Customer) waits,670,830
+(Waiter/ess) walks to table,837,851
+(Waiter/ess) puts mains down,853,879
+(Waiter/ess) walks away,881,891
+(Customer) eats her food,901,1728
+(Customer) takes a drink,1730,1784
+(Waiter/ess) walks in,1913,1953
+(Waiter/ess) takes plate,1954,1964
+(Waiter/ess) talks to customer,1962,2142
+(Waiter/ess) takes plate away,2142,2161
+(Customer) waits,2161,2227
+(Waiter/ess) walks in,2229,2239
+(Waiter/ess) sets desert plate down,2237,2257
+(Waiter/ess) walks away,2267,2281
+(Customer) eats,2284,2494

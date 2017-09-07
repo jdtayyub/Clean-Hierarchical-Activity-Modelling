@@ -1,0 +1,31 @@
+pours into cup,2,72
+removes container top,72,107
+picks up spoon,101,121
+mixes into drink,121,170
+replaces cap,167,199
+talking to someone,189,216
+stirs drink,216,286
+talks and laughs,216,296
+drinks from mug,296,309
+pours out dereal,309,369
+pours liquid into,369,404
+stirs cereal,424,443
+eats cereal,443,504
+picks up apple,504,515
+drinks from mug,538,614
+talking ,542,699
+eats apple,699,915
+looks at door,850,865
+eats from bowl,914,1166
+eats from apple,1166,1589
+drinks from mug,1597,1755
+eats from bowl,1760,1857
+adjusts shirt,1852,1890
+eats from apple,1894,2009
+twists in chair,1919,2022
+drinks from mug,2076,2120
+breakfast,1,2121
+making meal,1,434
+holding conversation,520,2142
+moving feet around,477,1731
+making a drink,23,282

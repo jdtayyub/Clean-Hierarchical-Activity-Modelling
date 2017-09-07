@@ -1,0 +1,29 @@
+(Waiter/ess) give menu,1,39
+(Customer) open menu,111,127
+(Customer) make order,127,207
+(Customer) close menu,207,227
+(Customer) drink from cup,227,340
+(Customer) put cup down,340,453
+(Customer) pick up cup,453,481
+(Customer) drink from cup,481,499
+(Customer) put cup down,499,549
+(Customer) pick up spoon,549,646
+(Customer) starting eating,646,680
+(Customer) stir salad,680,888
+(Customer) starting eating,888,915
+(Customer) plate on side,1028,1057
+(Customer) pick up apple,1057,1172
+(Customer) starting eating,1172,1189
+(Customer) pick up cup,1189,1349
+(Customer) drinking from cup,1349,1362
+(Customer) cup down,1362,1459
+(Customer) touch spoon,1459,1482
+(Customer) bite apple,1482,1503
+(Customer) put it down,1493,1503
+(Customer) drink from cup,1503,1537
+(Customer) drink from cup,1614,1650
+(Customer) put cup down,1640,1659
+(Customer) take out card,1659,1705
+(Customer) check bill,1722,1763
+(Customer) put it down,1763,1811
+(Customer) put card away,1811,1864

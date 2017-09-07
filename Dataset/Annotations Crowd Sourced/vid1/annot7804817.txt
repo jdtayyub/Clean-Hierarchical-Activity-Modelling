@@ -1,0 +1,43 @@
+touching the cup,52,71
+touching the box,71,92
+touching the box,71,93
+openning coffee jar,93,167
+pouring coffee,167,240
+closing coffee jar,240,308
+taking teapot,308,362
+pouring water,362,511
+taking sugar,511,613
+shaking sugar,563,586
+opening sugar,634,674
+pouring sugar,674,728
+taking spoon,728,742
+mixing coffee,742,885
+tasting coffee,885,972
+talking somebody,972,1053
+putting down spoon,1053,1066
+taking cereal,1067,1131
+pouring cereal into bowl,1131,1163
+putting down cereal,1163,1233
+taking milk box,1233,1251
+openning milk box,1251,1289
+pouring milk box,1289,1383
+closing milk box,1383,1426
+taking spoon,1426,1446
+mixing while talking,1457,1892
+eating breakfast,1892,4169
+taking cup,2093,2141
+putting down cup,2141,2186
+drinking coffee,2186,2297
+taking cup,2094,2118
+putting down the cup,2119,2137
+pointing at the box,2132,2146
+holding the cup,2144,2183
+looking at the box,2179,2199
+drinking coffee,2200,2274
+talking and mixing,2274,2371
+eating and talking,2372,2665
+drinking coffee,2674,2758
+eating and talking,2759,3365
+drinking coffee,3366,3447
+eating,3448,3818
+drinking,3819,4093

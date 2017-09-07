@@ -1,0 +1,19 @@
+taking teabox,9,48
+puttng teabag in mug,44,54
+using teapot,54,118
+taking cereal box,121,183
+pouring cereal,138,159
+taking milk carton,185,234
+pouring milk,206,215
+closing milk carton,215,227
+opening milk carton,194,201
+stirring cereal,240,265
+eating cereal,265,287
+reading newspaper,287,1437
+eating cereal,265,1340
+stirring tea,617,649
+drinking tea,649,771
+adding more milk,883,935
+adding more cereal,935,966
+drinking tea,1074,1125
+drinking tea,1347,1398

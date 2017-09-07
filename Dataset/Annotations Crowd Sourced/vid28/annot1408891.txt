@@ -1,0 +1,16 @@
+Opening laptop,18,39
+Fixing headset,39,68
+Playing music,76,99
+Arranging papers,109,155
+Writing on paper,162,199
+Checking total,276,304
+Using calculator,310,347
+Working on computer,369,452
+Drinking water,459,500
+Checking papers,505,547
+Staple the paper,553,570
+Stop the music,577,617
+Removing headset,621,634
+Closing the laptop,640,655
+Arranging papers,661,690
+Completing task,696,696

@@ -1,0 +1,14 @@
+(Customer) reading menu,30,135
+(Customer) giving the menu,135,159
+(Customer) using the phone,177,247
+(Customer) taking food with hand,299,308
+(Customer) eating,308,389
+(Customer) drinking from cup,413,455
+(Customer) eating,478,697
+(Customer) drinking from cup,697,725
+(Customer) using fork and knife,753,758
+(Customer) eating from bowl,832,866
+(Customer) using phone,866,1076
+(Customer) eating from bowl,973,1065
+(Customer) Puting in pin,1130,1274
+(Customer) using phone,1377,1467

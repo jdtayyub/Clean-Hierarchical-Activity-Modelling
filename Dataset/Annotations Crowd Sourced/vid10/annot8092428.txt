@@ -1,0 +1,16 @@
+Making instant coffee,66,490
+Eating yogurt,517,682
+Reading newspaper,694,1096
+Drinking coffee,1060,1229
+Answering cell phone,1665,2000
+Pouring hot water,281,350
+Pouring creamer,358,429
+Stirring coffee,432,500
+Eating yogurt,1057,1094
+Drinking coffee,1108,1187
+Turning the page,1188,1295
+Eating yogurt,1317,1421
+Turning the page,1430,1518
+Drinking coffee,1751,1831
+Eating yogurt,1862,1996
+Eating yogurt,2039,2122

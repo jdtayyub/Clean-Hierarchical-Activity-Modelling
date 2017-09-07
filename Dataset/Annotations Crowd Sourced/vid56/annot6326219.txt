@@ -1,0 +1,18 @@
+(Waiter/ess) brings menu,40,79
+(Customer) receives menu,55,83
+(Customer) studies menu,88,316
+(Customer) orders from menu,318,359
+(Waiter/ess) takes order,317,361
+(Waiter/ess) takes menu away,360,390
+(Waiter/ess) brings cup,510,531
+(Customer) drinks from cup,537,584
+(Waiter/ess) serves food,584,616
+(Customer) eats food,633,1190
+(Waiter/ess) writes order in notepad,1235,1261
+(Customer) takes a drink,1281,1340
+(Waiter/ess) brings mug,1307,1338
+(Waiter/ess) clears plate away,1401,1443
+(Customer) eats from carton,1450,1805
+(Both) payment of the bill,1858,1935
+(Waiter/ess) brings carton,1308,1337
+(Customer) sits at table for lunch,1,1966

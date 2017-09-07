@@ -1,0 +1,32 @@
+Put headset On,41,77
+Take headset Off,77,87
+Grab Pen,89,93
+writing,93,301
+Checking paper,281,347
+Touching headset,334,356
+Writing,356,503
+Checking cellphone,462,515
+Writing,505,839
+Itching face,846,854
+Grab Pen,855,861
+Writing,870,898
+Put headset On,898,925
+Using Laptop,957,1261
+Checking phone,1250,1271
+Grab Pen,1271,1285
+Writing,1285,1338
+Checking cellphone,1338,1742
+Grab Pen,1743,1747
+Writing,1757,1771
+Grab Stapler,1780,1786
+Aligning paper,1808,1892
+Stapling paper,1929,1957
+Grab Pen,1959,1966
+Writing,1970,2021
+Remove headset,2014,2040
+Grab highlighter,2054,2061
+Highlights stuff on paper,2112,2255
+Put highlighter away,2255,2313
+Grab pencil,2328,2339
+Writing,2355,2498
+Thumbs Up,2505,2517

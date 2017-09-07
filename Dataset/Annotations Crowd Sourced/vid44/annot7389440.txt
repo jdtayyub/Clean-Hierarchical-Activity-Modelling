@@ -1,0 +1,18 @@
+(Customer) holding the menu,41,111
+(Customer) reading the menu,121,131
+(Both) talking,131,211
+(Customer) reading menu,211,341
+(Customer) giving back menu,459,471
+(Waiter/ess) pouring drink,556,599
+(Customer) drinking,606,640
+(Customer) checking the time,712,718
+(Customer) eating from plate,892,1132
+(Customer) eating food bag,1132,1272
+(Customer) eating from plate,1282,1672
+(Customer) chewing,1672,1732
+(Customer) drinking,1739,1779
+(Customer) eating food from bag,1784,1854
+(Customer) chewing,1862,1912
+(Both) talking,1932,2132
+(Both) talking,2261,2265
+(Customer) eating,2285,2500

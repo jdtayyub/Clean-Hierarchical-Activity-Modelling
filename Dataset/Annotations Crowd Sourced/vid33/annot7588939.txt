@@ -1,0 +1,16 @@
+Opening laptop,866,71
+Wearing earphone,71,96
+Picking up pencil,96,150
+Writing on the paper ,150,504
+Typing on the laptop,504,742
+Fiddeling with stapler and paper,742,826
+Closes laptop,824,866
+Searching on laptop,158,188
+Writing on paper ,218,498
+Typing on laptop,498,738
+Picking up stapler,738,758
+Arranging papers,758,788
+Stapling papers,788,818
+Switching off laptop,818,838
+Closing the laptop,838,848
+Removed earpieces ,848,866

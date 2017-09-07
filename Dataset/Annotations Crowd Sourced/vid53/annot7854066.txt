@@ -1,0 +1,9 @@
+(Customer) looking at the menu,54,319
+(Customer) ordering,218,309
+(Customer) drinking juice,474,518
+(Customer) eating main meal,563,1989
+(Customer) drinking juice,1190,1313
+(Customer) drinking juice,1708,1780
+(Customer) drinking juice,2228,2320
+(Customer) eating yogurt,2145,2823
+(Customer) puting in pin,2833,2994

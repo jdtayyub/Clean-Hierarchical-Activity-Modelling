@@ -1,0 +1,17 @@
+(Waiter/ess) Hands out menu,15,62
+(Customer) Interacts with waitress,83,220
+(Customer) Looks over menu,241,622
+(Waiter/ess) brings beverages,622,689
+(Waiter/ess) Pours drink,707,724
+(Waiter/ess) Takes order,787,1216
+(Customer) Grabs drink,1246,1307
+(Customer) takes drink,1356,1424
+(Waiter/ess) brings plate,1800,1849
+(Customer) eats food,1871,2804
+(Customer) takes drink,2804,2854
+(Customer) eats food,3053,3571
+(Customer) converse,3639,3714
+(Customer) takes drink,3757,3794
+(Customer) makes payment,3794,3926
+(Waiter/ess) takes dishes,3926,3977
+(Waiter/ess) takes payment,4047,4066

@@ -1,0 +1,7 @@
+putting on headphones,1,18
+using laptop,1,150
+taking pen,151,483
+using stapler,485,540
+using pen,542,579
+closing laptop,647,665
+taking off headphones,584,694

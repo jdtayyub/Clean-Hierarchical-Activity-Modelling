@@ -1,0 +1,30 @@
+(Waiter/ess) Walks in with menu,1,64
+(Customer) Looks at menu,64,236
+(Customer) Calls the waitress,236,311
+(Waiter/ess) Takes the order,311,364
+(Waiter/ess) Walks away,364,396
+(Customer) Waits for food,396,470
+(Waiter/ess) Brings a mug,470,514
+(Customer) drinks beverage,514,557
+(Waiter/ess) Brings in food,557,604
+(Customer) Starts eating,604,657
+(Customer) eating salad,657,777
+(Customer) Eats more salad,777,923
+(Customer) eating salad,923,1045
+(Customer) Puts plate away,1045,1201
+(Customer) Calls waitress,1201,1227
+(Waiter/ess) Walks in again,1227,1248
+(Waiter/ess) Takes desert order,1248,1261
+(Customer) Drinks beverage,1261,1304
+(Waiter/ess) Brings in ice cream ,1304,1331
+(Waiter/ess) Walks in,1331,1382
+(Waiter/ess) Clears the table,1382,1427
+(Customer) starts eating,1427,1476
+(Customer) Eats more ice cream,1476,1566
+(Customer) eating ice cream,1566,1633
+(Customer) Eats ice cream,1633,1700
+(Waiter/ess) Walks in with machine,1700,1812
+(Waiter/ess) Clears table,1812,1851
+(Both) Makes the payment,1810,1939
+(Waiter/ess) Walks away with plates,1894,1936
+(Customer) Puts wallet in pocket,1936,1966

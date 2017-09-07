@@ -1,0 +1,10 @@
+pouring coffee grounds,45,59
+pouring water,94,109
+mixing mug contents,125,140
+pouring cereal,161,182
+pouring milk,213,228
+opening paper,245,280
+eating cereal,287,318
+drinking coffee,335,349
+turning pages,368,388
+closing paper,801,811

@@ -1,0 +1,22 @@
+adding suger,17,55
+adding hot water ,63,114
+adding cereal ,127,171
+adding milk,192,240
+eating ,246,292
+turning newspaper,292,358
+eating ,358,404
+reading newspaper,404,519
+eating cereal ,519,553
+reading newspaper ,553,619
+drinking coffee ,619,768
+eating cereal ,768,884
+adding milk,884,934
+adding cereal,934,966
+eating ,966,999
+reading newspaper ,999,1087
+drinking coffee ,1060,1115
+turning newspaper ,1115,1137
+eating cereal ,1137,1341
+reading newspaper ,1341,1366
+drinking coffee ,1366,1415
+folding newspaper ,1415,1450

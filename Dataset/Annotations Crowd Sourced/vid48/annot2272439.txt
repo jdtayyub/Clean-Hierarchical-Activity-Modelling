@@ -1,0 +1,17 @@
+(Waiter/ess) hands menu,32,37
+(Customer) looks at phone,77,85
+(Customer) gives order,182,201
+(Waiter/ess) sets silverware,207,218
+(Customer) gives order,240,253
+(Waiter/ess) takes menu,298,305
+(Customer)  texting,356,800
+(Waiter/ess) brings food,815,841
+(Customer) on phone,902,980
+(Customer) eating,988,1516
+(Customer) drinking,1516,1686
+(Waiter/ess) takes plate,1904,1981
+(Customer) talking,2059,2080
+(Waiter/ess) enters with desert cup,2217,2227
+(Customer) eating dessert,2255,2756
+(Customer)s pays (Waiter/ess),2837,2896
+(Waiter/ess) cleans up,2927,2935

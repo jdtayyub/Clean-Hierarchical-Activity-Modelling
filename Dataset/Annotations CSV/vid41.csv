@@ -1,0 +1,173 @@
+(Waiter/ess) leave menu,13,29
+(Customer) talks with waitress,17,203
+(Both) Place Order Drink,38,221
+(Customer) reading notes,59,100
+(Customer) Interacts with waitress,83,220
+(Both) talking,100,212
+(Both) Talking,101,212
+(Waiter/ess) going back,212,234
+(Customer) Looking on menu,214,620
+(Waiter/ess) leaves the room,219,232
+(Both) Pre-service,221,615
+(Customer) looking into menu,223,616
+(Both) talking ,234,281
+(Customer) Looks over menu,241,622
+(Customer) read the menu,275,620
+(Customer) turning pages,287,328
+(Customer) reading,328,466
+(Customer) scratches the neck,441,542
+(Customer) reading ,549,596
+(Customer) turning pages,596,607
+(Waiter/ess) coming,607,635
+(Waiter/ess) enter the room,612,632
+(Waiter/ess) Serves Drink,615,755
+(Waiter/ess) giving water,617,785
+(Waiter/ess) leaves cup,620,630
+(Waiter/ess) bringing the order,622,806
+(Waiter/ess) brings beverages,622,689
+(Waiter/ess) opens bottle,632,690
+(Waiter/ess) opening bottle,635,694
+(Waiter/ess) serves bottle,690,721
+(Waiter/ess) pouring,694,728
+(Waiter/ess) Pours drink,707,724
+(Waiter/ess) closes bottle,722,748
+(Waiter/ess) taking order,728,1210
+(Waiter/ess) leaves bottle,744,748
+(Customer) Place Order Meal,755,1216
+(Customer) ordering food items,786,1220
+(Waiter/ess) Takes order,787,1216
+(Customer) orders from menu,801,854
+(Customer) ordering to waitress,810,865
+(Waiter/ess) writes a note,854,1170
+(Waiter/ess) writing the order,866,1012
+(Customer) orders more,883,1195
+(Customer) ordering,1013,1104
+(Waiter/ess) writing on a paper,1105,1173
+(Customer) ordering,1174,1210
+(Waiter/ess) leaves the room,1208,1227
+(Waiter/ess) going back,1210,1224
+(Waiter/ess) walking back,1211,1235
+(Both) Waiting and Preparation,1216,1795
+(Customer) drinking water,1221,1435
+(Customer) taking the cup,1236,1312
+(Customer) Grabs drink,1246,1307
+(Customer) drinks from cup,1247,1408
+(Customer) drinks from cup,1250,1403
+(Customer) holding mug,1258,1295
+(Customer) keeping menu aside,1286,1332
+(Customer) left paper,1295,1329
+(Customer) pulls aside menu,1300,1320
+(Customer) placing back the menu,1313,1328
+(Customer) drinking,1329,1412
+(Customer) drinking,1329,1417
+(Customer) takes drink,1356,1424
+(Customer) placing back the cup,1413,1434
+(Customer) talking,1417,1489
+(Customer) talking to someone,1435,1796
+(Customer) waiting for food,1436,1793
+(Customer) waits waitress,1468,1791
+(Customer) talking,1489,1619
+(Customer) talking,1619,1800
+(Waiter/ess) enters the room,1791,1806
+(Waiter/ess) giving food,1794,1846
+(Waiter/ess) Serves Meal,1795,1849
+(Waiter/ess) bringing the order,1797,1828
+(Waiter/ess) coming back,1800,1811
+(Waiter/ess) brings plate,1800,1849
+(Waiter/ess) leaves a plate,1801,1818
+(Waiter/ess) serving food,1811,1824
+(Customer) picks plate,1823,1880
+(Both) talking,1824,1843
+(Waiter/ess) walking back,1829,1846
+(Waiter/ess) leaves room,1835,1848
+(Waiter/ess) going back,1843,1849
+(Customer) picking the food,1847,1901
+(Customer) eating food,1847,2789
+(Customer) eats meal,1851,3502
+(Customer) eats food,1868,2792
+(Customer) eating ,1868,2459
+(Customer) eats food,1871,2804
+(Customer) eating the food,1902,1948
+(Customer) chewing the stuff,1949,2006
+(Customer) eating,2007,2023
+(Customer) chewing the food,2024,2063
+(Customer) piecing the food,2064,2203
+(Customer) eating the food,2204,2223
+(Customer) chewing the food,2224,2252
+(Customer) making pieces the food,2253,2330
+(Customer) eating the food,2331,2374
+(Customer) chewing and talking,2375,2525
+(Customer) eating,2459,2803
+(Customer) eating,2526,2538
+(Customer) chewing,2539,2588
+(Customer) eating the food,2589,2673
+(Customer) chewing the food,2674,2797
+(Customer) drinking water,2790,2869
+(Customer) drinks from cup,2792,2866
+(Customer) drinking from cup,2798,2854
+(Customer) drinking,2803,2854
+(Customer) takes drink,2804,2854
+(Customer) talking,2854,3184
+(Customer) chewing and talking,2855,3003
+(Customer) eats food,2866,3458
+(Customer) having food ,2870,3552
+(Customer) making pieces the food,3004,3052
+(Customer) eating the food,3053,3083
+(Customer) eats food,3053,3571
+(Customer) chewing and talking,3084,3187
+(Customer) eating,3184,3427
+(Customer) making pieces the food,3188,3264
+(Customer) eating,3265,3288
+(Customer) chewing the food,3297,3364
+(Customer) eating the food,3365,3380
+(Customer) chewing the food,3381,3421
+(Customer) cleans hands,3398,3445
+(Customer) eating and talking,3422,3511
+(Customer) talking,3427,3516
+(Customer) requests bill,3502,3663
+(Customer) chewing the food,3512,3554
+(Customer) eating,3516,3639
+(Customer) chewing and relaxing,3553,3654
+(Customer) talking to someone,3555,3631
+(Waiter/ess) coming back to customer,3632,3655
+(Waiter/ess) enter the room,3638,3656
+(Waiter/ess) coming back,3639,3651
+(Customer) converse,3639,3714
+(Both) talking,3651,3709
+(Both) discussing the order,3652,3715
+(Waiter/ess) talking to customer,3656,3706
+(Waiter/ess) Prepare Bill,3663,3730
+(Waiter/ess) walking back,3707,3723
+(Waiter/ess) leaves room,3709,3723
+(Waiter/ess) going back,3709,3723
+(Customer) drinking water,3716,3807
+(Customer) drinking from cup,3724,3785
+(Customer) takes a drink,3730,3777
+(Customer) drinks from cup,3741,3790
+(Customer) drinking,3748,3793
+(Customer) takes drink,3757,3794
+(Waiter/ess) enter the room,3775,3795
+(Waiter/ess) Server gives bill,3777,3799
+(Both) Payment of Bill,3780,4090
+(Waiter/ess) giving swiping machine,3781,3882
+(Waiter/ess) coming back,3786,3798
+(Customer) paying bill,3793,3910
+(Customer) makes payment,3794,3926
+(Customer) pays ,3795,4009
+(Waiter/ess) giving the bill,3799,3915
+(Customer) get credit card,3799,3841
+(Customer) swipes credit card and pays bill,3841,3890
+(Customer) using swiping-machine,3883,4020
+(Waiter/ess) Clears Table,3890,3969
+(Waiter/ess) cleaning table,3910,3971
+(Waiter/ess) taking back the plates,3916,3972
+(Waiter/ess) takes dishes,3926,3977
+(Waiter/ess) pick and leave,3949,3973
+(Waiter/ess) take the bill,3969,4089
+(Customer) paid bill,3971,4049
+(Waiter/ess) going back,3972,3975
+(Waiter/ess) typing on machine,3976,4013
+(Customer) giving back the machine,4014,4064
+(Customer) giving swiping-machine back,4021,4089
+(Waiter/ess) takes payment,4047,4066
+(Waiter/ess) going back,4049,4089

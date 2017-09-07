@@ -1,0 +1,38 @@
+(Waiter/ess) walks in,23,40
+(Waiter/ess) give customer menu,40,50
+(Customer) looks through menu,46,313
+(Customer) points at item ,143,208
+(Customer) points to menu,227,242
+(Waiter/ess) walks to table,228,242
+(Waiter/ess) writes order,242,301
+(Both) places order,261,303
+(Waiter/ess) takes menu away,302,318
+(Waiter/ess) closes menu,307,312
+(Waiter/ess) leaves,318,328
+(Waiter/ess) walks to table,398,409
+(Waiter/ess) puts cup down,409,411
+(Waiter/ess) unscrews lid,411,431
+(Waiter/ess) pours juice,431,451
+(Waiter/ess) puts lid on juice,451,460
+(Waiter/ess) puts juice on table,460,466
+(Waiter/ess) leaves room,468,477
+(Customer) picks up glass,470,480
+(Customer) drinks juice,480,503
+(Customer) puts glass down,503,515
+(Waiter/ess) walks to table,505,517
+(Waiter/ess) puts plate down,515,524
+(Waiter/ess) puts utensils down,515,526
+(Waiter/ess) leaves room,538,554
+(Customer) eats,554,1211
+(Customer) drinks juice,1211,1293
+(Customer) eating,1307,1709
+(Customer) drinks juice,1709,1773
+(Customer) eating,1773,2022
+(Waiter/ess) walks to table,2003,2023
+(Both) talking,2025,2045
+(Waiter/ess) leaves room,2064,2073
+(Waiter/ess) walks to table,2101,2118
+(Both) eating at restaurant,44,3032
+(Customer) eating yogurt,2228,2815
+(Customer) pays with card,2875,2989
+(Waiter/ess) gives customer receipt,3003,3015

@@ -1,0 +1,58 @@
+pick up milk carton,48,58
+remove milk lid,58,85
+pour milk into bowl,85,140
+pour milk into cup,140,205
+put milk lid on,205,237
+put milk down,237,242
+pick up cereal,242,269
+pour cereal,269,317
+put cereal box down,327,346
+swirl tea,347,359
+drink tea,359,414
+swirl cereal,413,433
+smile,451,476
+eat cereal,458,540
+learn forward ,444,463
+turn in chair,465,476
+lean back,476,502
+eat cereal,633,712
+eat cereal,799,819
+reading the newspaper,868,2585
+open newspaper,870,879
+touch cup,887,901
+turn newspaper over,906,938
+open and close newspaper,949,1004
+skimming newspaper,1029,1456
+talking,38,3262
+pick up cup ,1457,1478
+switch hands on cup,1478,1515
+adjust shirt,1559,1574
+drink tea,1757,1789
+put cup down,1804,1807
+eat cereal,1861,1894
+scratch nose,1939,1940
+eat cereal,1987,2000
+put bowl down,2022,2032
+scratch nose,2051,2061
+rest hands in lap,2069,2147
+eat cereal,2300,2318
+eat cereal,2420,2450
+eat cereal,2515,2525
+adjust self in seat,2568,2581
+eat cereal,2685,2697
+pick up cup,2731,2740
+switch hands on cup,2750,2760
+adjust in seat,2763,2794
+put hand on cup,2794,2815
+drink tea,2816,2831
+adjust self in seat,2850,2902
+drink tea,2957,2989
+put cup down,2989,3016
+put hand on arm,3018,3027
+swivel in chair,3030,3103
+shake head no,3152,3177
+nod yes,3181,3194
+shake head no,3209,3228
+smile,3258,3318
+adjust shirt,3296,3322
+eating breakfast,1,3014

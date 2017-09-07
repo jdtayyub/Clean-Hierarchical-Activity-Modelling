@@ -1,0 +1,8 @@
+opens laptop,16,33
+puts in headphones,33,47
+writing notes,119,656
+flips paper,425,453
+listening to music,43,839
+using laptop,654,851
+closing laptop,836,850
+typing,690,783

@@ -1,0 +1,13 @@
+move his hand infront,30,52
+grab cereal box,59,95
+open cereal box,121,134
+drop cereal  bold,138,205
+put cereal box back,214,228
+grab milk box,228,236
+pour milk bold,250,261
+close box milk,289,310
+return box milk,310,326
+grab jar,327,342
+open jar,347,360
+grab spoon,366,402
+return jar,403,432

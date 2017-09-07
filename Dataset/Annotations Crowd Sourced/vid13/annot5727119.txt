@@ -1,0 +1,6 @@
+preparing meal,33,365
+eating cereal,476,870
+flipping through newspaper,888,1447
+ingesting beverage,1460,1830
+eating cereal,1830,2723
+sitting at table having meal,1,3302

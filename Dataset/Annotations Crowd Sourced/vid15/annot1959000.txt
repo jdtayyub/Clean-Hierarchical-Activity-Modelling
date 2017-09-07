@@ -1,0 +1,13 @@
+add sugar,426,473
+add milk,540,614
+add cereal,700,781
+mix,804,876
+eat cereal,929,1262
+eat spoon,1292,1306
+drink,1416,1507
+drink,1411,1662
+eat cereal,1743,2182
+drink,2835,2865
+eat cereal,2927,3055
+add coffee,78,119
+use teapot,189,269

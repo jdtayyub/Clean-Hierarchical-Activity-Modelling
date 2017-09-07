@@ -1,0 +1,18 @@
+(Waiter/ess) Offering menu,13,22
+(Customer) Reading Menu,41,196
+(Waiter/ess) Taking order,213,290
+(Both) Discussing order,211,283
+(Waiter/ess) Taking away menu,289,300
+(Customer) waiting for order,307,435
+(Waiter/ess) Bringing order,438,451
+(Waiter/ess) pouring water,482,511
+(Customer) eating with spoon,528,1221
+(Customer) picking up glass,1242,1253
+(Customer) drinking from glass,1253,1317
+(Waiter/ess) taking away plate,1288,1324
+(Customer) picking up apple,1342,1351
+(Customer) Eating apple,1488,1724
+(Customer) picking up glass,1809,1819
+(Customer) drinking from glass,1830,1848
+(Customer) picking up apple,1872,1881
+(Both) paying order,1875,1919

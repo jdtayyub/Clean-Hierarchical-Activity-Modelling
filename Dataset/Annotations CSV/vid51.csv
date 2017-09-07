@@ -1,0 +1,119 @@
+(Customer) Read menu,30,175
+(Customer) Checking menu,33,162
+(Customer) reading menu,44,88
+(Customer) look though menu,57,244
+(Both) taking,88,180
+(Customer) start reading menu,94,244
+(Customer) Reading Menu,96,172
+(Customer) open menu,111,127
+(Customer) make order,127,207
+(Customer) ordering food,174,221
+(Waiter/ess) Takes order,179,234
+(Waiter/ess) giving water,180,329
+(Customer) Ordering food,185,216
+(Both) Ordering and order writting,199,236
+(Customer) close menu,207,227
+(Customer) drink from cup,227,340
+(Waiter/ess) Taking away the menu,243,258
+(Waiter/ess) Taking back menu,244,254
+(Waiter/ess) Takes menu away,244,252
+(Customer) waiting for order,254,310
+(Customer) Waiting for order,258,307
+(Waiter/ess) Bringing Water ,312,326
+(Waiter/ess) Offering juice,318,329
+(Waiter/ess) brings water ,318,337
+(Waiter/ess) Brings water,322,332
+(Customer) drinking,329,371
+(Customer) Picking up the glass,330,334
+(Customer) Drinks water,332,446
+(Customer) drinking juice,339,455
+(Customer) put cup down,340,453
+(Customer) drinking,340,362
+(Customer) Drinking from the glass,341,450
+(Customer) drinking,371,490
+(Waiter/ess) Bring silverware,390,410
+(Waiter/ess) Placing spoons ,393,405
+(Customer) drinks water,393,412
+(Waiter/ess) putting table spoons ,397,405
+(Customer) pick up cup,453,481
+(Customer) Drinks water again,457,549
+(Customer) drinking juice,479,548
+(Customer) drink from cup,481,499
+(Customer) put cup down,499,549
+(Customer) pick up spoon,549,646
+(Customer) waiting for food,588,612
+(Waiter/ess) serving food,598,635
+(Waiter/ess) Bringing order,616,629
+(Waiter/ess) bring food,617,636
+(Waiter/ess) Delivers food,618,628
+(Waiter/ess) offering food,619,623
+(Customer) Eats food,628,1053
+(Customer) eating food,633,1053
+(Customer) eating,635,794
+(Customer) picks up fork,636,1047
+(Customer) eating,638,1046
+(Customer) starting eating,646,680
+(Customer) Eating the order,646,1052
+(Waiter/ess) start to eat,673,1065
+(Customer) stir salad,680,888
+(Customer) taking and eating,794,902
+(Customer) starting eating,888,915
+(Customer) plate on side,1028,1057
+(Customer) pick up apple,1057,1172
+(Waiter/ess) taking order,1072,1126
+(Waiter/ess) Checks on meal,1074,1107
+(Waiter/ess) Taking order,1080,1105
+(Customer) eating fruit,1103,1176
+(Waiter/ess) takes food,1121,1159
+(Waiter/ess) Takes dishes away,1127,1138
+(Waiter/ess) Taking away the order,1132,1151
+(Customer) took an apple,1146,1165
+(Customer) Picking the apple,1153,1164
+(Customer) Consume apple,1153,1444
+(Customer) eating fruit,1155,1532
+(Customer) eats apple,1159,1513
+(Customer) starting eating,1172,1189
+(Customer) eating an apple,1173,1508
+(Customer) chewing,1176,1267
+(Customer) eating the apple,1183,1498
+(Customer) pick up cup,1189,1349
+(Customer) drinking,1267,1356
+(Customer) drinking juice,1344,1456
+(Customer) drinking from cup,1349,1362
+(Customer) eating,1356,1511
+(Customer) cup down,1362,1459
+(Customer) Drinking from glass,1439,1456
+(Customer) touch spoon,1459,1482
+(Customer) bite apple,1482,1503
+(Customer) put it down,1493,1503
+(Customer) drink from cup,1503,1537
+(Customer) drinking,1511,1566
+(Customer) drinking water,1539,1663
+(Customer) drink from cup,1614,1650
+(Customer) put cup down,1640,1659
+(Both) Carrying out payment,1650,1860
+(Customer) take out card,1659,1705
+(Both) bill payment,1692,1830
+(Customer) taking card,1697,1740
+(Customer) taking out card,1700,1720
+(Waiter/ess) gets card,1700,1737
+(Waiter/ess) Taking card ,1702,1711
+(Customer) paying,1715,1809
+(Customer) paying bill,1717,1812
+(Waiter/ess) clean table,1717,1767
+(Customer) check bill,1722,1763
+(Waiter/ess) inserting card,1722,1730
+(Waiter/ess) Taking spoon and glass,1744,1769
+(Waiter/ess) taking spoon glass,1756,1757
+(Customer) check cell phone,1756,1831
+(Waiter/ess) takes cup,1756,1775
+(Customer) typing pin,1759,1800
+(Customer) put it down,1763,1811
+(Customer) typing pin ,1769,1805
+(Customer) put card away,1811,1864
+(Waiter/ess) recieve payment/return card,1812,1846
+(Customer) putting card away,1831,1853
+(Waiter/ess) returning card,1835,1842
+(Customer) giving back card,1839,1852
+(Customer) putting card inside,1844,1857
+(Customer) keeping card inside pocket,1849,1855

@@ -1,0 +1,7 @@
+pouring milk,99,237
+pouring cereal ,283,322
+drinking from cup,376,433
+eating cereal ,532,2741
+reading newspaper,960,1479
+holding cup,1467,1796
+having a drink ,2829,3005

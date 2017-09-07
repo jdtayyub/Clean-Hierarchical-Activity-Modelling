@@ -1,0 +1,24 @@
+Grabs pen,22,29
+Starts writing,29,32
+Puts down pen,115,126
+Picks up stapler,126,154
+Staples paper,154,209
+Types on laptop ,232,612
+Types on laptop ,657,734
+types,691,1227
+Starts writing,1227,1266
+Stops talking ,1328,1331
+write,1331,1716
+Stops writing ,1716,1726
+Writing ,1762,2213
+Starts typing,2295,2569
+Stares and types ,2549,2579
+Staring and Typing,2579,2880
+Talking and Typing ,2880,2916
+Staring,2916,2948
+Talking ,2948,2964
+Starts talking,2973,3003
+Picks up pen,2993,3003
+Picks up black stapler,125,133
+Staples paper corner,155,205
+Types ,599,615

@@ -1,0 +1,12 @@
+(Waiter/ess) menu brought,44,67
+(Customer) reads the menu,67,206
+(Waiter/ess) take order,206,260
+(Customer) pushes menu away,295,295
+(Waiter/ess) Serves Water,330,361
+(Waiter/ess) Serves Food,512,512
+(Customer) eats the meal,526,1215
+(Waiter/ess) Clears Table,1215,1264
+(Waiter/ess) brings desert,1323,1323
+(Customer) opens desert,1347,1360
+(Customer) eats desert,1512,1697
+(Both) payment of meal,1817,1904

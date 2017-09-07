@@ -1,0 +1,77 @@
+(Waiter/ess) Walks in,18,26
+(Waiter/ess) hands over menu,23,34
+(Waiter/ess) walks away,34,43
+(Customer) Goes through menu,43,291
+(Customer) turns page,43,50
+(Customer) turns page,78,92
+(Customer) turns page,143,152
+(Customer) flips menu,149,157
+(Customer) turns page,191,200
+(Waiter/ess) walks in,298,312
+(Waiter/ess) puts spoon on table,309,327
+(Customer) closes menu,333,344
+(Customer) moves menu aside,344,353
+(Waiter/ess) takes order,328,362
+(Waiter/ess) picks up menu,362,376
+(Waiter/ess) walks away,376,386
+(Customer) touching objects,511,544
+(Customer) waits for food,544,683
+(Waiter/ess) walks in,683,694
+(Waiter/ess) puts glass on table,693,700
+(Waiter/ess) pours juice in glass,700,726
+(Waiter/ess) walks away,726,739
+(Customer) takes glass closer,739,760
+(Customer) takes a sip,799,823
+(Waiter/ess) walks in ,806,821
+(Waiter/ess) puts plate on table,816,830
+(Waiter/ess) walks away,830,841
+(Customer) puts glass away,820,839
+(Customer) picks food up,839,866
+(Customer) takes a bite,866,886
+(Customer) chews food,882,907
+(Customer) moves juice bottle,907,922
+(Customer) takes a bite,940,957
+(Customer) chews food,957,975
+(Customer) drinks juice,975,1004
+(Customer) picks food up,1022,1044
+(Customer) takes a bite,1044,1054
+(Customer) puts food back,1054,1059
+(Customer) picks spoon up,1059,1076
+(Customer) grabs food with spoon,1087,1143
+(Customer) takes a bite,1143,1155
+(Customer) takes a bite,1189,1208
+(Customer) chews food,1200,1232
+(Customer) drinks juice,1232,1266
+(Customer) takes a bite,1266,1287
+(Customer) chews,1287,1394
+(Customer) puts plate away,1304,1327
+(Customer) picks glass up,1314,1334
+(Customer) uses phone,1378,1450
+(Customer) drinks juice,1392,1410
+(Customer) drinks juice,1442,1468
+(Customer) puts phone away.,1468,1487
+(Waiter/ess) walks in,1477,1488
+(Waiter/ess) takes order,1488,1542
+(Customer) Eats food,846,1304
+(Customer) puts glass away,1500,1522
+(Customer) picks glass up,1529,1538
+(Waiter/ess) walks away,1553,1563
+(Customer) drinks juice,1554,1581
+(Waiter/ess) walks in,1645,1652
+(Waiter/ess) puts desert on table,1652,1660
+(Waiter/ess) walks away,1660,1668
+(Customer) Eats desert,1668,1904
+(Customer) puts desert away,1896,1910
+(Customer) calls waitress,1946,1959
+(Waiter/ess) walks in,1969,1978
+(Customer) searches for card,1966,2010
+(Customer) gives card to waitress,2010,2027
+(Waiter/ess) puts card in machine,2027,2036
+(Waiter/ess) gives machine to customer,2051,2060
+(Waiter/ess) takes glasses away,2060,2095
+(Customer) uses card machine,2086,2149
+(Customer) puts the machine away,2149,2162
+(Waiter/ess) walks in,2162,2174
+(Waiter/ess) takes machine,2174,2190
+(Waiter/ess) removes card and walks,2190,2225
+(Customer) takes card,2201,2217

@@ -1,0 +1,11 @@
+Putting Coffee,1,254
+adds hot water,254,360
+add creamer,360,430
+Open Yoghurt And clean lid,430,609
+Eat and Read,609,1096
+drink of coffee,1096,1180
+Eat and Read,1180,1662
+Talk and Read,1662,1753
+Drink coffee,1753,1839
+Talk and Eat,1839,2122
+End call,2122,2153

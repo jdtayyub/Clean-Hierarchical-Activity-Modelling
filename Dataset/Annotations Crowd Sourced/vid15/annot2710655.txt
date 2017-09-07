@@ -1,0 +1,13 @@
+adding coffee ,1,175
+adding hot water ,175,292
+adding sugar ,392,508
+adding milk,508,660
+adding cereal ,660,802
+talking while eating ,876,1327
+drinking coffee ,1327,1689
+talking while eating ,1689,2214
+holding coffee mug ,2293,2829
+drinking coffee ,2829,2890
+eating cereal ,2890,3075
+eating ,1697,1810
+stirring coffee ,1289,1367

@@ -1,0 +1,23 @@
+(Customer) sitting ,1,46
+(Waiter/ess) giving menu,46,62
+(Customer) reading menu,62,278
+(Both) talking ,278,330
+(Customer) looking at phone,330,410
+(Both) talking ,410,475
+(Waiter/ess) pouring drink,475,511
+(Customer) checking phone ,511,565
+(Waiter/ess) putting down spoon,565,580
+(Customer) drinking ,580,637
+(Waiter/ess) serving food ,637,652
+(Customer) eating food ,652,1020
+(Customer) drinking ,1277,1423
+(Both) talking ,1423,1469
+(Waiter/ess) cleaning table ,1469,1482
+(Customer) drinking ,1482,1534
+(Waiter/ess) serving desert,1534,1559
+(Customer) checking phone ,1559,1568
+(Customer) eating ,1568,1863
+(Both) talking ,1863,1930
+(Customer) typing pin,1930,1969
+(Waiter/ess) cleaning table ,1969,1986
+(Waiter/ess) completed transition ,1986,2088

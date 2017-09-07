@@ -1,0 +1,16 @@
+(Both) ordering,226,322
+(Customer) taking fork,463,480
+(Customer) eating,480,916
+(Customer) drinking from cup,924,1064
+(Customer) taking the fork and cup,1156,1165
+(Customer) eating,1165,1513
+(Customer) moving cup,1527,1558
+(Customer) taking the credit card,1574,1609
+(Customer) putting in pin,1619,1640
+(Customer) returning card to pocket,1691,1737
+(Customer) opening the banana,1789,1876
+(Customer) taking the banana,1735,1785
+(Customer) opening the banana,1785,1848
+(Customer) eating banana,1841,1869
+(Customer) standing up,1834,1854
+(Customer) leaving,1854,1884

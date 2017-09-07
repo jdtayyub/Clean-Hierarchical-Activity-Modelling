@@ -1,0 +1,11 @@
+(Customer) Receives menu,21,30
+(Customer) flips menu,30,37
+(Customer) reads menu,46,81
+(Customer) flips menu,81,103
+(Customer) reads menu,125,148
+(Customer) sets aside menu,162,184
+(Customer) picks up cup,379,393
+(Customer) drinks from cup,393,428
+(Customer) eats with fork,477,1059
+(Customer) picks up cup,1059,1137
+(Customer) eats apple,1373,1512

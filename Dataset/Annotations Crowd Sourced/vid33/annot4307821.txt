@@ -1,0 +1,11 @@
+opening laptop,1,54
+wearing headphone,54,95
+working on laptop,95,190
+looking at paper,190,234
+writing on paper,234,485
+working on laptop,485,688
+working on laptop,688,735
+adjusting paper,735,753
+using stapler,753,820
+closing laptop,820,852
+remove headphone,852,866

@@ -1,0 +1,15 @@
+(Waiter/ess) enter/exit waitress,23,30
+(Waiter/ess) take order,183,241
+(Waiter/ess) serve drink,379,387
+(Customer) sip drink,397,454
+(Waiter/ess) serve meal,434,447
+(Customer) call waitresss,562,578
+(Waiter/ess) get plate,590,606
+(Customer) drink,1131,1149
+(Customer) drink,1195,1202
+(Customer) call waitress,1202,1252
+(Waiter/ess) provide desert,1347,1358
+(Customer) bites apple,1392,1633
+(Waiter/ess) brings bill and machine,1706,1813
+(Customer) pays bill,1813,1909
+(Both) Have Lunch Service,1,1909

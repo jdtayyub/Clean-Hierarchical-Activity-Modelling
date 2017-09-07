@@ -1,0 +1,26 @@
+having breakfast,1,835
+making coffee,12,144
+preparing cereals,148,242
+reading newspaper ,250,839
+taking coffee,16,22
+opening coffee,23,35
+pouring coffee,37,57
+closing coffee,58,70
+putting black coffee,69,75
+taking the teapot,72,80
+pouring hot water,81,106
+putting back coffee,108,115
+taking spoon,117,123
+stiring coffee,124,139
+putting back spoon,140,145
+taking cereals,149,156
+pouring cereals,159,185
+putting back cereals,186,194
+taking milk,194,199
+opening milk,200,210
+pouring milk,211,225
+closing milk,226,235
+opening newspaper,265,289
+eating cereals,299,319
+drinking coffee,327,356
+turning pages,361,411

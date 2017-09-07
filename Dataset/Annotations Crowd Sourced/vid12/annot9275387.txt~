@@ -1,0 +1,60 @@
+Lifts bottle,1,106
+Pours coffee in mug,106,188
+Puts lid back on,188,247
+Lifts teapot,247,269
+Pours hot water,269,326
+Stirs mug with spoon,326,389
+Pours milk in mug,389,447
+Stirs coffee in mug,447,526
+Drinks coffee from mug,526,579
+Takes banana and peels,579,632
+Peels banana,632,689
+Eats the banana,689,754
+Places banana on table,754,768
+Picks up banana,768,814
+Continues eating banana,814,861
+Lifts mug,861,920
+Drinks coffee,920,930
+Lifts milk carton,902,931
+Pours milk in bowl,931,996
+Pours cereal in bowl,996,1094
+Places cereal box,1094,1125
+Eats cereal,1125,1238
+Picks up cellphone,1238,1262
+Browses cellphone,1262,1421
+Puts cellphone down,1422,1451
+Eats more cereal,1451,1533
+Looks at cellphone,1533,1591
+Lifts coffee mug,1591,1625
+Drinks coffee,1625,1668
+Looks at cellphone,1668,1776
+Browses through cellphone,1776,1874
+Picks up banana,1874,1929
+Peels and eats banana,1929,2009
+Puts down banana,2009,2057
+Eats more cereal,2057,2220
+Lifts cereal bowl,2220,2291
+Continues eating,2291,2314
+Puts down cereal bowl,2314,2330
+Lifts coffee mug,2330,2391
+Drinks more coffee,2391,2427
+Puts down mug,2427,2456
+Picks up banana,2456,2539
+Peels banana,2539,2607
+Eats the banana,2607,2694
+Puts banana down,2694,2734
+Talks and makes gestures,2734,2978
+Lifts cereal bowl,2978,3040
+Eats more cereal,3040,3254
+Continues eating cereal,3254,3298
+Puts cereal bowl down,3298,3323
+Lifts coffee mug,3323,3349
+Drinks more coffee,3349,3475
+Lifts cereal bowl,3475,3538
+Eats more cereal,3538,3591
+Puts cereal bowl down,3591,3604
+Lifts banana and peels,3604,3692
+Breaks banana off peel,3692,3777
+Talks while holding banana,3777,3832
+Finishes eating banana,3832,4021
+Places hands on lap,4021,4094

@@ -1,0 +1,12 @@
+looking through papers,1,58
+opening laptop,50,59
+putting on headphones,63,83
+using laptop,86,133
+writing on paper,137,167
+checking on laptop,171,269
+typing on laptop,216,260
+writing on paper,277,314
+using laptop,319,798
+writing on paper,804,834
+using stapler,911,933
+taking off headphones,935,940

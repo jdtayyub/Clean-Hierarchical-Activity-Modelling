@@ -1,0 +1,15 @@
+grabbing milk box,47,239
+opening milk box,70,85
+pouring milk,107,141
+pouring milk,156,203
+closing milk box,212,232
+grabbing cereal box,252,339
+pouring cereal,290,314
+drinking from cup,375,401
+eating cereals,530,851
+reading newspaper,874,1468
+grabbing cup,1464,1805
+eating cereals,1845,2030
+eating cereals,2174,2530
+eating cereals,2635,2718
+drinking from cup,2741,2991

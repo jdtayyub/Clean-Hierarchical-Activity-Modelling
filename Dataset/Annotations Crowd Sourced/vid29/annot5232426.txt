@@ -1,0 +1,15 @@
+Opening laptop ,24,54
+Wearing headphone,58,80
+Searching on laptop,99,114
+Looking at papers ,114,174
+Seperating the papers,135,135
+Seperating the papers ,135,215
+Collecting all papers ,215,267
+Writing on papers ,267,398
+Typing on mobile,398,427
+Writing on papers,427,445
+Collecting papers,445,454
+Typing on laptop,454,586
+Closong the laptop ,586,596
+Removing headphone,596,616
+Talking on headphone,77,104

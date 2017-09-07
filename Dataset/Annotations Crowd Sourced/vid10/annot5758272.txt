@@ -1,0 +1,12 @@
+open jar,49,100
+lick spoon,81,109
+scoop coffee,96,255
+pour liquid frin pot ,255,375
+open yogurt and lick lid,547,620
+eat yogurt ,634,708
+read flip newspaper,708,1093
+drink coffee,1116,1177
+flip newspaper,1201,1255
+eat yogurt,1255,1336
+pick up talk phone,1673,1804
+eat yogurt ,2003,2132

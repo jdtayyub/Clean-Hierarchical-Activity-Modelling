@@ -1,0 +1,8 @@
+(Customer) reading,41,201
+(Customer) ordering,211,258
+(Customer) drinking,395,430
+(Customer) eating,493,1176
+(Customer) drink,1194,1216
+(Customer) eating,1513,1701
+(Customer) drink,1747,1765
+(Both) pay,1816,1926

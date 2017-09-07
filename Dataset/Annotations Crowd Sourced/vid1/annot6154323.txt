@@ -1,0 +1,33 @@
+touch a mug,58,75
+open a jar,91,137
+coffee powder to glass,150,234
+close the jar,243,304
+teapot water to glass,313,511
+take sugar,546,558
+shake and open it,565,666
+add sugar to glass,666,730
+mix sugar using spoon,730,905
+taste coffee,905,977
+add food to bowl,1067,1175
+close the cover,1197,1237
+add milk to bowl,1237,1386
+mix content in bowl,1442,1632
+mix it,1738,1792
+eat food,1900,2002
+eating food,2013,2065
+take the mug,2082,2126
+drinking tea,2195,2258
+eating food,2371,2449
+eating food,2541,2585
+eating food,2614,2646
+drinking tea,2685,2741
+eating food,2783,2854
+eating food,3177,3222
+eating food,3245,3296
+drinking tea,3387,3438
+eating food,3469,3582
+eating food,3638,3681
+eating food,3706,3764
+drinking tea,3834,3879
+eating food,3921,4063
+eating food,4085,4182

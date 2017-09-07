@@ -1,0 +1,13 @@
+(Waiter/ess) handing over menu,20,1867
+(Customer) start reading menu,94,244
+(Waiter/ess) brings water ,318,337
+(Waiter/ess) bring food,617,636
+(Waiter/ess) start to eat,673,1065
+(Customer) eats apple,1159,1513
+(Customer) check cell phone,1756,1831
+(Customer) look though menu,57,244
+(Customer) drinks water,393,412
+(Customer) picks up fork,636,1047
+(Waiter/ess) takes food,1121,1159
+(Waiter/ess) gets card,1700,1737
+(Waiter/ess) takes cup,1756,1775

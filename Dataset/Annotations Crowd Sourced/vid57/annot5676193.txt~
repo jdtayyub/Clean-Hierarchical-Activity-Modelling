@@ -1,0 +1,23 @@
+(Customer) Waiting for waitress,1,104
+(Waiter/ess) Walks with menu,104,145
+(Customer) Reads menu,145,235
+(Customer) Calls server,235,268
+(Customer) Places food order,268,327
+(Waiter/ess) Brings food and beverage,327,464
+(Customer) eating salad,464,562
+(Customer) eating salad,562,737
+(Customer) Picks up glass,905,955
+(Waiter/ess) walks in again,955,999
+Clears table and leaves,999,1031
+(Customer) Drinks the beverage,1031,1072
+(Waiter/ess) Brings in ice cream,1072,1155
+(Waiter/ess) Leaves after serving,1155,1170
+(Customer) Starts eating,1170,1208
+(Customer) eating ice cream,1208,1514
+(Waiter/ess) Brings bill for payment,1514,1588
+(Waiter/ess) clears table and leaves,1588,1603
+(Customer) Put in pin,1603,1653
+(Waiter/ess) Returns card and leaves,1653,1691
+(Customer) Takes a banana,1691,1777
+(Customer) Peels the banana,1777,1851
+(Customer) Eats banana and leaves,1851,1874

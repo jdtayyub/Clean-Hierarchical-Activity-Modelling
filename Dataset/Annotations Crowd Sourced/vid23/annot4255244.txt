@@ -1,0 +1,10 @@
+put on headphones,46,100
+use pen,106,520
+move black object,537,558
+write on paper,591,642
+write on paper,660,1058
+write on paper,1103,2189
+use computer,2238,2465
+talk on headphones,2530,2761
+remove headphones,2811,2878
+working,1,2890

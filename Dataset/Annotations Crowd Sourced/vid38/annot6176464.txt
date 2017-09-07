@@ -1,0 +1,16 @@
+Putting on Headphones ,1,23
+Typing on Computer,27,63
+Writing on Paper,63,129
+Stapling Papers,131,193
+Taking a Drink,211,261
+Typing on Computer,266,347
+Writing on Paper,348,448
+Typing on Computer,453,482
+Writing on Paper,485,557
+Stapling Papers,560,602
+Taking off Headphones,619,638
+Picking up Papers,173,192
+Putting down papers,198,209
+Picking up juice bottle,209,226
+Putting down bottle,248,262
+Consuming juice,205,265

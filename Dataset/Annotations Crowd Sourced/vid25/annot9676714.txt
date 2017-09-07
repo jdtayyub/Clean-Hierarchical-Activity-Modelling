@@ -1,0 +1,9 @@
+moves paper ,11,29
+writes,90,465
+writes some more ,593,671
+uses blue marker,791,1665
+uses laptop,1673,2738
+puts on earphones ,2754,2784
+takes off earphones ,2867,2899
+uses stapler ,2967,3033
+school work,1,3500

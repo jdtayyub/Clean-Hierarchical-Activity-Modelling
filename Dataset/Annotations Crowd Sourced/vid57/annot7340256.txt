@@ -1,0 +1,15 @@
+(Waiter/ess) bring menu,1,113
+(Customer) look at menu,113,167
+(Waiter/ess) take order,167,281
+(Customer) give order,281,291
+(Waiter/ess) serve food,359,459
+(Customer) beginning eating,459,501
+(Customer) DRINK FROM CUP,977,1029
+(Customer) PUT CUP DOWN,1029,1102
+(Waiter/ess) serve desert,1102,1150
+(Customer) BEGIN TO EAT,1150,1210
+(Waiter/ess) clear table and machine,1571,1653
+(Customer) PUT INTO POCKET,1653,1707
+(Customer) TAKE A BANANAS,1707,1779
+(Customer) PEEL IT,1779,1819
+(Customer) EAT IT,1819,1871

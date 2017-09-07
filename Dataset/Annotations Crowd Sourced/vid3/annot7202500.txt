@@ -1,0 +1,17 @@
+Pours cereal into bowl,93,224
+Pours milk into bowl,309,482
+Stirs the cereal,536,764
+Eats the cereal,764,1726
+Scoops out cereal,1726,1873
+Pours instant coffee,1933,2074
+Adds milk to cereal,2074,2227
+Eats more cereal,2235,2325
+Fills cup with water ,2424,2451
+Stirs the coffee,2461,2603
+Drinks the coffee,2603,2722
+Drinks more coffee,2746,3086
+Finishes the coffee,3086,3490
+Talks and smiles,3167,3228
+Touches the spoon,3228,3333
+Lifts coffee mug,3333,3364
+Takes another sip,3364,3402

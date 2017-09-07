@@ -1,0 +1,26 @@
+(Waiter/ess) giving menu,1,35
+(Customer) reading menu,35,282
+(Waiter/ess) taking order,282,360
+(Waiter/ess) serving drink,690,731
+(Customer) talking and drinking ,759,820
+(Waiter/ess) serving food ,820,832
+(Customer) eating food ,832,972
+(Customer) drinking ,972,1010
+(Customer) eating ,1010,1071
+(Customer) cutting with spoon,1071,1132
+(Customer) eating ,1132,1245
+(Customer) drinking ,1245,1266
+(Customer) eating ,1266,1318
+(Customer) holding glass,1318,1384
+(Customer) drinking ,1384,1481
+(Customer) checking phone ,1442,1451
+(Waiter/ess) taking order,1451,1543
+(Customer) drinking ,1543,1585
+(Customer) talking ,1585,1650
+(Waiter/ess) serving food ,1650,1683
+(Customer) eating icecream,1683,1902
+(Customer) calling waiter ,1902,1974
+(Customer) giving credit card,1974,2035
+(Waiter/ess) cleaning table ,2035,2091
+(Customer) entering pin,2091,2150
+(Both) having lunch,1,2217

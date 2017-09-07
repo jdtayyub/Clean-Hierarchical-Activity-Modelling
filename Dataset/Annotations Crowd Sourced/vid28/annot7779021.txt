@@ -1,0 +1,13 @@
+openning laptop,1,36
+taking earphone,36,71
+using laptop,70,96
+writing something,96,308
+using calculator,308,339
+writing something,340,370
+using laptop,370,448
+drinking water,449,474
+reading papers,475,541
+punching papers,544,564
+using laptop,567,619
+putting down earphone,620,633
+closing laptop,632,652

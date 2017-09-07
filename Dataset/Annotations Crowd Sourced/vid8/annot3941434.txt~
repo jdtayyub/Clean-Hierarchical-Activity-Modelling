@@ -1,0 +1,15 @@
+Holding cup,8,15
+moving the bowl,8,18
+Picking tea box,23,38
+picking tea bag,38,51
+Putting teabag into cup,56,69
+Pouring milk from jug,69,105
+Taking cereal box,126,147
+adding content to bowl,147,162
+Lifting milk box,178,184
+Pouring liquid into bowl,203,235
+eating from bowl,295,331
+Reading the box,335,672
+taking phone and calling,667,1037
+Reading Newspaper,1109,1360
+Folding Newspaper,1364,1364

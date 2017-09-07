@@ -1,0 +1,30 @@
+(Customer) checking phone ,1,27
+(Waiter/ess) giving menu,27,46
+(Customer) reading menu,46,81
+(Customer) reading menu again,81,186
+(Waiter/ess) taking order,186,284
+(Customer) checking phone,284,351
+(Customer) checking phone,367,481
+(Customer) typing on phone,481,793
+(Waiter/ess) serving food ,793,823
+(Waiter/ess) pouring drink ,823,843
+(Waiter/ess) going back,843,856
+(Customer) checking phone,856,967
+(Customer) eating food,967,1076
+(Customer) cutting food ,1076,1108
+(Customer) eating food,1108,1186
+(Customer) drinking ,1186,1257
+(Customer) eating food ,1257,1498
+(Customer) drinking ,1498,1654
+(Customer) checking phone ,1654,1692
+(Customer) drinking ,1692,1729
+(Customer) talking ,1729,1887
+(Waiter/ess) taking order ,1887,1971
+(Waiter/ess) taking plate back ,1971,1983
+(Customer) drinking ,1983,2027
+(Customer) talking ,2027,2213
+(Waiter/ess) serving icecream,2213,2252
+(Customer) eating icecream ,2252,2706
+(Customer) paying bill and typing pin ,2827,2953
+(Waiter/ess) cleaning table ,2908,2932
+(Waiter/ess) return card,2996,3026

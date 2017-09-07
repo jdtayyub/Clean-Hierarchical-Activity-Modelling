@@ -1,0 +1,18 @@
+(Waiter/ess) Offering menu,20,36
+(Customer) checking menu,29,194
+(Waiter/ess) taking order,215,286
+(Waiter/ess) taking back menu,286,301
+(Customer) giving order,229,285
+(Customer) waiting for food,329,440
+(Waiter/ess) offering food spoons,440,460
+(Waiter/ess) pouring water,460,515
+(Customer) eating food,528,1231
+(Customer) drinking water,1231,1274
+(Waiter/ess) taking back plate,1283,1321
+(Customer) eating an apple,1328,1735
+(Customer) put down apple,1715,1726
+(Customer) cleaning mouth,1737,1744
+(Customer) drinking water,1762,1853
+(Waiter/ess) giving card machine,1869,1894
+(Waiter/ess) picking apple back,1880,1913
+(Both) paying bill,1880,1937

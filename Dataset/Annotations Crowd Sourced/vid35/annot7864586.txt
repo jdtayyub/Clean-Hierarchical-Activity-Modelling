@@ -1,0 +1,8 @@
+putting on headphones,44,66
+listening to music,53,1240
+taking out headphones,1208,1216
+opening laptop,88,96
+using computer,83,1205
+closing laptop,1198,1207
+writing paper,64,1240
+typing on keyboard,804,949

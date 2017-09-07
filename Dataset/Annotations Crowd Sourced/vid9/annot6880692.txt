@@ -1,0 +1,32 @@
+Having Breakfast,19,1752
+getting sugar for tea,6,58
+pour sugar in tea,58,73
+pour tea,73,120
+grab cereal box,120,160
+pour cereal,160,186
+grab milk carton,186,212
+pour milk,212,246
+stir cereal,246,254
+eat cereal,254,297
+pick up bowl,297,303
+pick up newspaper,303,309
+put newspaper down,309,310
+reading the newspaper,308,1393
+turn page,315,334
+turn page,334,351
+eat cereal,375,397
+eat cereal,506,532
+drinking tea,615,671
+eat cereal,994,999
+drink tea,1084,1097
+close newspaper,1386,1390
+make phone call,1426,1447
+talk on cell phone,1448,1757
+drink tea,1464,1504
+eat cereal,1535,1555
+eat cereal,1642,1649
+eat cereal,1649,1667
+drink tea,1677,1713
+look at watch,1725,1734
+look at watch,1736,1744
+lean back in chair,1769,1777

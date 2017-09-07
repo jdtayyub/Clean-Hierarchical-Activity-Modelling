@@ -1,0 +1,16 @@
+(Waiter/ess) brings menu,11,40
+(Customer) reads menu,47,153
+(Waiter/ess) takes order,160,219
+(Waiter/ess) brings order,313,333
+(Customer) picks up fork,354,361
+(Waiter/ess) brings drink,368,430
+(Customer) start eating ,420,669
+(Customer) picks up cup,669,682
+(Customer) drinks juice,714,769
+(Customer) eats,789,1117
+(Waiter/ess) takes food,1117,1135
+(Customer) drinks juice,1192,1211
+(Waiter/ess) bring desert ,1205,1232
+(Customer) eats desert ,1253,1545
+(Customer) pays price,1642,1672
+(Waiter/ess) takes pay machine,1672,1716

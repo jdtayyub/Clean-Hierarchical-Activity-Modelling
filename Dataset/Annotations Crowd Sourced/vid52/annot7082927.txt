@@ -1,0 +1,22 @@
+(Customer) sitting at table,1,2071
+(Both) Handing over menu,42,58
+(Customer) looking through menu,58,325
+(Waiter/ess) taking order,287,319
+(Waiter/ess) taking back menu,328,341
+(Customer) checking phone,488,581
+(Waiter/ess) pouring juice,487,506
+(Waiter/ess) puting utensils,559,574
+(Customer) drinkin cup,592,658
+(Waiter/ess) putting plate,627,646
+(Customer) holding fork,670,1270
+(Customer) eating,758,1286
+(Customer) drinking from cup,1291,1524
+(Customer) checking phone,1552,1573
+(Waiter/ess) giving desert,1544,1556
+(Customer) holding spoon,1578,1895
+(Customer) eating dessert,1620,1891
+(Customer) putting down dessert,1891,1903
+(Waiter/ess) giving credit machine,1863,1950
+(Customer) using credit machine,1950,2026
+(Waiter/ess) clearing table,1959,1994
+(Waiter/ess) removes card,2066,2077

@@ -1,0 +1,23 @@
+(Waiter/ess) Offering menu,28,31
+(Customer) Checking menu,33,162
+(Customer) Ordering food,185,216
+(Waiter/ess) Taking back menu,244,254
+(Customer) waiting for order,254,310
+(Waiter/ess) Offering juice,318,329
+(Customer) drinking juice,339,455
+(Waiter/ess) putting table spoons ,397,405
+(Customer) drinking juice,479,548
+(Customer) waiting for food,588,612
+(Waiter/ess) offering food,619,623
+(Customer) eating,638,1046
+(Waiter/ess) taking order,1072,1126
+(Customer) took an apple,1146,1165
+(Customer) eating an apple,1173,1508
+(Customer) drinking juice,1344,1456
+(Customer) drinking water,1539,1663
+(Both) bill payment,1692,1830
+(Customer) giving back card,1839,1852
+(Customer) taking card,1697,1740
+(Waiter/ess) taking spoon glass,1756,1757
+(Customer) typing pin,1759,1800
+(Customer) putting card inside,1844,1857

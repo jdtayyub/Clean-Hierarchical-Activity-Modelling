@@ -1,0 +1,7 @@
+Open laptop,32,42
+putting on headset,51,70
+sorting papers,120,264
+filling out papers,274,459
+using calculator,386,419
+using laptop,452,602
+removing headset,602,616

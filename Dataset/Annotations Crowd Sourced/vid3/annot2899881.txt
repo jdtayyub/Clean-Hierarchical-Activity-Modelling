@@ -1,0 +1,31 @@
+pouring cereal,95,226
+adding milk,261,479
+stirring cereal,499,697
+chewing cereal,773,839
+eating cereal,744,1840
+picking up container,1827,1857
+opening container,1866,1884
+pouring container,1936,2040
+closing container,2066,2107
+opening milk,2123,2158
+pouring milk,2147,2200
+closing milk,2211,2226
+eating ,2238,2311
+moving milk,2311,2327
+picking up teapot,2340,2366
+pouring tea,2366,2425
+setting down teapot,2425,2442
+stirring tea,2458,2564
+tasting tea,2564,2574
+drinking tea,2600,2722
+drinking tea,2604,2731
+drinking tea,2587,2824
+drinking tea,2589,2913
+moving container around,2932,3075
+drinking tea,3075,3157
+drinking tea,3348,3412
+having breakfast,1,3500
+preparing cereal,70,744
+consuming cereal,744,1820
+preparing coffee,1824,2582
+consuming coffee,2582,3502

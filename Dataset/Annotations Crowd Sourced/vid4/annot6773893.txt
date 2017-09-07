@@ -1,0 +1,20 @@
+take sandwich,64,114
+add coffee to glass,128,315
+close the tin,350,378
+teapot water to glass,389,551
+take spoon,565,610
+mix water using spoon,619,708
+drinking tea,708,836
+taste using spoon,867,885
+open sandwich,958,1047
+take snack,1056,1256
+eating,1309,1738
+eating,1819,1979
+drinking tea,2227,2358
+eating,2541,2722
+eating,2790,2839
+eating,3324,3507
+eating,3566,3635
+eating,3955,4028
+drinking tea,4360,4500
+drinking tea,4531,4639

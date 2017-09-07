@@ -1,0 +1,9 @@
+working on laptop,30,95
+writing on paper,101,207
+working on laptop,215,240
+writing on paper,246,263
+holding stapler ,262,273
+drinking water,269,281
+working on laptop,290,305
+writing,311,336
+working on laptop,342,353

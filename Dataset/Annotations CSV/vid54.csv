@@ -1,0 +1,88 @@
+(Customer) reading,28,92
+(Customer) Opening Menu card,36,86
+(Customer) Reads Menu,39,85
+(Customer) reads menu,47,153
+(Customer) looks at menu,54,108
+(Customer) EAT FROM PLATE,59,423
+(Customer) Calls Waitress,85,157
+(Customer) Ordering food,88,100
+(Both) talking,92,161
+(Customer) places order,108,223
+(Waiter/ess) Taking order,151,219
+(Customer) Gives Order,157,207
+(Waiter/ess) Takes Order,159,200
+(Waiter/ess) takes order,160,219
+(Waiter/ess) serving food,161,322
+(Waiter/ess) Takes menu,200,223
+(Waiter/ess) brings the plate,294,331
+(Waiter/ess) Brings food,305,325
+(Waiter/ess) brings food,310,335
+(Waiter/ess) brings order,313,333
+(Waiter/ess) Serving Food,316,329
+(Customer) eating food,322,366
+(Waiter/ess) brings food,323,347
+(Waiter/ess) Leaves,331,343
+(Customer) Eats,343,423
+(Customer) goes to eat,347,374
+(Customer) Eating Food,354,1000
+(Customer) picks up fork,354,361
+(Waiter/ess) pouring drink,366,396
+(Waiter/ess) Brings drink,368,438
+(Waiter/ess) brings drink,368,430
+(Waiter/ess) pours drink,374,438
+(Customer) eating,396,504
+(Customer) start eating ,420,669
+(Customer) DRINK FROM CUP,423,697
+(Customer) Thanks waitress,430,440
+(Customer) eats food,438,601
+(Customer) Eats,440,580
+(Customer) chewing,504,548
+(Waiter/ess) clean table,548,625
+(Customer) eats,601,656
+(Customer) drinking,625,693
+(Customer) drinks,663,770
+(Customer) moves the cup,665,681
+(Customer) picks up cup,669,682
+(Customer) takes drink,676,763
+(Customer) eating,693,813
+(Customer) DRINK FROM CUP,697,1192
+(Customer) drinks juice,714,769
+(Customer) eats,770,814
+(Customer) eats food,779,1056
+(Customer) eating lunch,783,803
+(Customer) eats,789,1117
+(Customer) push plate away,807,837
+(Customer) eats,877,986
+(Customer) eats from plate,878,925
+(Customer) calls waitress,1056,1081
+(Waiter/ess) serving food,1082,1212
+(Waiter/ess) takes the plate,1087,1149
+(Waiter/ess) Removing plates,1095,1126
+(Waiter/ess) takes dishes,1104,1139
+(Waiter/ess) takes food,1117,1135
+(Customer) drinking water,1175,1229
+(Customer) takes drink,1182,1211
+(Customer) drinking from cup,1191,1204
+(Customer) EAT DESERT,1192,1278
+(Customer) drinks juice,1192,1211
+(Waiter/ess) bring desert ,1205,1232
+(Waiter/ess) bring small bowl,1207,1230
+(Waiter/ess) brings food,1211,1249
+(Customer) eating,1212,1277
+(Customer) eats food,1249,1540
+(Customer) Eating icecream,1250,1557
+(Customer) eats desert ,1253,1545
+(Customer) eats desert,1256,1375
+(Waiter/ess) brings transaction machine,1564,1600
+(Waiter/ess) brings bill,1564,1614
+(Waiter/ess) clean table,1582,1616
+(Waiter/ess) takes cup and bowl,1591,1627
+(Customer) enters pin ,1614,1659
+(Waiter/ess) takes dishes,1614,1626
+(Both) Payment Transaction,1616,1715
+(Customer) puts in payment,1626,1672
+(Customer) pays price,1642,1672
+(Waiter/ess) takes pay machine,1672,1716
+(Waiter/ess) takes payment,1672,1717
+(Waiter/ess) takes transaction machine,1682,1719
+(Customer) PUT CARD IN POCKET,1704,1728

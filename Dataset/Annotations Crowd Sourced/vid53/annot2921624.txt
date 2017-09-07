@@ -1,0 +1,43 @@
+(Customer) Receives Menu,1,44
+(Waiter/ess) Gives Menu,1,54
+(Customer) Looks at menu,41,208
+(Customer) Calls Waitress,208,232
+(Both) Order Exchanged,222,331
+(Customer) Waiting for food,331,403
+(Waiter/ess) Serving Drink,403,466
+(Customer) Takes her drink,466,514
+(Waiter/ess) Serves Food,514,544
+(Customer) Takes Food,544,567
+(Customer) Eating Food,567,1212
+(Customer) Drinking Water,1212,1300
+(Customer) Eating Food,1315,1419
+(Customer) Eating,1550,1714
+(Customer) Drinking Water,1714,1776
+(Customer) Eating Food,1776,1961
+(Customer) Clapping Clean,1945,1983
+(Customer) Speaking to waitress,2013,2043
+(Waiter/ess) Clearing Table,2043,2074
+(Customer) waits for waitress,2074,2105
+(Waiter/ess) Giving Desert,2105,2131
+(Customer) Chewing Food,2131,2192
+(Customer) Shaking Can,2192,2227
+(Customer) Drinking Water,2227,2294
+(Customer) Opening Lid,2294,2355
+(Customer) Taking Spoon,2355,2372
+(Customer) Using Spoon,2372,2405
+(Customer) Eating with spoon,2405,2475
+(Customer) Eating with spoon,2501,2586
+(Customer) Moving glass,2619,2640
+(Customer) Eating with spoon,2640,2795
+(Customer) Looking for waitress,2795,2806
+(Customer) Keeping glass aside,2806,2821
+(Customer) Speaking for service,2821,2841
+(Waiter/ess) Clearing table,2841,2891
+(Customer) Inserting Card,2894,2934
+(Customer) Punching Amount,2934,2983
+(Customer) Giving machine,2978,2988
+(Waiter/ess) Taking Machine,2983,2996
+(Waiter/ess) Giving back card,2996,3027
+(Customer) Calling waitress,3027,3038
+(Customer) Instructs waitress,3038,3049
+(Waiter/ess) Giving back card,3039,3051

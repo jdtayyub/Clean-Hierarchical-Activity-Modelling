@@ -1,0 +1,134 @@
+Picking up Cereal Box,75,144
+pouring cereal into bowl,144,202
+Putting Cereal on table,209,228
+picking up milk carton,230,245
+pouring milk into bowl,252,295
+putting carton on table,304,321
+picking up coffee container,334,352
+unscrewing lid,352,366
+picking up spoon,364,394
+putting lid on pot,393,406
+putting container back,407,434
+opening box,433,469
+taking teabag out,469,488
+putting tea in mug,488,501
+grabbing kettle,517,523
+pouring water into mug,523,600
+putting kettle back,600,617
+grabbing spoon,617,621
+stirring cereal,627,639
+moving bowl,639,666
+lifting spoon,666,687
+putting food in mouth,687,696
+chewing food,696,714
+putting spoon in bowl,716,729
+stirring bowl,729,738
+looking up,738,760
+lifting spoon to mouth,807,818
+putting food in mouth,832,839
+removing spoon,839,845
+chewing food,845,869
+moving spoon down ,869,880
+putting spoon in bowl,1006,1012
+lifting full spoon,1012,1018
+putting food in mouth,1030,1035
+taking spoon out,1034,1040
+putting spoon into bowl,1039,1049
+reaching for mug,1049,1054
+grabbing mug,1054,1057
+lifting mug,1063,1081
+drinking tea,1086,1110
+putting mug down,1110,1142
+lifting spoon to mouth,1149,1167
+putting food in mouth,1167,1176
+removing spoon from mouth,1176,1181
+putting spoon in bowl,1181,1188
+reaching for phone,1187,1196
+picking up phone,1196,1209
+typing on phone,1206,1277
+reaching for spoon,1277,1288
+picking up spoon,1288,1307
+putting food in mouth,1307,1314
+putting spoon in bowl,1315,1323
+chewing food,1323,1356
+picking up spoon,1404,1418
+putting food in mouth,1418,1425
+putting spoon in bowl,1425,1437
+chewing food,1450,1465
+picking spoon up,1465,1517
+putting spoon in bowl,1517,1524
+lifting phone,1524,1531
+typing on phone,1544,1580
+scratching nose,1580,1590
+typing on phone,1610,1650
+grabbing mug,1650,1662
+lifting mug,1674,1690
+drinking,1690,1716
+putting mug down,1716,1740
+typing on phone,1740,2108
+picking up spoon,2108,2119
+lifting spoon to mouth,2119,2129
+putting food in mouth,2133,2135
+putting spoon in bowl,2135,2144
+lifting spoon,2167,2174
+putting food in mouth,2174,2179
+putting spoon in bowl,2181,2196
+typing on phone,2199,2211
+lifting spoon,2265,2281
+putting food in mouth,2281,2285
+putting spoon in bowl,2286,2297
+chewing food,2300,2319
+typing on phone,2355,2504
+picking up spoon,2504,2547
+putting food in mouth,2547,2555
+putting spoon down,2555,2564
+looking up while chewing,2564,2571
+reaching for phone,2571,2580
+putting spoon down,2580,2583
+chewing food,2595,2617
+grabbing bowl,2633,2642
+scooping food,2642,2650
+lifting spoon,2650,2665
+putting food in mouth,2665,2673
+putting spoon into bowl,2673,2682
+chewing,2724,2734
+grabbing phone,2734,2740
+looking at phone,2740,2749
+looking up,2756,2801
+putting phone down,2783,2789
+grabbing spoon and bowl,2789,2792
+getting food in spoon,2802,2810
+lifting spoon and talking,2821,2843
+talking to someone,2859,2889
+lifting spoon to mouth,2889,2900
+putting food in mouth,2900,2908
+putting spoon down,2915,2937
+chewing food,2937,2975
+talking to someone,2975,3010
+scratching nose,3010,3016
+picking up mug,3026,3039
+drinking tea,3039,3067
+putting mug down,3067,3079
+looking at phone,3079,3084
+typing on phone,3128,3134
+looking up and talking,3134,3149
+grabbing spoon and lifting,3158,3181
+picking up spoon,3203,3215
+lifting spoon,3215,3301
+putting food in mouth,3301,3310
+moving spoon away,3310,3328
+chewing and covering mouth,3337,3345
+chewing and talking,3345,3388
+putting spoon in bowl,3398,3418
+lifting spoon,3418,3437
+putting food in mouth,3437,3448
+putting spoon in bowl,3448,3459
+looking up and talking,3472,3492
+putting hand in hair,3492,3512
+talking expressively with hands,3520,3545
+looking down at phone,3602,3607
+reaching for bowl,3607,3614
+grabbing mug,3614,3623
+lifting mug,3623,3639
+drinking tea,3639,3673
+putting mug on table,3673,3696

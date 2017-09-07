@@ -1,0 +1,75 @@
+(Customer) waiting for waitress,1,22
+(Waiter/ess) walking to table,18,27
+(Waiter/ess) giver the menu,23,35
+(Waiter/ess) walking away,35,46
+(Customer) accepting the menu,25,36
+(Customer) reading the menu,36,303
+(Customer) opening the menu,42,57
+(Customer) turning the page,81,94
+(Customer) turning the page,145,165
+(Customer) turning the page,189,204
+(Waiter/ess) walking to table,299,314
+(Waiter/ess) placing the silverware,310,329
+(Waiter/ess) taking the order,328,369
+(Waiter/ess) picking up menu,369,379
+(Waiter/ess) walking away,375,388
+(Customer) placing an order,323,346
+(Customer) handing over menu,344,357
+(Customer) waiting for drink,380,695
+(Customer) moving the spoon,512,519
+(Customer) moving the fork,519,529
+(Customer) turning on phone,529,533
+(Waiter/ess) walking to table,684,694
+(Waiter/ess) pouring drink,694,733
+(Waiter/ess) walking away,729,741
+(Customer) grabbing drink,730,743
+(Customer) taking a drink,801,821
+(Customer) talking,740,802
+(Waiter/ess) walking to table,808,820
+(Waiter/ess) putting down dish,820,825
+(Waiter/ess) walking away,825,841
+(Customer) putting cup down,831,840
+(Customer) eating food,840,977
+(Customer) taking a bite,866,888
+(Customer) moving drink,903,922
+(Customer) taking a bite,936,959
+(Customer) taking a drink,973,1009
+(Customer) taking a bite,1024,1059
+(Customer) grabbing utensils,1064,1073
+(Customer) cutting food,1094,1132
+(Customer) talking,1121,1150
+(Customer) taking a bite,1144,1154
+(Customer) taking a bite,1193,1203
+(Customer) taking a drink,1232,1266
+(Customer) picking up fork,1266,1272
+(Customer) taking a bite,1272,1289
+(Customer) pushing plate away,1307,1321
+(Customer) picking up drink,1313,1340
+(Customer) grabbing phone,1380,1412
+(Customer) checking phone,1412,1448
+(Customer) taking a drink,1448,1466
+(Customer) checking phone,1466,1481
+(Waiter/ess) walking to table,1477,1491
+(Waiter/ess) taking an order,1492,1544
+(Waiter/ess) taking plate,1544,1554
+(Waiter/ess) walking away,1554,1566
+(Customer) placing an order,1496,1535
+(Customer) picks up cup,1518,1544
+(Customer) takes a drink,1563,1578
+(Waiter/ess) walking to table,1646,1655
+(Waiter/ess) placing yogurt,1651,1660
+(Waiter/ess) walking away,1660,1672
+(Customer) picking up spoon,1662,1667
+(Customer) grabbing yogurt,1661,1669
+(Customer) eating yogurt,1675,1904
+(Customer) taking a bite,1695,1703
+(Customer) taking a bite,1751,1762
+(Customer) taking a bite,1803,1813
+(Customer) taking a bite,1837,1846
+(Customer) taking a bite,1871,1882
+(Customer) taking a bite,1887,1895
+(Customer) putting down yogurt,1895,1909
+(Customer) calling for waitress,1955,1972
+(Waiter/ess) walking to table,1972,1989
+(Waiter/ess) walking away,2085,2104
+(Both) making payment,1993,2217

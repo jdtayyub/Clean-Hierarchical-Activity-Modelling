@@ -1,0 +1,13 @@
+(Customer) Sitting and waiting.,1,106
+(Waiter/ess) comes,108,138
+(Customer) reading menu,138,269
+(Waiter/ess) takes order,252,326
+(Waiter/ess) food served,330,484
+(Customer) eating food,491,929
+(Customer) drinking water,934,1025
+(Customer) Sitting and waiting,1025,1113
+(Waiter/ess) Icecream served,1135,1172
+(Customer) eating Icecream,1180,1557
+(Both) bill payment,1565,1675
+(Customer) peel banana,1674,1828
+(Customer) leave the room,1847,1884

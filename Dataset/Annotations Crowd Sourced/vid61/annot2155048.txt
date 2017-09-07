@@ -1,0 +1,11 @@
+(Waiter/ess) taking order,23,36
+(Customer) Reading Menu,36,157
+(Waiter/ess) order taken,164,178
+(Customer) taking cellphone and dialing,175,246
+(Waiter/ess) placing food on table,259,279
+(Customer) taking food from plate,303,316
+(Customer) eating food,321,335
+(Customer) taking glass and drinkng,415,454
+(Waiter/ess) bringing bowl ,806,811
+(Waiter/ess) taking bowl and plates,1251,1271
+(Customer) Putting pin,1204,1235

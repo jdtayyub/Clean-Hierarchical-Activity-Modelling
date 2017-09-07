@@ -1,0 +1,8 @@
+typing on laptop,51,97
+grabs paper and pen,174,183
+writes notes,280,484
+staples notes,484,549
+writes notes,544,584
+removes earphone,605,605
+closes laptop,646,667
+acting to work,1,667

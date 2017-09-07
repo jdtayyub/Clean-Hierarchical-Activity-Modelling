@@ -1,0 +1,41 @@
+picking up corn flakes ,50,72
+looking inside the pack,115,135
+putting cornflakes into cup,144,159
+keeping down the pack,217,227
+Add cornflakes,45,250
+picking up milk,221,231
+opening the cap,238,247
+pouring milk into bowl,256,266
+closing cap,288,295
+kept down milk pack,311,319
+Add Milk,220,320
+picking up bottle,333,337
+opening bottle cap,345,352
+kept down bottle,355,360
+Get/Return Coffee,334,433
+picking up spoon,366,371
+kept spoon into bowl,388,400
+Mixing bowl content, 365,400
+closing bottle cap,391,397
+picking up bottle,405,412
+kept down bottle,422,435
+picking the pack,435,442
+opening the pack,440,464
+picking tea from pack,462,480
+putting into cup,487,492
+picking up teapot,496,502
+pouring tea into cup,521,537
+kept down tea pot,592,608
+Prepare Drink,450,629 
+mixing bowl stuff,622,630
+eating using spoon,675,686
+mixing bowl stuff,717,730
+eating using spoon,813,827
+Consuming bowl content,620,830
+picking up cup,1048,1067
+drinking from cup,1075,1094
+kept down cup,1117,1131
+Sip tea,1048,1067
+eating,1161,1169
+picking up phone,1197,1202
+consuming breakfast,1,3703

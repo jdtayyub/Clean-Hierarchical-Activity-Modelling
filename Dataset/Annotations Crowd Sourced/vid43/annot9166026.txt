@@ -1,0 +1,12 @@
+(Customer) Wipe Table,39,61
+(Waiter/ess) Walks to Table,15,35
+(Waiter/ess) Walks away,117,131
+(Waiter/ess) brings cup,323,386
+(Waiter/ess) writes in notebook,479,563
+(Customer) Takes drink 1,624,665
+(Waiter/ess) brings food,866,923
+(Customer) eating,967,2008
+(Customer) drinks,1642,1724
+(Customer) drink,1806,1854
+(Waiter/ess) removes drinks,2154,2167
+(Waiter/ess) removes food,2310,2343

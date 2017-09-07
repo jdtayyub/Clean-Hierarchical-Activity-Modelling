@@ -1,0 +1,26 @@
+teapowder to glass,14,63
+teapot water to glass,76,119
+mix it,131,142
+snack to bowl,142,182
+pour milk to bowl,182,223
+mix it,240,273
+eating food,273,285
+reading box,295,335
+eating food,335,366
+eating food,447,461
+eating food,537,604
+drinking tea,639,696
+eating food,711,734
+reading newspaper,753,826
+eating food,826,846
+reading newspaper,846,924
+eating food,924,942
+reading newspaper,942,981
+eating food,990,1014
+reading newspaper,1026,1192
+eating food,1192,1226
+drinking tea,1237,1368
+reading newspaper,1368,1401
+drinking tea,1401,1435
+close newspaper,1445,1453
+newspaper used,750,1470

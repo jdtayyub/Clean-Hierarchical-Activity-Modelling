@@ -1,0 +1,55 @@
+(Customer) Looking at menu,9,96
+(Both) Talking,101,212
+(Customer) Looking on menu,214,620
+(Waiter/ess) bringing the order,622,806
+(Customer) ordering to waitress,810,865
+(Waiter/ess) writing the order,866,1012
+(Customer) ordering,1013,1104
+(Waiter/ess) writing on a paper,1105,1173
+(Customer) ordering,1174,1210
+(Waiter/ess) walking back,1211,1235
+(Customer) taking the cup,1236,1312
+(Customer) placing back the menu,1313,1328
+(Customer) drinking,1329,1412
+(Customer) placing back the cup,1413,1434
+(Customer) talking to someone,1435,1796
+(Waiter/ess) bringing the order,1797,1828
+(Waiter/ess) walking back,1829,1846
+(Customer) picking the food,1847,1901
+(Customer) eating the food,1902,1948
+(Customer) chewing the stuff,1949,2006
+(Customer) eating,2007,2023
+(Customer) chewing the food,2024,2063
+(Customer) piecing the food,2064,2203
+(Customer) eating the food,2204,2223
+(Customer) chewing the food,2224,2252
+(Customer) making pieces the food,2253,2330
+(Customer) eating the food,2331,2374
+(Customer) chewing and talking,2375,2525
+(Customer) eating,2526,2538
+(Customer) chewing,2539,2588
+(Customer) eating the food,2589,2673
+(Customer) chewing the food,2674,2797
+(Customer) drinking from cup,2798,2854
+(Customer) chewing and talking,2855,3003
+(Customer) making pieces the food,3004,3052
+(Customer) eating the food,3053,3083
+(Customer) chewing and talking,3084,3187
+(Customer) making pieces the food,3188,3264
+(Customer) eating,3265,3288
+(Customer) chewing the food,3297,3364
+(Customer) eating the food,3365,3380
+(Customer) chewing the food,3381,3421
+(Customer) eating and talking,3422,3511
+(Customer) chewing the food,3512,3554
+(Customer) talking to someone,3555,3631
+(Waiter/ess) coming back to customer,3632,3655
+(Waiter/ess) talking to customer,3656,3706
+(Waiter/ess) walking back,3707,3723
+(Customer) drinking from cup,3724,3785
+(Waiter/ess) coming back,3786,3798
+(Waiter/ess) giving the bill,3799,3915
+(Waiter/ess) taking back the plates,3916,3972
+(Waiter/ess) going back,3972,3975
+(Waiter/ess) typing on machine,3976,4013
+(Customer) giving back the machine,4014,4064

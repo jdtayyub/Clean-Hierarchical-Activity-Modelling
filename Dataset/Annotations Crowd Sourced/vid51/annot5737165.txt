@@ -1,0 +1,13 @@
+(Waiter/ess) Brings menu,13,30
+(Customer) Read menu,30,175
+(Waiter/ess) Takes order,179,234
+(Waiter/ess) Takes menu away,244,252
+(Waiter/ess) Brings water,322,332
+(Customer) Drinks water,332,446
+(Waiter/ess) Bring silverware,390,410
+(Customer) Drinks water again,457,549
+(Waiter/ess) Delivers food,618,628
+(Customer) Eats food,628,1053
+(Waiter/ess) Checks on meal,1074,1107
+(Waiter/ess) Takes dishes away,1127,1138
+(Customer) Consume apple,1153,1444

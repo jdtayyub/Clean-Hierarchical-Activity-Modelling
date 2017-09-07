@@ -1,0 +1,16 @@
+holding tea bag,10,78
+pouring hot water,78,107
+adding cereal ,132,165
+adding milk,181,222
+eating cereal ,262,307
+reading cereal box,338,651
+using mobile,675,754
+eating,781,822
+starring in coffee,857,894
+drinking coffee,904,943
+eating,967,1005
+checking time,1005,1028
+reading newspaper,1095,1154
+drinking coffee,1154,1323
+eating,1334,1363
+folding newspaper,1376,1410

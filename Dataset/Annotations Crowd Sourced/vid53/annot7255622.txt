@@ -1,0 +1,21 @@
+(Waiter/ess) walking in room,26,41
+(Customer) looking at menu,54,210
+(Customer) looking at menu,244,263
+(Waiter/ess) writing order,282,302
+(Waiter/ess) taking menu,307,321
+(Waiter/ess) walking away,322,328
+(Waiter/ess) pouring drink,439,455
+(Customer) holding cup,482,519
+(Waiter/ess) placing plate,519,528
+(Customer) eating food,587,1197
+(Customer) holding cup,1216,1301
+(Customer) dusting off hands,1951,1975
+(Both) talking together,2014,2065
+(Waiter/ess) carrying plate away,2050,2071
+(Customer) holding cup,2234,2299
+(Customer) opening lid,2320,2346
+(Customer) holding spoon,2357,2808
+(Customer) eating with spoon,2422,2794
+(Waiter/ess) clearing table,2848,2873
+(Customer) swiping card,2886,2902
+(Waiter/ess) handing card back,3003,3017

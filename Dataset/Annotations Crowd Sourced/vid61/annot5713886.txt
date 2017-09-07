@@ -1,0 +1,39 @@
+(Customer) Waiting for menu,1,25
+(Waiter/ess) Bringing a menu,16,41
+(Customer) reading a menu,41,89
+(Customer) calling for waitress,104,112
+(Both) placing an order,133,159
+(Waiter/ess) taking an order,133,166
+(Waiter/ess) walking away,166,181
+(Customer) checking phone,181,234
+(Waiter/ess) bringing dinner,232,283
+(Waiter/ess) walking away,277,291
+(Customer) eating dinner,294,416
+(Customer) taking a drink,416,463
+(Waiter/ess) Bringing a menu,16,45
+(Waiter/ess) walking away,133,180
+(Waiter/ess) bringing dinner,232,290
+(Waiter/ess) bringing a drink,316,359
+(Customer) eating dinner,291,984
+(Customer) taking a bite,537,552
+(Customer) taking a bite,309,340
+(Customer) taking a bite,646,689
+(Customer) taking a drink,701,733
+(Waiter/ess) bringing another dish,777,829
+(Customer) checking phone,873,983
+(Customer) taking a bite,983,1033
+(Customer) checking phone,867,1072
+(Customer) asking for check,1070,1088
+(Waiter/ess) calculating the bill,1093,1135
+(Customer) paying bill,1116,1188
+(Customer) adding tip,1197,1245
+(Waiter/ess) accepting payment,1219,1250
+(Waiter/ess) clearing table,1261,1317
+(Customer) checking phone,1362,1467
+(Customer) opening menu,40,56
+(Customer) turning the page,69,75
+(Customer) turning the page,95,106
+(Waiter/ess) walking to table,121,136
+(Waiter/ess) walking away,167,179
+(Waiter/ess) walking to table,235,269
+(Waiter/ess) walking away,280,292

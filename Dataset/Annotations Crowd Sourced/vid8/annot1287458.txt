@@ -1,0 +1,28 @@
+pick up box,1,27
+tea bag in cup,27,66
+pour water,66,84
+pour cereal,84,151
+put box down,151,173
+pour milk,173,205
+put top on milk,205,231
+put box down,221,245
+pick up spoon,245,300
+read cereal box,300,355
+pick up spoon,355,385
+pick up spoon,385,479
+pick up spoon,479,588
+put cereal box down,588,668
+check phone,668,699
+phone to ear,699,776
+pick up spoon,776,785
+drink,785,909
+pick up spoon,909,992
+check watch,992,1015
+check phone,1015,1059
+pick up spoon,1059,1096
+read paper,1096,1155
+cup down,1155,1165
+drink from cup,1145,1196
+pick up spoon,1196,1354
+fold paper,1354,1387
+take down cup,1250,1298

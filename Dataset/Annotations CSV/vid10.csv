@@ -1,0 +1,161 @@
+having light breakfast,1,2111
+making coffee,11,500
+using a coffee jar,11,284
+opening coffee grounds,27,38
+adding tea to cup,35,254
+takes off lid,39,51
+adding tea,45,177
+picks up spoon,75,101
+lick spoon,81,109
+licks spoon,96,105
+scoop coffee,96,255
+putting coffee in mug,122,230
+scooping coffee grounds,126,246
+PUTTING COFFEE INTO CUP,170,200
+adding water,177,309
+TAKING COFFEE,204,234
+closing bottle ,248,284
+CLOSING COFFEE JAR,254,281
+adds hot water,254,360
+pour liquid frin pot ,255,375
+pouring water from teapot,257,353
+closing coffee grounds,271,281
+Pouring hot water,281,350
+adding hot water ,284,349
+TAKING TEAPOT,286,297
+uses teapot,290,347
+pouring hot water,297,350
+POURING WATER INTO CUP,298,343
+pouring water,299,345
+pouring water,303,351
+adding cream,309,401
+TAKING MILK PACK,347,366
+adding milk,349,420
+pouring milk,354,406
+holding carton,356,428
+Pouring creamer,358,429
+uses carton,359,427
+add creamer,360,430
+OPENING MILK PACK,366,375
+POURING MILK TO CUP,375,400
+pouring milk,377,409
+pouring milk,380,397
+pouring creamer,380,426
+stirring tea,401,490
+CLOSING MILK PACK,404,420
+stirring coffee ,420,488
+stirring coffee,428,489
+Open Yoghurt And clean lid,430,609
+Stirring coffee,432,500
+MIXING COFFEE WITH SPOON,436,489
+stirs cup,446,489
+licking lid ,488,620
+opening breakfast,500,565
+opening youghurt,503,611
+opening yogurt ,508,562
+opening yogurt,509,559
+OPENING PACKET,510,563
+opens yogurt,517,562
+Eating yogurt,517,682
+open yogurt and lick lid,547,620
+opening yoguart,548,623
+licking yogurt lid,564,609
+licking lid,564,606
+licks lid,568,607
+Eat and Read,609,1096
+eating curd ,620,703
+TAKING SPOON,621,641
+eat yogurt ,634,708
+mixing yogurt,642,663
+eating yogurt,644,2132
+eating breakfast,662,693
+EATING WITH SPOON,664,672
+consuming a yogurt,666,2120
+eats yogurt,669,694
+eating yogurt,670,690
+looking at newspaper,690,1078
+reading newspaper,691,1748
+reads newspaper,693,1095
+opening newspaper,694,716
+Reading newspaper,694,1096
+TAKING NEWS PAPER,695,702
+reading the newspaper,697,1727
+turning newspaper pages,703,777
+read flip newspaper,708,1093
+OPENING NEWS PAPER,709,715
+READING NEWS PAPER,752,790
+reading the paper,771,1071
+reading newspaper ,777,790
+eating curd ,790,837
+EATING WITH SPOON,791,826
+READING NEWS PAPAER,830,862
+reading newspaper ,837,872
+EATING WITH SPOON,866,886
+eating curd ,872,891
+turning newspaper pages ,891,1056
+READING NEWS PAPER,891,1053
+turning pages,900,1050
+eating curd ,1056,1100
+Eating yogurt,1057,1094
+EATING WITH SPOON,1059,1094
+Drinking coffee,1060,1229
+drinking coffee,1095,1185
+drink of coffee,1096,1180
+DRINKING COFFEE,1098,1181
+drinking coffee ,1100,1188
+drinks from cup,1102,1178
+Drinking coffee,1108,1187
+taking a sip,1113,1179
+drink coffee,1116,1177
+drinking tea,1146,1190
+Eat and Read,1180,1662
+reading newspaper ,1188,1669
+Turning the page,1188,1295
+READING NEWS PAPER,1193,1315
+flip newspaper,1201,1255
+reading a article,1246,1432
+eat yogurt,1255,1336
+Eating yogurt,1317,1421
+EATING WITH SPOON,1319,1339
+READING NEWS PAPAER,1343,1428
+eating while reading,1427,1681
+Turning the page,1430,1518
+EATING WITH SPOON,1434,1451
+READING NEWS PAPER,1452,1606
+eating yoguart,1580,1630
+EATING WITH SPOON,1609,1627
+READING NEWS PAPER,1629,1656
+answering the phone,1642,1675
+Talk and Read,1662,1753
+answering phone,1663,1680
+using phone,1663,2140
+TAKING MOBILE PHONE,1663,1675
+talks on phone,1665,2130
+Answering cell phone,1665,2000
+holding phone,1666,2132
+talking on phone ,1669,2138
+using the phone,1671,2139
+talking on the phone,1672,2134
+pick up talk phone,1673,1804
+SPEAKING ON PHONE,1678,1773
+sipping tea,1695,1791
+closing newspaper,1714,1739
+Drinking coffee,1751,1831
+Drink coffee,1753,1839
+DRINKING COFFEE,1757,1810
+drinking from mug,1780,1801
+talking on the phone,1791,1852
+Talk and Eat,1839,2122
+TAKING FOOD WITH SPOON,1845,1992
+Eating yogurt,1862,1996
+taking a bite,1864,1928
+finishing breakfast,1928,1989
+talking and eating,1989,2050
+holding phone with shoulder,1992,2121
+TAKING FOOD WITH SPOON,2000,2113
+eat yogurt ,2003,2132
+Eating yogurt,2039,2122
+hanging up,2050,2136
+End call,2122,2153
+hangs up phone,2130,2153
+DISCONNECTING CALL,2130,2144

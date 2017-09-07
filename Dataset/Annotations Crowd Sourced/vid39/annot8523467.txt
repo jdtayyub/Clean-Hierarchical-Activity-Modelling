@@ -1,0 +1,12 @@
+wearing headphone,1,25
+opening laptop,25,109
+working on laptop,109,128
+writing on paper,128,191
+using stapler,191,232
+working on laptop,239,306
+writing on paper,306,441
+using stapler,441,487
+drinking water,468,508
+closing laptop,508,569
+laptop used,25,569
+

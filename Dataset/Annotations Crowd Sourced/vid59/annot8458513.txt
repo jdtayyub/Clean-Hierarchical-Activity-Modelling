@@ -1,0 +1,6 @@
+(Customer) checking phone,197,282
+(Customer) checking phone,1,38
+(Waiter/ess) waiting on customer,50,1138
+(Customer) grabs phone,1138,1151
+(Customer) grabs bannana,1163,1187
+(Customer) leaves,1200,1212

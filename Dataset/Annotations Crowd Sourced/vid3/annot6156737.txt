@@ -1,0 +1,27 @@
+taking box,71,106
+pouring,115,233
+stirring pot,233,243
+taking and shaking,252,320
+pourring contents,330,490
+stirring food,498,761
+eating with spoon,761,1821
+taking bottle,1821,1879
+opening bottle,1879,1899
+taking cup,1899,1916
+pouring powder,1916,2045
+closing bottle,2045,2090
+opening box,2100,2132
+pouring from box,2144,2204
+closing box,2204,2228
+eating food,2228,2305
+placing box,2305,2328
+handling tea pot,2328,2440
+stirring,2462,2582
+drinking,2582,2718
+drinking,2768,2800
+drinking,2851,2877
+touches coffee jar,2932,3065
+taking and drinking,3082,3136
+cleaning mouth,3161,3169
+handling food,3191,3268
+drinking finished,3346,3395

@@ -1,0 +1,18 @@
+Filling tea cup,59,132
+Filling Corn Flakes,137,178
+Filling Milk,179,226
+Reading Label,235,526
+Taking food,264,283
+Taking food,338,359
+Taking food,440,463
+Taking food,536,586
+Drinking Tea,633,702
+Taking Food,707,727
+Reading NewsPaper,730,1184
+Taking Food,819,846
+Taking food,917,945
+Taking food,975,1008
+Taking food,1188,1225
+Drinking Tea,1242,1437
+Reading NewsPaper,1337,1444
+Breakfast Finish,1446,1460

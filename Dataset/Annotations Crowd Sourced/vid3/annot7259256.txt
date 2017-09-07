@@ -1,0 +1,58 @@
+putting cornflakes,102,239
+opening milk box,304,318
+pouring milk,339,469
+closing milk box,475,483
+picking spoon,489,497
+mixing in bowl,504,735
+tilting bowl,716,758
+consuming,772,785
+chewing ,820,864
+consuming,879,931
+chewing,944,970
+consuming,976,984
+chewing,990,1122
+stirring ,1012,1081
+putting in mouth,1129,1140
+chewing,1151,1193
+putting in mouth,1200,1221
+chewing,1232,1318
+putting in mouth,1324,1331
+chewing,1341,1451
+putting in mouth,1461,1468
+chewing,1479,1593
+moving the bowl,1563,1589
+putting in mouth,1608,1620
+chewing,1627,1673
+putting in mouth,1680,1692
+chewing,1707,1714
+putting in mouth,1725,1730
+chewing,1692,1716
+putting in mouth,1724,1731
+chewing,1746,1759
+putting in mouth,1764,1773
+chewing,1782,1798
+putting in mouth,1804,1810
+chewing,1821,1834
+taking the jar,1836,1861
+opening the jar,1868,1884
+taking the cup,1897,1910
+putting coffee powder,1916,2048
+closing the jar,2053,2109
+opening milk box,2115,2144
+pouring milk,2152,2180
+closing milk box,2213,2221
+putting in mouth,2239,2252
+chewing,2264,2288
+putting in mouth,2289,2297
+chewing,2310,2321
+moving milk box,2319,2328
+lifting teapot,2342,2372
+pouring in cup,2380,2435
+stirring in cup,2466,2567
+drinking ,2679,2723
+drinking,2773,2801
+drinking,2856,2888
+holding coffee jar,2936,3077
+drinking,3107,3149
+wiping mouth,3164,3177
+drinking,3353,3413

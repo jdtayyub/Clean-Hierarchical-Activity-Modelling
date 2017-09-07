@@ -1,0 +1,12 @@
+opening coffee pot,25,50
+put coffee into cup,55,86
+closing coffeepot,86,101
+put water into cup,137,152
+put cereal into plate,273,317
+taking milk,339,351
+opening milk box,354,365
+Pour the milk into plate,366,390
+taking newspaper,455,493
+eating cereal,491,511
+drinking coffee,609,645
+reading newspaper,665,682

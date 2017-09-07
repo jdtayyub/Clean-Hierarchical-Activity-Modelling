@@ -1,0 +1,20 @@
+put on headphones,6,18
+typing,23,58
+picking up pen,62,66
+writing,67,118
+putting down pen,119,126
+picking up stapler,127,132
+stapling,133,184
+putting down stapler,185,190
+moving papers,191,202
+moving pencil,203,208
+drinking juice,209,259
+typing,264,343
+writing,347,444
+typing,452,479
+writing,482,552
+picking up stapler,557,561
+stapling,563,596
+putting down stapler,597,600
+moving pen,604,613
+taking off headphones,617,644

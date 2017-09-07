@@ -1,0 +1,13 @@
+(Customer) drink from cup,689,757
+(Customer) eats from plate,878,925
+(Customer) eats desert,1256,1375
+(Customer) enters pin ,1614,1659
+(Waiter/ess) takes the plate,1087,1149
+(Waiter/ess) brings the plate,294,331
+(Customer) moves the cup,665,681
+(Customer) eating lunch,783,803
+(Customer) drinking from cup,1191,1204
+(Waiter/ess) bring small bowl,1207,1230
+(Waiter/ess) brings transaction machine,1564,1600
+(Waiter/ess) takes cup and bowl,1591,1627
+(Waiter/ess) takes transaction machine,1682,1719

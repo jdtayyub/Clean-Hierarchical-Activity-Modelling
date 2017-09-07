@@ -1,0 +1,248 @@
+(Waiter/ess) put fruit bowl down,1,141
+(Waiter/ess) walks to table,20,28
+(Waiter/ess) serving,21,96
+(Both) Greetings,25,221
+(Waiter/ess) moves back,27,37
+(Waiter/ess) giving menu,28,38
+(Waiter/ess) Leave menu,28,34
+(Waiter/ess) sets paper down,29,35
+(Customer) Menu Given,30,44
+(Both) talking,35,217
+(Waiter/ess) greets customer,36,40
+(Waiter/ess) Places fruit on table,36,85
+(Waiter/ess) leave plate,36,88
+(Customer) Picks menu,38,48
+(Customer) grabbing menu,40,53
+(Customer) moves menu,42,56
+(Waiter/ess) sets plate fruit,48,94
+(Waiter/ess) putting plate,53,91
+(Customer) looks through menu,54,340
+(Customer) glancing at menu,64,77
+(Customer) glancing at menu,66,76
+(Waiter/ess) puts fruit down,67,93
+(Customer) reads menu,74,89
+(Customer) looks at menu,76,129
+(Waiter/ess) sets fruit down,76,99
+(Waiter/ess) placing tray on table,79,89
+(Both) Talk about menu,85,179
+(Waiter/ess) holding tray,89,90
+(Both) talking,96,221
+(Both) talking together,99,222
+(Customer) moving menu,104,110
+(Customer) looking back down,110,116
+(Waiter/ess) takes drink order,116,206
+(Customer) reading the menu,121,131
+(Waiter/ess) raising tray,126,130
+(Both) talking,131,211
+(Customer) orders a drink,132,206
+(Waiter/ess) speaking to customer,163,168
+(Customer) Places drink order,179,220
+(Customer) reading menu,207,341
+(Customer) reads menu,207,338
+(Waiter/ess) walks away,209,225
+(Customer) reads menu,209,341
+(Customer) reads menu,211,346
+(Customer) reading menu,211,341
+(Waiter/ess) stepping away,213,215
+(Waiter/ess) leaves,215,225
+(Waiter/ess) leaving,216,226
+(Waiter/ess) walking away,216,220
+(Customer) opening menu,219,221
+(Customer) Looks at menu,220,272
+(Customer) looks at menu,221,342
+(Customer) looks at menu,224,343
+(Customer) reading,226,351
+(Customer) flips page of menu,230,242
+(Customer) turning menu page,232,237
+(Customer) turned menu page,232,248
+(Waiter/ess) Brings juice and mug,272,370
+(Customer) flipped menu over,287,297
+(Customer) finishes reading menu,288,298
+(Customer) flipped menu open,299,309
+(Customer) reading menu,302,306
+(Customer) flip menu,303,309
+(Customer) reread menu,312,327
+(Customer) leaves menu,335,340
+(Waiter/ess) entered scene,347,367
+(Waiter/ess) placed cup down,347,367
+(Waiter/ess)  coming,348,360
+(Waiter/ess) waiter enters,348,354
+(Waiter/ess) brings drink in,349,361
+(Waiter/ess) walks in and out,350,476
+(Waiter/ess) serving,351,422
+(Waiter/ess) pick a glass,358,361
+(Both) interaction,358,426
+(Waiter/ess) serves drink,359,388
+(Waiter/ess) puts drink down,361,396
+(Waiter/ess) leaves glass,361,369
+(Waiter/ess) giving juice,362,370
+(Waiter/ess) giving coffee cup,362,371
+(Waiter/ess) gives juice,364,374
+(Waiter/ess) Places juice on table,370,400
+(Waiter/ess) sets cup down,370,373
+(Waiter/ess) picked up orange bottle,373,378
+(Waiter/ess) pick bottle,374,376
+(Waiter/ess) leaves bottle,376,382
+(Waiter/ess) put orange bottle down,378,382
+(Waiter/ess) sets juice down,383,393
+(Waiter/ess) takes food order,387,462
+(Waiter/ess) communicated with customer,389,399
+(Both) discussing menu,399,464
+(Customer) Places food order,400,469
+(Customer) orders food,418,463
+(Both) talking,422,480
+(Customer) spoke to waiter,444,453
+(Customer) gave menu to waiter,455,465
+(Customer) giving back menu,459,471
+(Customer) gives back menu,463,469
+(Customer) giving magazine,464,471
+(Waiter/ess) gets menu,464,474
+(Waiter/ess) picks menu,464,469
+(Waiter/ess) retrieves menu,465,476
+(Waiter/ess) walked away,466,475
+(Waiter/ess) took menu,467,470
+(Customer) Pours juice in mug,469,589
+(Waiter/ess) walks away,470,480
+(Customer) smiled at camera,502,511
+(Customer) picked up juice,548,564
+(Waiter/ess) pouring drink,551,601
+(Waiter/ess) pouring drink,556,599
+(Customer) Makes drink,557,608
+(Customer) picks bottle,557,566
+(Customer) drinks her milk,559,643
+(Customer) took cover off juice,564,569
+(Customer) opens bottle,566,569
+(Customer) juice in cup,569,597
+(Waiter/ess) pours juice,569,600
+(Customer) poured juice,569,589
+(Customer) pours bottle content,573,589
+(Customer) Drinks juice,589,657
+(Customer) put cover on ,592,596
+(Customer) put juice down,593,602
+(Customer) drinking,606,640
+(Customer) takes a drink,608,635
+(Customer) picked up mug,608,614
+(Customer) pick glass,608,611
+(Customer) taking a drink,608,657
+(Customer) drinks juice,611,632
+(Customer) drinking juice,613,633
+(Customer) drinks from cup,614,645
+(Customer) drank from mug,614,632
+(Customer) put mug down,637,642
+(Customer) waiting,654,826
+(Customer) Waits for food,657,733
+(Customer) waits,670,830
+(Customer) clean mouth,676,706
+(Customer) checks watch,709,720
+(Customer) checking the time,712,718
+(Customer) check watch,716,719
+(Waiter/ess) Walks in with food,733,842
+(Customer) glanced around room,738,790
+(Both) talking,805,816
+(Waiter/ess) walks to table,837,851
+(Waiter/ess) serving,838,896
+(Waiter/ess) returns,839,848
+(Waiter/ess) came into room,840,860
+(Waiter/ess) brings food,841,891
+(Waiter/ess) Places food on table,842,894
+(Waiter/ess) Sets food on table,849,879
+(Waiter/ess) placing food,850,858
+(Waiter/ess) leave plate,852,861
+(Waiter/ess) puts mains down,853,879
+(Waiter/ess) sets down plate,855,865
+(Waiter/ess) put bag down,861,871
+(Waiter/ess) giving chips,866,873
+(Waiter/ess) leaves bag,867,879
+(Waiter/ess) sets down bag,873,884
+(Waiter/ess) leaves the room,878,891
+(Waiter/ess) walks away,881,891
+(Waiter/ess) left scene,881,891
+(Customer) picks a fork ,891,895
+(Customer) eating from plate,892,1132
+(Customer) picking up a fork,892,899
+(Customer) Starts eating salad,894,963
+(Customer) eats salad,895,2315
+(Customer) eating,896,1271
+(Customer) eating,896,1889
+(Customer) grabbing fork,897,901
+(Customer) consuming food,899,1859
+(Customer) mixing salad,899,938
+(Customer) eats her food,901,1728
+(Customer) ate from plate,901,961
+(Customer) ate from plate,901,971
+(Customer) mixing food,912,922
+(Customer) putting food into mouth,958,966
+(Customer) eats salad,962,1146
+(Customer) Eats chips from bag,963,1171
+(Customer) eating food,964,973
+(Customer) chewing food,966,1896
+(Customer) ate from plate,971,1051
+(Customer) picking pasta,1034,1075
+(Customer) ate another bite,1071,1111
+(Customer) eating pasta,1118,1125
+(Customer) eating food bag,1132,1272
+(Customer) eats from bag,1151,1273
+(Customer) ate from bag,1151,1211
+(Customer) eating chips,1160,1208
+(Customer) Continues eating chips,1171,1257
+(Customer) Eats more salad,1257,1321
+(Customer) eating from plate,1282,1672
+(Customer) ate from plate,1301,1341
+(Customer) picking pasta,1306,1316
+(Customer) eating pasta,1316,1325
+(Customer) Continues eating more,1321,1516
+(Customer) ate from plate,1381,1441
+(Customer) ate from plate,1511,1541
+(Customer) Drinks more juice,1516,1748
+(Customer) ate from plate,1584,1644
+(Customer) chewing,1672,1732
+(Customer) takes a drink,1730,1784
+(Customer) drinking,1739,1779
+(Customer) drinking juice,1745,1768
+(Customer) Eats more chips ,1748,1813
+(Customer) drank from mug,1751,1781
+(Customer) eating food from bag,1784,1854
+(Customer) eating chips,1792,1811
+(Customer) ate from bag,1801,1831
+(Waiter/ess) Walks in again,1813,1937
+(Customer) sat back ,1851,1931
+(Customer) chewing,1862,1912
+(Waiter/ess) walks in,1913,1953
+(Both) talking,1917,2147
+(Waiter/ess) checking on customer,1922,2165
+(Waiter/ess) clear table,1925,2290
+(Waiter/ess) picked up plate,1931,2121
+(Both) talking,1932,2132
+(Waiter/ess) Picks up plate,1937,2009
+(Waiter/ess) takes plate,1938,1978
+(Waiter/ess) takes juice and plate,1939,2159
+(Waiter/ess) picking up plate,1951,1962
+(Waiter/ess) takes plate,1954,1964
+(Waiter/ess) talks to customer,1962,2142
+(Both) Talk to each other,2009,2049
+(Customer) Places desert order,2049,2145
+(Waiter/ess) picked up juice,2121,2151
+(Waiter/ess) picking up juice,2133,2143
+(Waiter/ess) takes plate away,2142,2161
+(Waiter/ess) takes juice,2144,2154
+(Waiter/ess) Clears table and goes,2145,2164
+(Waiter/ess) walked away,2151,2171
+(Customer) waits,2161,2227
+(Waiter/ess) Brings in food,2164,2259
+(Waiter/ess) walks in,2229,2239
+(Waiter/ess) set plate down,2231,2251
+(Waiter/ess) Brings desert food,2234,2264
+(Waiter/ess) serving food,2234,2269
+(Waiter/ess) sets desert plate down,2237,2257
+(Waiter/ess) placing plate,2247,2260
+(Customer) eating ice cream,2259,2325
+(Both) talking,2261,2265
+(Waiter/ess) walks away,2267,2281
+(Waiter/ess) left room,2271,2291
+(Customer) eats the food,2274,2494
+(Customer) eats,2284,2494
+(Customer) eating,2285,2500
+(Customer) eating,2288,2500
+(Customer) ate from plate,2291,2491
+(Customer) eats with spoon,2314,2500
+(Customer) eating ice cream,2325,2479

@@ -1,0 +1,12 @@
+using headphone,52,93
+using laptop,118,135
+reading writing ,152,345
+using calculator,345,414
+writing,414,448
+putting staples,448,473
+drinking water,480,514
+reading paper,514,540
+using laptop,540,659
+using laptop,659,727
+taking headphone,727,745
+closing laptop,745,769

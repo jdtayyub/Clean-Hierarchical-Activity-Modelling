@@ -1,0 +1,185 @@
+(Both) Lunch service,1,1890
+(Customer) looking at waiter,54,105
+(Waiter/ess) Walks with menu,104,145
+(Customer) receives menu,105,120
+(Waiter/ess) Giving menu,106,117
+(Waiter/ess) handover the menu card,106,139
+(Waiter/ess) comes,108,138
+(Customer) look at menu,113,167
+(Customer) Gets a menu,114,142
+(Customer) Taking menu,117,139
+(Customer) picks menu,122,129
+(Customer) Decide and order,128,235
+(Customer) read menu,129,219
+(Customer) reading menu,138,269
+(Customer) Reading menu,139,219
+(Customer) watching the menu,140,225
+(Customer) Reads menu,145,235
+(Waiter/ess) take order,167,281
+(Customer) Calling service,219,229
+(Customer) calling waiter,221,229
+(Customer) call waiter,225,255
+(Customer) Waiting for service,229,269
+(Customer) Calls server,235,268
+(Customer) waiting,237,266
+(Waiter/ess) takes order,252,326
+(Both) Order exchanging,261,318
+(Customer) Places food order,268,327
+(Customer) ordering food,271,319
+(Customer) order something,275,308
+(Waiter/ess) writes the order list,278,319
+(Customer) give order,281,291
+(Customer) order food,287,309
+(Waiter/ess) take down the order,309,320
+(Waiter/ess) take the order,316,324
+(Waiter/ess) Brings food and beverage,327,464
+(Customer) waiting,330,421
+(Waiter/ess) food served,330,484
+(Customer) waiting for service,331,361
+(Waiter/ess) serve food,359,459
+(Customer) receiving order,441,472
+(Waiter/ess) serves the ordered food,441,474
+(Waiter/ess) Serving Food,443,476
+(Waiter/ess) glass to table,448,465
+(Waiter/ess) order come,450,473
+(Customer) Gets food,454,500
+(Customer) beginning eating,459,501
+(Customer) taking fork,463,480
+(Customer) Taking Fork,464,489
+(Customer) eating salad,464,562
+(Customer) eating the food,471,987
+(Customer) pick the spoon,473,484
+(Customer) eating food,473,507
+(Customer) eating,477,920
+(Customer) eating,480,916
+(Customer) Eating Food,489,591
+(Customer) eating food,491,929
+(Customer) eating food,492,534
+(Customer) Eats food finishes,524,974
+(Customer) eating food,537,573
+(Customer) eating food,553,579
+(Customer) eating salad,562,737
+(Customer) Eating and thinking,616,657
+(Customer) eating food,656,689
+(Customer) Eating with fork,657,685
+(Customer) eating food,674,696
+(Customer) Chewing Food,685,750
+(Customer) Chewing and thinking,766,832
+(Customer) Eating with fork,859,916
+(Customer) eating food,873,907
+(Customer) eating food,885,915
+(Customer) Picks up glass,905,955
+(Customer) Takes water,916,970
+(Customer) picking cup,921,1004
+(Customer) drinking from cup,924,1064
+(Customer) Calling service,925,962
+(Customer) hold the glass,925,943
+(Customer) Pushing away plate,927,945
+(Customer) drinking water,934,1025
+(Customer) drinking water,937,1055
+(Customer) drinks from cup,938,1064
+(Customer) hold the glass,951,978
+(Waiter/ess) walks in again,955,999
+(Both) giving and taking order,969,1023
+(Customer) DRINK FROM CUP,977,1029
+(Waiter/ess) pick the plate,978,1021
+(Customer) Requesting to clean,993,1017
+(Waiter/ess) Clears table and leaves,999,1031
+(Waiter/ess) Clearing table,1001,1024
+(Waiter/ess) cleans the table,1003,1022
+(Customer) Drinking water,1005,1063
+(Customer) drinking,1009,1049
+(Customer) drinking water,1021,1056
+(Customer) Sitting and waiting,1025,1113
+(Customer) PUT CUP DOWN,1029,1102
+(Customer) Drinks the beverage,1031,1072
+(Customer) putting cup down,1050,1062
+(Customer) Waiting for service,1063,1140
+(Customer) waiting,1067,1136
+(Waiter/ess) Brings in ice cream,1072,1155
+(Waiter/ess) serve desert,1102,1150
+(Waiter/ess) Service Arrives,1133,1149
+(Waiter/ess) Icecream served,1135,1172
+(Customer) getting food,1141,1158
+(Waiter/ess) give desert,1143,1161
+(Waiter/ess) Giving Food,1144,1154
+(Customer) Gets dessert,1144,1555
+(Customer) BEGIN TO EAT,1150,1210
+(Waiter/ess) serves ice cream,1150,1166
+(Customer) Taking fork,1154,1163
+(Waiter/ess) Leaves after serving,1155,1170
+(Customer) Picking glass,1156,1167
+(Customer) taking the fork and cup,1156,1165
+(Customer) picks up food,1159,1162
+(Customer) eating,1165,1513
+(Customer) eating desert,1166,1323
+(Customer) eating ice cream,1166,1521
+(Customer) Eating with fork,1167,1233
+(Customer) eating,1168,1518
+(Customer) Starts eating,1170,1208
+(Customer) eating Icecream,1180,1557
+(Customer) eating ice cream,1208,1514
+(Customer) Eating with fork,1260,1344
+(Customer) Eating with fork,1358,1517
+(Customer) eating desert,1364,1388
+(Customer) eating desert,1462,1500
+(Waiter/ess) Brings bill for payment,1514,1588
+(Customer) Looking for service,1517,1536
+(Customer) moving cup,1527,1558
+(Customer) Keeping glass aside,1536,1558
+(Customer) setting cup apart,1544,1556
+(Customer) desert aside,1551,1565
+(Waiter/ess) Clearing table,1558,1603
+(Both) bill payment,1565,1675
+(Waiter/ess) pick utensils,1565,1602
+(Customer) Taking out wallet,1567,1605
+(Waiter/ess) Giving pay machine,1570,1580
+(Waiter/ess) clear table and machine,1571,1653
+(Waiter/ess) cleans the table,1571,1602
+(Customer) taking the credit card,1574,1609
+(Both) Paying up bill,1581,1732
+(Waiter/ess) clears table and leaves,1588,1603
+(Customer) Put in pin,1603,1653
+(Customer) Inserting card,1605,1631
+(Both) pays for meal,1611,1697
+(Customer) putting in pin,1619,1640
+(Both) bill paying,1628,1693
+(Waiter/ess) pick machine,1629,1649
+(Customer) Punching amount,1631,1659
+(Customer) typing in pincode,1649,1686
+(Waiter/ess) Returns card and leaves,1653,1691
+(Customer) PUT INTO POCKET,1653,1707
+(Waiter/ess) Acknowledging amount,1659,1688
+(Customer) peel banana,1674,1828
+(Customer) storing card,1688,1732
+(Customer) Pocketing card back,1688,1735
+(Customer) Takes a banana,1691,1777
+(Customer) returning card to pocket,1691,1737
+(Customer) pick the card,1698,1726
+(Customer) TAKE A BANANAS,1707,1779
+(Customer) taking the banana,1735,1785
+(Customer) eats banana,1738,1871
+(Customer) Plucking banana,1739,1776
+(Customer) picking banana,1741,1776
+(Customer) gets a banana,1745,1856
+(Customer) pick fruit,1752,1782
+(Customer) Peeling banana,1776,1850
+(Customer) Peels the banana,1777,1851
+(Customer) PEEL IT,1779,1819
+(Customer) opening the banana,1785,1848
+(Customer) opening the banana,1789,1876
+(Customer) peeling banana,1790,1856
+(Customer) eating banana,1799,1876
+(Customer) EAT IT,1819,1871
+(Customer) Leaving,1820,1885
+(Customer) getting up,1829,1855
+(Customer) Getting up,1834,1849
+(Customer) Leaving,1834,1849
+(Customer) standing up,1834,1854
+(Customer) eating banana,1841,1869
+(Customer) leave the room,1847,1884
+(Customer) Walking out,1849,1881
+(Customer) Eats banana and leaves,1851,1874
+(Customer) walking away,1854,1884
+(Customer) leaving,1854,1884
+(Customer) eats banana,1859,1875

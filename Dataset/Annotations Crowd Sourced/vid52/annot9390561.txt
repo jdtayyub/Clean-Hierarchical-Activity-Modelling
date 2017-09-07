@@ -1,0 +1,12 @@
+(Customer) reading menu,58,327
+(Customer) ordering,287,324
+(Customer) looking at phone,343,405
+(Customer) grabing phone,490,579
+(Customer) grabbing cup,607,660
+(Customer) drinking,622,645
+(Customer) eating food,673,1278
+(Customer) putting food aside,1268,1283
+(Customer) grabbing cup,1292,1541
+(Customer) using phone,1553,1575
+(Customer) eating,1575,1910
+(Both) payment transaction,1883,2025

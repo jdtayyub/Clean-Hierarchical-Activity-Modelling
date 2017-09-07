@@ -1,0 +1,13 @@
+Opens Laptop,1,26
+Wears Earphone,26,41
+Uses Laptop,41,73
+Pickup Pen,73,106
+Writes,106,186
+Writes on paper,265,414
+Arranges Papers,414,454
+Reads on laptop,470,496
+Reads Edits Writes,496,634
+Uses laptop,634,818
+Takes out earplugs,818,836
+Closes Laptop,836,853
+Consolidates,853,868

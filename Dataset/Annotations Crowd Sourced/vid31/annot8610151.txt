@@ -1,0 +1,12 @@
+Typing on laptop,18,92
+Watching laptop,138,159
+Pickup paper,164,171
+Watchin laptop,205,259
+Writing on paper,277,335
+Watchin laptop,346,398
+Writing on paper,404,485
+Stapler the paper,485,541
+Writing on paper,552,583
+Watching laptop,597,641
+Close laptop,657,669
+Remove headset,683,689

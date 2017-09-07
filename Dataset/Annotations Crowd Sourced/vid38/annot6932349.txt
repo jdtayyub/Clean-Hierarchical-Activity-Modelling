@@ -1,0 +1,10 @@
+wearing hedphone,1,21
+typing on laptop,21,67
+writing on paper,67,125
+using stapler,125,192
+drinking water,192,259
+typing on laptop,259,350
+writing on paper,350,468
+typing on paper,468,485
+writing on paper,485,559
+using stapler,559,602

@@ -1,0 +1,12 @@
+using papers,1,47
+puting headphones on,62,92
+using laptop,100,140
+writing on paper,157,171
+using laptop,179,275
+writing on paper,281,317
+writing on paper,814,839
+using laptop,315,799
+writing on paper,808,841
+using laptop,840,889
+closing laptop,889,903
+using stapler,910,938

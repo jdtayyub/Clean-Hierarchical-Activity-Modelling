@@ -1,0 +1,18 @@
+pouring milk in mug,48,67
+picking apple from plate,91,103
+cleaning apple with hands,103,133
+eating apple,174,329
+sipping coffee,335,358
+eating apple,380,729
+sipping coffee,729,751
+eating apple,766,1012
+sipping coffee,1033,1048
+eating apple,1058,1276
+sipping coffee,1276,1296
+eating apple,1320,1736
+pouring milk,1827,1855
+sipping coffee,1867,1887
+putting in bowl,2008,2041
+pouring milk in bowl,2065,2092
+mixing with spoon,2125,2218
+eating from the bowl,2228,2435

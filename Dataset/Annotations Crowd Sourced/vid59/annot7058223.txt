@@ -1,0 +1,17 @@
+(Customer) checking phone,3,36
+(Waiter/ess) giving menu,36,55
+(Customer) reading menu,55,149
+(Both) ordering,149,199
+(Waiter/ess) taking order,153,184
+(Customer) checking phone,184,281
+(Waiter/ess) delivering food,262,310
+(Customer) eating meal,310,356
+(Waiter/ess) bringing drink,394,452
+(Customer) cutting food,492,519
+(Customer) drinking water,561,600
+(Customer) eating,617,764
+(Customer) drinking,764,800
+(Waiter/ess) clearing table,800,875
+(Both) receiving bill / paying,986,1054
+(Customer) putting away card,1104,1127
+(Customer) preparing to leave,1160,1212

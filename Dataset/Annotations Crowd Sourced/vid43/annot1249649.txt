@@ -1,0 +1,19 @@
+(Waiter/ess) brings paper,24,36
+(Both) talking together,83,124
+(Waiter/ess) sets cup down,329,341
+(Waiter/ess) pours juice,358,371
+(Waiter/ess) takes order,400,569
+(Customer) drinks from cup,628,663
+(Waiter/ess) sets plate down,876,889
+(Waiter/ess) opens chips,898,916
+(Customer) eats chips,951,1114
+(Customer) eats from plate,1132,1452
+(Customer) drinks again,1651,1714
+(Customer) moves bag over,1754,1770
+(Customer) drinks again,1814,1852
+(Both) talking and laughing,2071,2151
+(Waiter/ess) walks away,2151,2162
+(Both) pays with card,2252,2430
+(Customer) touches banana,281,331
+(Waiter/ess) sets down napkin,342,350
+(Waiter/ess) sets down menu,343,349

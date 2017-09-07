@@ -1,0 +1,28 @@
+taking milk box,1,55
+openninig milk to cup,63,92
+pouring miltk to bowl,99,150
+h,35,55
+taking milk box,1,57
+openning milk box,57,92
+pouring milk to bowl,92,141
+pouring milk to cup,141,211
+putting down milk box,220,245
+pouring cereal to bowl,252,315
+putting down cereal box,340,353
+drinking milk,353,414
+mixing cereal and milk,414,444
+talking somebody,444,530
+eating breakfast,530,641
+talking somaebody,641,681
+eating breakfast,681,778
+talking somebody,778,807
+eating breakfast,807,884
+reading and talking,884,1466
+talking somebody,1466,1760
+drinking milk,1760,1815
+eating and talking,1815,2547
+reading newspaper,2547,2626
+eating and talking,2626,2742
+talking somebody,2742,2960
+drinking milk,2960,3014
+talking somebody,3014,3403

@@ -1,0 +1,26 @@
+Preparing coffe,37,84
+Add milk to coffee,126,158
+mix coffee,158,203
+mix coffee again,229,245
+use cereal box,254,313
+use cereal box,261,328
+add milk to cereal,376,399
+eat cereal,496,514
+read newspaper,526,608
+drink coffee,617,650
+read newspaper,663,692
+eat cereal,692,710
+read newpaper,710,902
+eat cereal,902,917
+read newpaper,917,960
+drink coffee,960,994
+read newspaper,994,1154
+eat cereal,1160,1180
+read newspaper,1188,1439
+drink coffee,1439,1473
+read newpaper,1479,1563
+eat cereal,1569,1589
+read newspaper,1589,1721
+openning coffee pot,1,54
+openning coffee pot,1,48
+add coffee to water,55,110

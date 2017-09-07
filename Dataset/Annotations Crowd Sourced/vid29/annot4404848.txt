@@ -1,0 +1,16 @@
+Sets aside headphone,23,36
+Opens laptop,36,48
+Wears headphone,48,72
+Uses laptop,72,110
+Looks for paper,110,151
+Adjusts laptop ,151,170
+Arranges papers,170,263
+picks up pen,263,270
+Writes on paper,270,382
+Uses Calculator,382,420
+Writes on paper,420,431
+Keeps pen aside,431,437
+Arranges paper,437,449
+Types on laptop,449,584
+Closes laptop,584,600
+Takes out headphone,600,611

@@ -1,0 +1,39 @@
+wearing headphones,24,62
+removing headphones,62,99
+picking up pen,99,122
+writing with pen,122,208
+writing fast,208,295
+picking up paper,295,324
+putting down paper,324,349
+picking up pen,349,361
+writing with pen,361,477
+using calculator,477,518
+writing with pen,518,663
+putting down pen,740,847
+picking up pen,847,882
+writing with pen,882,908
+wearing headphones,908,953
+typing on laptop,953,1052
+typing on keyboard,1052,1191
+typing on laptop,1191,1267
+picking up pen,1267,1310
+writing with pen,1310,1333
+picking up calculator,1333,1358
+using calculator,1358,1520
+picking up pen,1672,1761
+writing with pen,1761,1788
+moving stapler,1788,1804
+detaching papers,1804,1864
+rearranging papers,1864,1920
+stapling papers together,1920,1951
+picking up pen,1951,1986
+writing with pen,1986,2016
+removing headphones,2016,2042
+picking up blue marker,2042,2069
+writing with marker,2069,2222
+writing with marker,2222,2260
+finishing writing,2236,2252
+putting down marker,2252,2314
+picking up pen,2314,2352
+writing with pen,2352,2480
+putting down pen,2480,2503

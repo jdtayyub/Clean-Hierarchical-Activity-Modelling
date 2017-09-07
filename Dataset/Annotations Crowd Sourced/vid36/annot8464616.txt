@@ -1,0 +1,10 @@
+Picking up headset,15,29
+Checking laptop,57,82
+Typing in laptop,82,130
+Picking up pen,130,142
+Writing in paper,147,236
+Typing in laptop,243,311
+Writing in paper,316,395
+Typing in laptop,399,470
+Drinking water,470,527
+Writing in paper,540,627

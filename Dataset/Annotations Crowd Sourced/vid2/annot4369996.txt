@@ -1,0 +1,16 @@
+taking apple,82,158
+eating apple,171,319
+drinking ,319,361
+eating apple,361,728
+drinking,728,751
+drinking,751,1054
+eating apple,1054,1773
+taking pouring milk,1782,1855
+drinking,1855,1904
+drinking,1904,1944
+taking box,1944,1968
+taking packet,1968,2002
+pouring packet,2002,2049
+pouring milk,2049,2106
+stirring,2106,2219
+eating spoon food,2219,2440

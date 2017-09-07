@@ -1,0 +1,10 @@
+preparing drink,40,182
+tasting drink,191,207
+pouring cereal,240,272
+pouring milk,311,326
+opening paper,348,375
+tasting drink,463,479
+eating cereal,554,573
+reading paper,397,911
+securing milk,85,101
+mixing drink,160,179

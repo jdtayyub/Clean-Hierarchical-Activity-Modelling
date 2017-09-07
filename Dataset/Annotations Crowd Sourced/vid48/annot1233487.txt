@@ -1,0 +1,34 @@
+(Waiter/ess) Walks in with menu,1,30
+(Customer) Reads menu,30,121
+(Waiter/ess) Walks in again,121,189
+(Waiter/ess) Takes the order,189,254
+(Waiter/ess) Walks away with menu,254,298
+(Customer) Browses cell phone,298,388
+(Customer) Browses cell phone,388,552
+(Customer) Texts on cell phone,552,791
+(Waiter/ess) Serves food and drink,791,839
+(Waiter/ess) Pours drink,839,853
+(Customer) Browses on phone,853,964
+(Customer) Starts eating sandwich,964,1010
+(Customer) Cuts into sandwich,1010,1113
+(Customer) drinks the juice,1113,1210
+(Customer) Takes more sips,1210,1253
+(Customer) Continues eating,1253,1391
+(Customer) Empties the plate,1391,1516
+(Customer) Drinks more juice,1516,1654
+(Customer) Takes more sips,1654,1714
+(Customer) Waits for waiter,1714,1839
+(Waiter/ess) Walks in again,1839,1901
+(Waiter/ess) Takes the order,1901,1974
+(Waiter/ess) Clears table and goes,1974,1988
+(Customer) Drinks more juice,1988,2024
+(Waiter/ess) Brings ice cream,2145,2219
+(Waiter/ess) Leaves after serving,2219,2248
+(Customer) Starts eating ice cream,2248,2302
+(Customer) Eats more ice cream,2302,2496
+(Customer) Puts ice cream down,2496,2710
+(Customer) Waits for waiter,2710,2809
+(Waiter/ess) Brings in bill,2809,2851
+(Customer) Makes the payment,2851,2951
+(Waiter/ess) Clears table and leaves,2873,2931
+(Waiter/ess) Returns card and leaves,2995,3034

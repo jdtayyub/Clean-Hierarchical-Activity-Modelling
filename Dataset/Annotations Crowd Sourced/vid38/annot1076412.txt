@@ -1,0 +1,11 @@
+putting on headset,1,20
+typing on laptop,28,62
+writting on paper,62,123
+using stapler,131,189
+drinking juice,213,257
+typing on laptop,269,346
+writing on paper,355,446
+typing on laptop,455,486
+writing on paper,486,559
+using stapler,559,602
+taking off headset,623,638

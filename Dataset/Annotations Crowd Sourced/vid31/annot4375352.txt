@@ -1,0 +1,17 @@
+Typing on keyboard,40,86
+Using laptop track pad,81,125
+Taking pen,149,156
+Turning page over,156,165
+Using track pad,168,173
+Turning on music,244,267
+writing on paper,275,329
+using trackpad,336,391
+typing on keyboard,369,390
+writing on paper,400,481
+holding stapler,485,538
+turning page over,491,511
+stapling paper,518,532
+flipping to next page,541,548
+writing on paper,542,578
+using track pad,591,642
+holding ear piece,586,688

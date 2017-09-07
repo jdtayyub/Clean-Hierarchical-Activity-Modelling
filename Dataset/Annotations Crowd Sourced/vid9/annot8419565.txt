@@ -1,0 +1,12 @@
+Making Tea,11,136
+Preparing Cornflakes,150,254
+Eating,263,290
+Reading Newspaper,306,1409
+Using Phone,1435,1761
+Checking time,1728,1754
+Eating,268,1734
+Relaxing,1773,1805
+Pouring milk,70,119
+Mixing Cornflakes,250,274
+Turned page,1338,1344
+Taking teabag,14,62

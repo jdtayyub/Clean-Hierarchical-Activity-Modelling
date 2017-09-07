@@ -1,0 +1,34 @@
+(Waiter/ess) give menu,18,32
+(Customer) watching menu,32,163
+(Waiter/ess) kept the spoon,163,220
+(Waiter/ess) kept the spoon,187,206
+(Waiter/ess) kept the glass,367,383
+(Customer) pick up glass,383,432
+(Waiter/ess) kept the food,432,446
+(Customer) drinking water,446,461
+(Customer) pick up spoon,479,505
+(Customer) mix the food,505,548
+(Customer) call waiter,548,583
+(Waiter/ess) kept a plate,594,615
+(Customer) eating food,615,651
+(Customer) mix the food,680,739
+(Customer) eating food,739,792
+(Customer) eating food,817,867
+(Customer) eating food,882,905
+(Customer) eating food,922,943
+(Customer) eating food,967,1047
+(Customer) pick up glass,1072,1103
+(Customer) drinking water,1116,1158
+(Customer) drinking water,1166,1208
+(Customer) pick up glass,1227,1245
+(Waiter/ess) takes order,1256,1279
+(Waiter/ess) pick up plate,1279,1296
+(Customer) kept a glass,1344,1360
+(Customer) eating apple,1371,1508
+(Customer) eating apple,1524,1575
+(Customer) eating apple,1611,1630
+(Customer) pick up desert,1659,1675
+(Waiter/ess) pick up card,1715,1763
+(Waiter/ess) clear table,1763,1814
+(Customer) use card machine,1829,1859
+(Waiter/ess) pick up card machine,1909,1939

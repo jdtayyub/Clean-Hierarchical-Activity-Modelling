@@ -1,0 +1,35 @@
+(Customer) check phone,1,30
+(Waiter/ess) walking in,22,39
+(Customer) looking at menu,35,51
+(Customer) reading menu,51,117
+(Waiter/ess) walking away,51,67
+(Both) talking,117,169
+(Both) ordering,154,166
+(Waiter/ess) walking away,175,191
+(Customer) checking phone,184,273
+(Waiter/ess) coming with order,262,314
+(Waiter/ess) walking away,317,338
+(Customer) picking plastic utensils,308,547
+(Waiter/ess) bringing water,377,467
+(Waiter/ess) pouring water,401,441
+(Waiter/ess) walking away,467,488
+(Customer) drinking water,552,601
+(Customer) eating food,609,767
+(Customer) drinking water,760,797
+(Customer) looking at waitress,790,802
+(Waiter/ess) coming,806,872
+(Waiter/ess) walking away,859,875
+(Waiter/ess) picking plate,821,873
+(Waiter/ess) picking cup,837,873
+(Waiter/ess) picking bottle water,847,873
+(Waiter/ess) coming to customer,938,961
+(Waiter/ess) bringing the check,938,1123
+(Both) first attempt on bill,952,959
+(Both) second attempt on bill,989,1119
+(Waiter/ess) walking away,1119,1135
+(Customer)taking credit card,1106,1124
+(Both) Making Payment Transaction, 938,1125
+(Customer) taking banana,1155,1188
+(Customer) getting up,1188,1218
+(Customer) leaving,1188,1218
+(Both) having lunch,13,1212

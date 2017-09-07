@@ -1,0 +1,10 @@
+using laptop,30,55
+using headphone,48,601
+using laptop,72,107
+turning placing plapers,107,260
+writing in papers,260,378
+using calculator,393,424
+placing papers,424,448
+using laptop,448,593
+folding laptop,593,598
+removing laptop,598,613

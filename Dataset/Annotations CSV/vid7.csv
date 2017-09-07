@@ -1,0 +1,187 @@
+HAVE BREAKFAST,1,1422
+puts teabag in cup,9,55
+Picks up tea box,12,46
+makes tea,13,120
+taking and placing,29,45
+POUR MILK,34,105
+puttng teabag in mug,44,54
+putting stirrer and taking jar and cup,45,62
+Pours Tea,52,121
+using teapot,54,118
+pours water in cup,55,118
+Pouring teapot into cup,59,117
+teapot water to glass,62,117
+adding hot water ,63,114
+Pours tea into mug,65,117
+pouring and placing jar,65,111
+POUR CEREAL,105,149
+taking box and pouringin pot,111,166
+Pours cereal in bowl,117,174
+puts cereal in bowl,120,175
+taking cereal box,121,183
+prepares cereal,124,238
+Pouring cereal,125,183
+adding cereal ,127,171
+Pickup Krave,128,175
+add snack to bowl,129,177
+pouring cereal,138,159
+POUR MILK,149,218
+placing box,166,178
+Pours milk into bowl,174,235
+taking another box and pouring,178,218
+taking milk carton,185,234
+Uses milk,187,235
+puts milk in bowl,189,238
+add milk to bowl,191,225
+adding milk,192,240
+opening milk carton,194,201
+Pouring milk,195,235
+pouring milk,206,215
+closing milk carton,215,227
+USE SPOON,218,265
+placing the box,218,236
+Stirs the cereal,235,275
+picks up spoon,235,243
+stirring with spoon,236,266
+stirring cereal,240,265
+mix it using spoon,240,275
+eats cereal,241,289
+Spoon in other hand,243,291
+eating ,246,292
+Eating cereal,248,277
+LOOK IN NEWSPAPER,265,321
+eating cereal,265,287
+eating cereal,265,1340
+eating,266,289
+Eats spoonful of cereal,275,297
+eating it,275,292
+READ NEWSPAPER,277,1437
+seeing and reading paper,282,365
+reading newspaper,287,1437
+opens newspaper,287,359
+Read newspaper,291,633
+turning newspaper,292,358
+reading newspaper,292,356
+Reads Newspaper ,293,1421
+Turns pages of newspaper,297,374
+USE SPOON,321,391
+eating,346,403
+Spoons cereal eats,351,415
+eating food,356,419
+eating ,358,404
+reads newspaper,359,1425
+Eats more cereal,374,521
+eating while reading newspaper,378,610
+USE SPOON,391,525
+reading,403,505
+reading newspaper,404,519
+reading newspaper,419,509
+eating,505,536
+eating food,509,535
+eating cereal ,519,553
+eating cereal,521,611
+Eats cereal,523,559
+DRINK FROM CUP,525,677
+reading newspaper,535,612
+reading paper,536,597
+reading newspaper ,553,619
+laughing herself,597,613
+Talks outloud,598,670
+Laughs and talks ,611,645
+stirring and drinking,613,698
+stirring tea,617,649
+drinking coffee ,619,768
+stirs cup,620,645
+stirs tea,620,649
+Drink tea,625,755
+drinking tea,626,708
+Drinks tea from mug,645,693
+drinks tea,645,772
+drinking tea,649,771
+drinks tea,649,747
+USE SPOON,677,785
+drinking tea,683,755
+reading newspaper,683,799
+turns newspaper pages,686,773
+Drinks more while reading,693,738
+stirring and drinking,698,754
+drinking tea,718,736
+Eats more cereal,738,884
+eating,754,886
+reading newspaper,755,776
+puts tea down,768,771
+eating cereal ,768,884
+eating cereal,770,871
+eats more cereal,772,874
+eating food,776,883
+eats cereal,777,891
+USE SPOON,785,818
+USE SPOON,818,864
+tips bowl,830,879
+POUR MILK,864,912
+adding more milk,883,935
+add milk to bowl,883,935
+Adds more milk ,884,943
+adds more milk,884,933
+adding milk,884,934
+adds milk,885,931
+pouring and eating and reading,886,1450
+POUR CEREAL,912,946
+adds more cereal,931,964
+adding cereal,934,966
+adding more cereal,935,966
+add snacks to bowl,935,963
+adds cereal,941,960
+Adds more cereal,943,972
+pouring milk,944,987
+USE SPOON,946,987
+eating food,963,1000
+eating ,966,999
+eats cereal,971,1002
+Continues eating cereal,972,1078
+eats some more cereal,975,994
+LOOK IN NEWSPAPER,987,1054
+eating cereal,987,1001
+reads paper,996,1437
+reading newspaper ,999,1087
+reading newspaper,1000,1055
+read newspaper,1001,1060
+reading newspaper,1001,1190
+DRINK FROM CUP,1054,1093
+drinking coffee ,1060,1115
+drinking tea,1074,1125
+drinking tea,1074,1132
+drinks more tea,1076,1118
+Drinks more tea,1078,1138
+drinks tea,1081,1122
+drinking tea,1083,1115
+USE SPOON,1093,1146
+turning newspaper ,1115,1137
+eating cereal,1132,1335
+eating food,1133,1327
+eating cereal ,1137,1341
+Eats more cereal,1138,1249
+eats cereal,1138,1202
+eats cereal,1145,1341
+USE SPOON,1146,1248
+holds bowl and eats,1195,1337
+picks up bowl,1198,1337
+USE SPOON,1248,1277
+Lifts bowl in hand,1249,1329
+USE SPOON,1277,1317
+DRINK FROM CUP,1317,1376
+Puts down bowl,1335,1342
+Puts bowl down,1337,1341
+reading newspaper ,1341,1366
+Drinks more tea,1342,1420
+holds cup and drinks,1346,1403
+drinking tea,1347,1398
+picks cup up,1355,1393
+drinking tea,1365,1397
+drinking coffee ,1366,1415
+fold newspaper,1379,1437
+closes newspaper,1402,1447
+closes newspaper,1414,1437
+folding newspaper ,1415,1450
+Folds newspaper,1420,1450
+close newspaper,1424,1448

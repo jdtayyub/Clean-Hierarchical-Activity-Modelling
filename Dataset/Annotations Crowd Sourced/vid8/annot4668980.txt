@@ -1,0 +1,47 @@
+Picking up cup,7,22
+picking a tea bag,22,58
+diping teabag into cup,58,63
+picking teapot,68,71
+pouring milk,75,105
+preparing tea,5,110
+pickingup cornflakes,124,141
+pouring cornflakes on bowl,141,164
+placing box aside,164,172
+pickingup milk,178,200
+pouring milk into bowl,200,215
+placing milk aside,233,255
+mixing milk and cornflakes,259,291
+preparing cornflakes with milk,122,295
+eating,293,333
+picking cornflakes box,338,346
+reading the instruction,348,371
+eating,379,391
+eating,474,488
+eating,582,597
+keeping box aside,653,664
+picking up phone,666,676
+dialing,704,753
+making call,753,1050
+eating,775,787
+mixing tea,846,892
+consume tea,890,946
+picking cup,893,898
+drinking tea,902,931
+placing cup down,936,946
+coughing,951,955
+pickingup spoon,965,988
+eating,988,996
+checking time,1002,1030
+ending call,1040,1069
+keeping phone aside,1074,1078
+pickingup spoon,1079,1086
+eating,1090,1105
+pickingup newspaper,1109,1130
+reading newspaper,1135,1380
+consume tea,1135,1320
+pickingup cup,1139,1173
+drinking tea,1175,1315
+keeping cup down,1315,1319
+pickingup spoon,1334,1348
+eating,1350,1357
+keeping newspaper,1372,1385

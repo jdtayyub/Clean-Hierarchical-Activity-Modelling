@@ -1,0 +1,11 @@
+Taking headset,7,14
+Opening Laptop,28,44
+Working on laptop,44,125
+Writing on paper,125,192
+Taking Stapler,191,213
+Continue working,221,306
+Using Stapler on paper,444,454
+Drinking water,473,491
+Removing headset,512,524
+Closing laptop,543,552
+Typing,81,119

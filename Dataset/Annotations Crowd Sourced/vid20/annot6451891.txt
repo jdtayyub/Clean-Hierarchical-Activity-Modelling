@@ -1,0 +1,22 @@
+Makes A Drink,1,144
+Makes Cereal,144,246
+Reads The Newspaper,246,810
+Pours Mix,15,68
+Pours Liquid,68,112
+Stirs Drink,112,142
+Pours Cereal,142,191
+Pours Milk,191,242
+Takes a Bite,284,315
+Takes a Drink,321,354
+Takes a Bite,416,441
+Takes a Drink,441,472
+Takes a Bite,534,565
+Takes a Drink,565,599
+Takes a Drink,708,764
+Picks Up Mix,20,23
+Opens Lid,23,35
+Puts On Lid,59,68
+Puts down Mix,68,73
+Picks Up Teapot,69,77
+Pours Teapot,77,103
+Places Teapot Down,103,113

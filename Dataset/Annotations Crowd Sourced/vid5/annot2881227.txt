@@ -1,0 +1,17 @@
+hand touch bowl,36,45
+getting tea packet,63,230
+pour water,285,425
+stir tea,467,501
+eat sandwich,879,1995
+bob tea bag,2092,2170
+add sugar,2236,2261
+stir tea again,2280,2378
+drink tea,2458,2500
+drink tea,2578,2666
+drink tea,2732,2851
+drink tea,2947,3007
+drink tea,3090,3155
+drink tea,3180,3270
+drink tea,3518,3663
+drink tea,3767,3811
+drink tea,3906,3942

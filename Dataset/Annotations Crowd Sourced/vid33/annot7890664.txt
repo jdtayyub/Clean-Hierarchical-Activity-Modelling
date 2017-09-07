@@ -1,0 +1,9 @@
+Opens laptop,24,79
+Puts earbuds in,53,161
+Uses laptop,169,212
+Writes on paper,236,470
+Typing on laptop,475,711
+Moves stapler,734,772
+Staples notes,780,836
+Closes laptop,820,858
+Removes earbuds,847,866

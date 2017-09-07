@@ -1,0 +1,14 @@
+pouring coffee ,37,104
+adding water,112,140
+stirring with spoon ,148,185
+drinking coffee,197,223
+adding cereal ,223,275
+adding milk,306,365
+opening newspaper,365,417
+eating ,417,448
+reading newspaper,448,525
+drinking coffee,525,556
+reading newspaper,564,676
+taking sip,648,693
+eating,710,732
+turning page ,742,766

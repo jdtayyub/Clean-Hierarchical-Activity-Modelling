@@ -1,0 +1,32 @@
+Add cereal to bowl,64,214
+Add milk to cereal,234,296
+Open the jar,339,402
+add coffee to glass,452,515
+water to glass,515,618
+mix things in bowl,618,671
+eating cereal,671,715
+eating cereal,812,853
+laughing,951,984
+eating cereal,1010,1056
+Drinking tea,1071,1122
+Eating cereal,1156,1184
+Take mobile phone,1202,1287
+Eating cereal,1287,1331
+Reading in mobile,1350,1405
+Eating cereal,1405,1443
+Eating cereal,1470,1505
+Reading in mobile,1528,1660
+Drinking tea,1660,1722
+Type text in mobile,1742,2107
+Eating cereal,2113,2196
+Watching mobile,2220,2272
+Eating cereal,2272,2306
+Type text in mobile,2313,2493
+Eating cereal,2504,2562
+Eating cereal,2637,2687
+Eating cereal,2814,2934
+Drinnking tea,3031,3078
+Watching mobile,3085,3141
+Eating cereal,3261,3321
+Eating cereal,3413,3460
+Drinking tea,3626,3681

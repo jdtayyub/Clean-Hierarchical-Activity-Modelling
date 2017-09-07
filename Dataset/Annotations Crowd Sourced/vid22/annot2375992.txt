@@ -1,0 +1,13 @@
+Picking up pen,21,29
+picking up the paper,41,48
+keeping paper aside,53,74
+kept the pen down,108,114
+picking up stapler,118,125
+stapling on the sheet,142,151
+kept the stapler down,202,209
+using laptop,209,220
+typing on the keyboard,223,1219
+picking up pen,1218,1227
+writing on the paper,1330,1389
+using laptop,2288,2947
+picking up pen,2983,3001

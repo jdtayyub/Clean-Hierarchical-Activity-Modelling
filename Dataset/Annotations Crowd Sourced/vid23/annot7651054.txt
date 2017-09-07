@@ -1,0 +1,10 @@
+Putting on headphone,43,102
+Picking up ballpen,102,152
+Writing with ballpen,152,528
+Moving stapler,533,564
+Writing with ballpen,564,2216
+Putting down ballpen,2216,2225
+Typing on laptop,2229,2462
+Talking on headphone,2462,2762
+Typing on laptop,2762,2795
+Putting down headphone,2803,2876

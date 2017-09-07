@@ -1,0 +1,39 @@
+Lifiting and rearanging papers,1,85
+Rearranging papers,1,85
+writing on paper,85,258
+writing on paper,258,373
+writing on paper,373,493
+thinking while writing,493,611
+writing on paper,611,721
+writing fast on paper,721,780
+picking up marker,780,835
+writing with marker,835,879
+writing with marker,879,1013
+writing fast,1013,1128
+writing with marker,1128,1375
+writing with marker,1375,1495
+writing with marker,1495,1653
+putting down marker,1653,1687
+typing on laptop,1687,1809
+tapping on keyboard,1809,1983
+talking and typing,1983,2149
+typing on keyboard,2149,2238
+tapping on keyboard,2238,2371
+touching the mouse,2371,2587
+typing while talking,2587,2719
+stops typing,2719,2757
+wearing headphones,2757,2802
+talking into mouthpiece,2802,2852
+removing headphones,2852,2897
+picking up pen,2897,2950
+picking up pen,2925,2941
+picking up pen,2863,2912
+writing with pen,2912,2943
+moving headphones,2943,2963
+picking up stapler,2963,2977
+using stapler,2977,3032
+organizing papers,3032,3080
+piling up papers,3080,3142
+getting up from chair,3162,3201
+walking away,3205,3216
+work session,1,3216

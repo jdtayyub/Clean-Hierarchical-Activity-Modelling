@@ -1,0 +1,21 @@
+eats breakfast,1,1450
+makes tea,13,120
+puts teabag in cup,9,55
+pours water in cup,55,118
+puts cereal in bowl,120,175
+puts milk in bowl,189,238
+prepares cereal,124,238
+eats cereal,241,289
+opens newspaper,287,359
+reads newspaper,359,1425
+stirs tea,620,649
+drinks tea,649,747
+turns newspaper pages,686,773
+eats more cereal,772,874
+adds more milk,884,933
+adds more cereal,931,964
+eats some more cereal,975,994
+drinks more tea,1076,1118
+holds bowl and eats,1195,1337
+holds cup and drinks,1346,1403
+closes newspaper,1402,1447

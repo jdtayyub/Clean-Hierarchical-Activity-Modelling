@@ -1,0 +1,16 @@
+(Waiter/ess) Server arrives with menu,1,38
+(Both) Place Order Drink,38,221
+(Both) Pre-service,221,615
+(Waiter/ess) Serves Drink,615,755
+(Customer) Place Order Meal,755,1216
+(Both) Waiting and Preparation,1216,1795
+(Waiter/ess) Serves Meal,1795,1849
+(Customer) eats meal,1851,3502
+(Customer) requests bill,3502,3663
+(Waiter/ess) Prepare Bill,3663,3730
+(Customer) takes a drink,3730,3777
+(Waiter/ess) Server gives bill,3777,3799
+(Customer) get credit card,3799,3841
+(Customer) swipes credit card and pays bill,3841,3890
+(Waiter/ess) Clears Table,3890,3969
+(Waiter/ess) take the bill,3969,4089

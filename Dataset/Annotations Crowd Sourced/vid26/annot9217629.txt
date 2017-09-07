@@ -1,0 +1,10 @@
+opening laptop,48,68
+putting on headphones,83,108
+holding pen,147,447
+writing with pen,193,349
+using stapler,452,481
+holding cup,480,520
+scanning paper,522,544
+using laptop,544,761
+closing laptop,756,767
+using calculator,349,420

@@ -1,0 +1,7 @@
+opening laptop,10,50
+connecting headphone,50,94
+working on laptop,94,195
+writing on paper,237,478
+working on laptop,478,741
+stapling papers,796,837
+closing laptop,837,866

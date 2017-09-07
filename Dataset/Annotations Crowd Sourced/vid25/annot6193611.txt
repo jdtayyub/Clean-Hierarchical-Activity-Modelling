@@ -1,0 +1,13 @@
+writing on paper,20,509
+writing on paper,595,741
+changing the pen,797,826
+writing on paper,865,1669
+using laptop,1684,2119
+keying on laptop,2129,2745
+wearing headphone,2758,2825
+checking mic,2825,2890
+writing on paper,2933,2962
+using stabler,2972,3022
+separating some papers,3048,3076
+arranging all articles,3115,3158
+taking a paper,10,38

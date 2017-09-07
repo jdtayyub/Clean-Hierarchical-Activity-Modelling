@@ -1,0 +1,18 @@
+Making tea,1,133
+Making Cereal,145,267
+Making breakfast,1,267
+Eating breakfast,267,1724
+Having Breakfast,1,1724
+Adding tea sachet,1,57
+Adding milk,57,133
+Pouring cereal,145,187
+Pouring milk,187,245
+Mixing cereal,245,267
+Reading newspaper,303,1390
+Drinking tea,620,670
+Drinking tea,1070,1106
+Drinking tea,1463,1508
+Drinking tea,1676,1724
+Checking watch,1726,1734
+Checking watch,1736,1744
+Using mobile phone,1430,1765

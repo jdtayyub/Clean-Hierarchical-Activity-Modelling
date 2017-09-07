@@ -1,0 +1,17 @@
+opening coffee grounds,61,75
+pouring coffee grounds,103,120
+closing coffee container ,125,155
+pouring water,218,271
+grabs mug,336,356
+grabs sugar packet,353,365
+pours sugar packet,427,468
+pouring milk,553,603
+pouring cereal,753,771
+mixing cereal,807,872
+holding bowl,872,1264
+mixing mug contents,1326,1366
+holding mug,1397,1682
+eating from bowl,1994,2192
+holding mug,2321,2876
+lifting bowl,2889,2908
+puts bowl down,3050,3067

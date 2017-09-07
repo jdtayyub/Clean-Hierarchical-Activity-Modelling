@@ -1,0 +1,19 @@
+picks the papers,3,26
+pickup file,28,54
+opens laptop,47,897
+wears headphone,66,937
+searches on laptop,85,131
+pickup file,137,170
+pickup pen,136,834
+writes on file,141,163
+viewing laptop,159,272
+searches on laptop,170,212
+typing on laptop,220,251
+writes on file,277,310
+viewing  laptop,314,799
+searches on laptop,318,609
+typing on laptop,609,742
+searching on laptop,742,799
+writing on file,803,833
+browsing on laptop,845,892
+pickup stapler,913,933

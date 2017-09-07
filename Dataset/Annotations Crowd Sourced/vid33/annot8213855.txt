@@ -1,0 +1,7 @@
+using laptop and headset,51,194
+writing,194,477
+typing,477,736
+ordering the papers,736,788
+stapling,788,814
+closing the laptop,842,849
+removing headset,849,865

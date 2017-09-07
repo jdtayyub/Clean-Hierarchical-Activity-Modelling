@@ -1,0 +1,22 @@
+Lifts headphones up,37,88
+Writes on paper,97,288
+Flips paper over,294,337
+Writes on paper,370,901
+Checks cellphone,454,511
+Puts on headphones,899,959
+Types on computer,973,1276
+Writes on paper,1287,1310
+Picks up phone,1322,1450
+Takes photo,1458,1546
+Uses cellphone,1581,1702
+Sets cellphone down,1723,1751
+Uses stapler,1780,1814
+Organizes notes,1812,1915
+Uses stapler,1921,1965
+Writes on paper,1992,2028
+Removes headphones,2015,2061
+Picks up marker,2035,2103
+Writes on paper,2113,2305
+Puts down marker,2311,2318
+Picks up pen,2323,2360
+Writes on paper,2374,2504

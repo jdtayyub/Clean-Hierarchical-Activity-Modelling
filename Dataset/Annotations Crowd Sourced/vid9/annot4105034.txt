@@ -1,0 +1,24 @@
+opening the box,24,55
+pouring from the pot,85,117
+putting cornflakes in bowl,151,190
+putting milk,213,241
+eating from the bowl,276,307
+newspaper reading,307,1409
+sippping coffee,628,669
+eating from bowl,737,1059
+changing page of newspaper,1051,1070
+sipping coffee,1081,1107
+eating from bowl,1133,1151
+changing paper from newspaper,1343,1352
+changing paper,1369,1391
+keeping the paper aside,1400,1409
+eating from the bowl,1419,1438
+picking the phone,1438,1764
+sipping coffee,1474,1502
+eating form bowl,1547,1644
+looking at watch,1598,1608
+sipping coffee,1686,1724
+keeping the phone down,1769,1780
+sipping cofee,1688,1727
+checking time,1727,1748
+sit back and relax,1775,1805

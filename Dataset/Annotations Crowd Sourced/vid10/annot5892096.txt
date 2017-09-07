@@ -1,0 +1,7 @@
+preparing hot drink,8,496
+consuming a yogurt,666,2120
+using the phone,1671,2139
+reading the newspaper,697,1727
+pouring hot water,297,350
+pouring milk,377,409
+using a coffee jar,11,284

@@ -1,0 +1,8 @@
+put a paper aside,27,145
+used stapler,178,209
+typed on the keyboard,221,642
+keep on typing,653,1139
+stopped typing,1152,1227
+took a pen,1239,1316
+continued to write,1877,2233
+stopped writing,2233,2295

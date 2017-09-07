@@ -1,0 +1,20 @@
+Doing Office Work,1,2943
+pick up pen,21,28
+pen to paper,36,39
+move paper to side,39,72
+put pen down,72,114
+use pen to write,21,115
+pick up stapler,115,126
+stapling papers,144,197
+move stapler to side,200,209
+use stapler,21,210
+typing,220,1201
+grab paper,1211,1222
+pick up pen,1211,1222
+hold pen,1229,1457
+writing,1457,1679
+writing,1770,2207
+look up,2208,2213
+tapping paper both hands,2221,2231
+tap paper right hand,2233,2260
+touch laptop,2283,2287

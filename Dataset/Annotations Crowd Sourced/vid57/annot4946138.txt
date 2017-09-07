@@ -1,0 +1,44 @@
+(Waiter/ess) Arriving at table,102,121
+(Waiter/ess) Giving menu,106,117
+(Customer) Taking menu,117,139
+(Customer) Reading menu,139,219
+(Customer) Calling service,219,229
+(Customer) Waiting for service,229,269
+(Both) Order exchanging,261,318
+(Customer) waiting for service,331,361
+(Waiter/ess) Serving Food,443,476
+(Customer) Taking Fork,464,489
+(Customer) Eating Food,489,591
+(Customer) Eating and thinking,616,657
+(Customer) Eating with fork,657,685
+(Customer) Chewing Food,685,750
+(Customer) Chewing and thinking,766,832
+(Customer) Eating with fork,859,916
+(Customer) Takes water,916,970
+(Customer) Calling service,925,962
+(Customer) Pushing away plate,927,945
+(Customer) Requesting to clean,993,1017
+(Waiter/ess) Clearing table,1001,1024
+(Customer) Drinking water,1005,1063
+(Customer) Waiting for service,1063,1140
+(Waiter/ess) Service Arrives,1133,1149
+(Waiter/ess) Giving Food,1144,1154
+(Customer) Taking fork,1154,1163
+(Customer) Picking glass,1156,1167
+(Customer) Eating with fork,1167,1233
+(Customer) Eating with fork,1260,1344
+(Customer) Eating with fork,1358,1517
+(Customer) Looking for service,1517,1536
+(Customer) Keeping glass aside,1536,1558
+(Waiter/ess) Clearing table,1558,1603
+(Waiter/ess) Giving pay machine,1570,1580
+(Customer) Taking out wallet,1567,1605
+(Customer) Inserting card,1605,1631
+(Customer) Punching amount,1631,1659
+(Waiter/ess) Acknowledging amount,1659,1688
+(Customer) Pocketing card back,1688,1735
+(Customer) Plucking banana,1739,1776
+(Customer) Peeling banana,1776,1850
+(Customer) Getting up,1834,1849
+(Customer) Walking out,1849,1881
+(Customer) Leaving,1834,1849

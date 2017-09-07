@@ -1,0 +1,18 @@
+(Both) discussing menu items,1,222
+(Customer) looking into menu,223,616
+(Waiter/ess) giving water,617,785
+(Customer) ordering food items,786,1220
+(Customer) drinking water,1221,1435
+(Customer) keeping menu aside,1286,1332
+(Customer) waiting for food,1436,1793
+(Waiter/ess) giving food,1794,1846
+(Customer) eating food,1847,2789
+(Customer) drinking water,2790,2869
+(Customer) having food ,2870,3552
+(Customer) chewing and relaxing,3553,3654
+(Both) discussing the order,3652,3715
+(Customer) drinking water,3716,3807
+(Both) Payment of Bill,3780,4090
+(Waiter/ess) giving swiping machine,3781,3882
+(Customer) using swiping-machine,3883,4020
+(Customer) giving swiping-machine back,4021,4089

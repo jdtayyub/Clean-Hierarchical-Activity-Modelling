@@ -1,0 +1,16 @@
+(Waiter/ess) sets menu down,35,47
+(Waiter/ess) sets fruit down,76,99
+(Both) talking together,99,222
+(Customer) looks at menu,224,343
+(Waiter/ess) sets cup down,370,373
+(Waiter/ess) sets juice down,383,393
+(Waiter/ess) gets menu,464,474
+(Waiter/ess) pours juice,569,600
+(Customer) drinks from cup,614,645
+(Waiter/ess) sets down plate,855,865
+(Waiter/ess) sets down bag,873,884
+(Customer) eats salad,962,1146
+(Customer) eats from bag,1151,1273
+(Waiter/ess) takes plate,1938,1978
+(Waiter/ess) takes juice,2144,2154
+(Customer) eats with spoon,2314,2500

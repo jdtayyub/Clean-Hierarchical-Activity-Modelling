@@ -1,0 +1,14 @@
+(Customer) sit and calls waitress,1,109
+(Waiter/ess) handover the menu card,106,139
+(Customer) Decide and order,128,235
+(Waiter/ess) writes the order list,278,319
+(Waiter/ess) serves the ordered food,441,474
+(Customer) eating the food,471,987
+(Both) giving and taking order,969,1023
+(Waiter/ess) cleans the table,1003,1022
+(Customer) drinking water,937,1055
+(Waiter/ess) serves ice cream,1150,1166
+(Customer) eating ice cream,1166,1521
+(Waiter/ess) cleans the table,1571,1602
+(Both) bill paying,1628,1693
+(Customer) eats banana,1738,1871

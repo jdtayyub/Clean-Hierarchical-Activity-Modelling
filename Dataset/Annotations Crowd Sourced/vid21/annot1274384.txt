@@ -1,0 +1,13 @@
+Opens Laptop,20,74
+Writes Something,275,538
+Sets Pen Down,548,553
+Picks Up Stapler,553,581
+Staples Papers,581,608
+Grabs Blue Pen,608,619
+Writes On Paper,619,694
+Headphones On Neck,694,742
+Plugs In Headphones,742,828
+Types On Laptop,828,983
+Puts Headphones On,983,1019
+Uses Laptop,1019,1379
+Fidgets With Pen,118,161

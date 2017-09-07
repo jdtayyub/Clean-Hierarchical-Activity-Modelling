@@ -1,0 +1,6 @@
+moving paper,58,80
+using stapler,129,214
+using laptop and talking,228,1224
+writing on paper,1330,1671
+writing on paper and talking,1777,2222
+using laptop,2308,2956

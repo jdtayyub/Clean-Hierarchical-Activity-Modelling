@@ -1,0 +1,18 @@
+Getting tea out the box,11,43
+Pouring teapot into cup,59,117
+Pouring cereal,125,183
+Pouring milk,195,235
+Eating cereal,248,277
+Read newspaper,291,633
+eating while reading newspaper,378,610
+Drink tea,625,755
+drinking tea,683,755
+eating cereal,770,871
+pouring milk,944,987
+eating cereal,987,1001
+read newspaper,1001,1060
+drinking tea,1074,1132
+eating cereal,1132,1335
+reading newspaper,683,799
+reading newspaper,1001,1190
+fold newspaper,1379,1437

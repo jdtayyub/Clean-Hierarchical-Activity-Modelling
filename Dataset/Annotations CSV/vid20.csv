@@ -1,0 +1,115 @@
+HAVING BREAKFAST,1,820
+making coffee,12,144
+Pours Mix,15,68
+taking coffee,16,22
+Picks Up Mix,20,23
+opening coffee,23,35
+Opens Lid,23,35
+POUR IN CUP,31,57
+pouring coffee,37,57
+POUR LIQUID,57,108
+closing coffee,58,70
+Puts On Lid,59,68
+Fixing the cap,64,77
+Pours Liquid,68,112
+Puts down Mix,68,73
+putting black coffee,69,75
+Picks Up Teapot,69,77
+taking the teapot,72,80
+Pours Teapot,77,103
+pouring hot water,81,106
+pouring water,94,109
+Adding water,97,109
+Places Teapot Down,103,113
+putting back coffee,108,115
+SPOON STIRRING,108,136
+Stirs Drink,112,142
+taking spoon,117,123
+Using spoon,119,145
+using spoon,123,140
+stiring coffee,124,139
+mixing mug contents,125,140
+stirring coffee,127,136
+POUR CEREAL,136,165
+putting back spoon,140,145
+Pours Cereal,142,191
+Makes Cereal,144,246
+preparing cereals,148,242
+taking cereals,149,156
+Taking corn flakes,153,185
+pouring dry cereal,153,186
+making food,153,247
+pouring cereals,159,185
+pouring cereal,161,182
+POUR MILK,165,220
+putting back cereals,186,194
+Pours Milk,191,242
+taking milk,194,199
+pouring milk over cereal,195,237
+opening milk,200,210
+Pouring milk,207,228
+pouring milk,211,225
+pouring milk,213,228
+OPEN PAPER,220,284
+closing milk,226,235
+reading newspaper,245,279
+opening paper,245,280
+Reads The Newspaper,246,810
+reading newspaper ,250,839
+reading paper,255,293
+opening newspaper,265,289
+Takes a Bite,284,315
+PICK UP SPOON,284,308
+eating cereal,287,313
+eating cereal,287,318
+Eating food,293,317
+eating cereals,299,319
+Eating corn flakes,301,321
+DRINK FROM CUP,308,337
+Takes a Drink,321,354
+Drinking from Teapopt,323,351
+drinking coffee,327,356
+Drinking tea,328,347
+drinking coffee,329,353
+drinking coffee,335,349
+TURN PAGE,337,379
+reading newspaper,354,411
+turning pages,361,411
+turning pages,368,388
+PICK UP SPOON,379,434
+Reading paper,398,416
+eating cereal,413,441
+Takes a Bite,416,441
+Eating food,423,444
+DRINK FROM CUP,434,457
+Takes a Drink,441,472
+drinking coffee,444,471
+Drinking from teapot,452,468
+TURN PAGE,457,492
+Turning newspaper page,466,495
+reading newspaper,469,535
+PICK UP SPOON,492,558
+Reading paper,498,526
+eating cereal,532,565
+Takes a Bite,534,565
+Eating food,543,564
+DRINK FROM CUP,558,579
+Takes a Drink,565,599
+drinking coffee,566,599
+Drinking from teappot,570,598
+TURN PAGE,579,616
+reading newspaper,594,637
+reading newspaper,594,637
+Reading paper,611,642
+DRINK FROM CUP,616,741
+reading newspaper,643,735
+Takes a Drink,708,764
+drinking coffee,719,764
+Drinking from teapot,722,761
+PUT CUP DOWN,741,764
+reading newspaper,762,800
+TURN PAGE,764,779
+CLOSE MAZINE,779,816
+closing newspaper,801,817
+closing paper,801,811
+Closing paper,802,815

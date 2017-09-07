@@ -1,0 +1,45 @@
+grabbing milk carton,73,81
+grabbing cereal box,81,133
+pouring cereal,139,220
+setting box down,220,240
+grabbing carton,255,270
+shaking carton,270,297
+pouring milk,297,457
+setting milk down,463,489
+stirring cereal ,489,752
+taking a bite,752,802
+chewing,802,832
+eating cereal,861,1031
+taking a bite,1118,1138
+eating cereal,1139,1395
+eating cereal,1405,1470
+chewing,1499,1561
+taking more bites,1588,1817
+grabbing jar,1822,1859
+opening jar,1859,1882
+grabbing mug,1882,1925
+pouring into mug,1925,2037
+closing jar,2037,2072
+grabbing carton,2105,2121
+pouring milk,2121,2204
+setting down carton,2204,2218
+eating cereal,2218,2305
+moving milk,2305,2328
+grabbing pot,2328,2363
+pouring pot,2363,2423
+setting pot down,2423,2439
+speaking and stirring,2439,2473
+stirring drink,2473,2553
+taking a bite,2553,2578
+grabbing drink,2578,2620
+blowing on drink,2667,2673
+drinking,2673,2725
+moving bowl,2725,2742
+taking a drink,2742,2810
+moving mug,2810,2838
+taking a sip,2838,2902
+grabbing jar,2923,2975
+holding jar,2967,3068
+taking a drink,3081,3148
+speaking,3213,3317
+taking a drink,3317,3399

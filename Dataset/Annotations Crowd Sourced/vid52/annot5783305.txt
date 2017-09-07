@@ -1,0 +1,25 @@
+(Customer) waiting for menu,1,37
+(Waiter/ess) brings menu,37,55
+(Customer) browsing menu,55,271
+(Waiter/ess) take order,271,297
+(Both) order is placed,297,316
+(Waiter/ess) takes menu and leaves,316,340
+(Customer) waiting for food,340,468
+(Waiter/ess) brings juice,468,481
+(Waiter/ess) pours juice in glass,481,509
+(Customer) picks mobile and scrolls ,489,577
+(Waiter/ess) puts spoons in table,554,575
+(Customer) sips juice,589,659
+(Waiter/ess) serves food and leaves,622,659
+(Customer) picks spoon,659,676
+(Customer) eating food,676,1265
+(Customer) keeps food aside,1265,1279
+(Customer) drinks juice,1279,1545
+(Waiter/ess) takes desert order,1414,1471
+(Waiter/ess) picks plate and leaves,1471,1490
+(Waiter/ess) brings desert,1536,1568
+(Customer) picks spoons,1568,1579
+(Customer) eating desert,1579,1888
+(Customer) leaves the desert,1888,1904
+(Both) makes the payment,1925,2069
+(Waiter/ess) hands the card,2076,2091

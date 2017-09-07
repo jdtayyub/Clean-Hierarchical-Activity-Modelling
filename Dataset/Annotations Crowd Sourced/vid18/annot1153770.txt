@@ -1,0 +1,13 @@
+adding coffee,10,68
+closing the bottle,104,121
+pouring milk in glass,130,183
+drinking,205,222
+pouring cereal,264,288
+adding milk,321,345
+reading newspaper,352,437
+drinking,545,612
+eating,445,504
+eating,545,612
+drinking,545,612
+reading,621,696
+finishing meal,705,929

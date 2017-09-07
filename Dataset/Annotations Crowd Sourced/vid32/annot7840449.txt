@@ -1,0 +1,8 @@
+ear plugs on,1,62
+writing on paper,62,122
+searching laptop,122,473
+writing on paper,473,557
+searching laptop,557,661
+typing,661,710
+remove ear plug,798,834
+closed laptop,834,852

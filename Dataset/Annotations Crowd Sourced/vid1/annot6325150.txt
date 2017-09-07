@@ -1,0 +1,26 @@
+eating breakfast,1,4169
+sitting in chair,1,4169
+reaching the mug,47,58
+grabbing the mug,66,68
+grabbing yellow box,68,77
+moving yellow box,77,90
+moving coffee,86,122
+moving coffee jar,88,109
+opening coffee jar,108,136
+taking lid off,132,138
+pouring coffee,136,237
+putting lid on,243,303
+moving coffee jar,300,311
+grabbing teapot,305,383
+pouring hot water,358,501
+moving teapot,501,520
+grabbing sugar,532,582
+tearing sugar pack,579,689
+pouring sugar,679,718
+stirring coffee,736,899
+tasting coffee,919,969
+putting spoon back,1009,1059
+grabbing cereal,1049,1119
+putting cereal,1119,1179
+eating cereal,1222,4169
+drinking coffee,2208,2288

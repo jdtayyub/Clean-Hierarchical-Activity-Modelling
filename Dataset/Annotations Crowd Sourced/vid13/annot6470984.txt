@@ -1,0 +1,17 @@
+taking milk box,1,55
+opening milk box,57,92
+pouring milk to bowl,92,141
+pouring milk to cup,141,211
+putting down milk box,220,245
+pouring cereal to bowl,252,315
+putting down cereal box,340,353
+drinking milk,353,414
+eating breakfast,530,641
+eating breakfast,681,778
+eating breakfast,807,884
+reading,884,1466
+drinking milk,1760,1815
+eating,1815,2547
+reading newspaper,2547,2626
+eating,2626,2742
+drinking milk,2960,3014

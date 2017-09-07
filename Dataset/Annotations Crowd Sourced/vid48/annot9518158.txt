@@ -1,0 +1,27 @@
+(Customer) Texting,1,24
+(Customer) Waiting for Menu,1,22
+(Customer) Checking Phone,55,96
+(Customer) Ordering Food,47,193
+(Waiter/ess) takes menu,290,304
+(Waiter/ess) takes order,185,285
+(Customer) texting,383,470
+(Customer) texting,515,792
+(Waiter/ess) delivers food/drink,800,862
+(Customer) texting,869,972
+(Customer) eating,980,1195
+(Customer) drinks,1195,1272
+(Customer) finishes food,1278,1506
+(Customer)s drinks,1513,1653
+(Customer) Drinks,1704,1731
+(Customer) waits,1762,1893
+(Both) talks,1901,1985
+(Waiter/ess) takes food,1964,1985
+(Customer) Drinks,1985,2028
+(Customer)s talks to camera,2036,2105
+(Customer) waits,2120,2198
+(Customer) gets food,2204,2257
+(Customer) eats,2257,2716
+(Customer) waits,2734,2838
+(Customer) pays,2838,2933
+(Waiter/ess) takes food,2902,2931
+(Customer) waits,2941,3044

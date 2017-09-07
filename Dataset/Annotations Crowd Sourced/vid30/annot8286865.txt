@@ -1,0 +1,14 @@
+open laptop,1,26
+put on headphones,27,47
+browsing with laptop,81,110
+taking notes,106,376
+Using calculator,387,409
+taking notes reading,416,481
+drinking while reading,483,581
+stapling sheets,581,632
+Insert USB device,636,672
+Typing with laptop,672,748
+browsing with laptop,748,802
+removed USB device,782,822
+closed laptop,822,851
+removed headphones,851,870

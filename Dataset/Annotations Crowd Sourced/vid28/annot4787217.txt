@@ -1,0 +1,16 @@
+Open the laptop,12,34
+Pick up headset,42,69
+Pick paper,107,121
+Write text in paper,129,235
+Writing in paper,260,304
+Use calculator,316,331
+write text in paper,331,369
+Watching laptop,381,449
+Drinking water,455,473
+Picking up paper,479,491
+Reading paper,499,548
+Stapler the paper,548,566
+Watching laptop,575,617
+remove headset,628,636
+Use headset to listen,40,640
+Close laptop,641,653

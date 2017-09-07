@@ -1,0 +1,12 @@
+removing tea bag,12,46
+pouring water,79,120
+pouring cereal,163,182
+pouring milk,208,229
+holding bowl,298,1429
+talking on phone,1452,1758
+putting phone down,1760,1769
+opening paper,306,344
+reading paper,373,1399
+opening teabag box,22,29
+putting down cereal,185,193
+opening milk,198,205

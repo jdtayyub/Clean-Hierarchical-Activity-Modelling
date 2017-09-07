@@ -1,0 +1,6 @@
+(Customer) Reading menu,47,312
+(Customer) Drinking juice,490,503
+(Customer) Eating,587,2831
+(Customer) Paying with credit card,2885,2983
+(Both) Talking,35,49
+(Both) Ordering,224,316

@@ -1,0 +1,16 @@
+open box,1,35
+take bag,35,73
+pour water,73,131
+pour cereal,131,171
+pour milk,171,254
+read paper,254,332
+use spoon,332,365
+drink fron cup,365,428
+drink from cup,428,439
+use spoon,429,495
+use spoon,495,615
+drink from cup,615,651
+use spoon,651,749
+drink frim cup,749,791
+close news paper,791,869
+cross hand,869,877

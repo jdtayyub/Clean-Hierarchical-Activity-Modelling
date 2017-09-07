@@ -1,0 +1,32 @@
+using teapot,1,72
+opening coffee bottle ,72,98
+picking up spoon,98,111
+pouring coffee powder,111,134
+stirring with spoon ,134,155
+closing coffee bottle ,156,191
+putting down  bottle,191,200
+stirring coffee cup ,209,276
+drinking,290,315
+pouring cereal to bowl,315,376
+pouring milk to bowl,376,420
+stirring ,420,439
+eating cereal ,439,502
+picking up apple,502,511
+drinking coffee,558,697
+eating apple,697,909
+eating cereal from bowl,909,1166
+picked apple,1166,1167
+eating apple,1167,1573
+droped apple,1573,1593
+picked coffee mug,1593,1641
+drinking coffee,1679,1748
+dropped coffee mug ,1748,1763
+picked up spoon,1763,1768
+ate cereal,1768,1892
+picked apple,1892,1899
+eating apple,1931,2005
+droping apple,2005,2010
+picked coffee mug,2064,2082
+drinking coffee ,2082,2107
+droped coffee mug,2107,2154
+having a breakfast,1,2160

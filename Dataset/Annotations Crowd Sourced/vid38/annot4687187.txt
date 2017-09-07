@@ -1,0 +1,16 @@
+putting headphones on,1,23
+tiping on computer,23,57
+taking a pen,61,67
+wrinting,68,124
+using a stapler,124,190
+drinking juice,207,258
+holding a bottle,206,210
+opening a bottle,211,220
+swallowing juice,230,244
+closing a bottle,245,254
+putting back a bottle,254,261
+tiping on laptop,263,343
+taking a pen,346,353
+writing,354,442
+tiping on laptop,454,479
+using stapler,559,604

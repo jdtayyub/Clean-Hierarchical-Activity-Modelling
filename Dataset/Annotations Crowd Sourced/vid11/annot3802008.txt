@@ -1,0 +1,13 @@
+pour cereal,84,238
+pour milk,244,301
+make tea,468,625
+eat cereal,648,1058
+drink tea,1068,1141
+bite of cereal,1154,1200
+check phone and eat,1208,1665
+check phone and drink,1672,1745
+texting and eating,1773,3025
+drink of tea,3036,3091
+eat,3110,3620
+drink of tea,3626,3693
+sitting,3709,3739

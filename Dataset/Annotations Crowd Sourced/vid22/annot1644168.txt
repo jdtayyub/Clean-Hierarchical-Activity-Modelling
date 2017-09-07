@@ -1,0 +1,8 @@
+pretend to write,23,108
+use stapler,122,206
+type on computer,216,584
+type on computer,662,796
+type on computer,858,1219
+use pencil,1219,1732
+use pencil,1758,2212
+type on computer,2297,2951

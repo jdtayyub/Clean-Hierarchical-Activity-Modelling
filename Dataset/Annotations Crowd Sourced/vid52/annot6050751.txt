@@ -1,0 +1,20 @@
+(Waiter/ess) GIVING MENU,1,56
+(Customer) reading menu,56,257
+(Both) talking,257,295
+(Customer) looking at phone,295,416
+(Waiter/ess) pouring drink,416,496
+(Customer) checking phone,496,564
+(Customer) drinking,564,632
+(Waiter/ess) serving food,632,648
+(Customer) mixing food,648,716
+(Customer) eating,716,824
+(Customer) eating,824,1277
+(Customer) drinking,1277,1366
+(Both) talking,1366,1456
+(Waiter/ess) clean table,1456,1483
+(Customer) checking phone,1483,1568
+(Customer) eating,1568,1790
+(Both) talking,1790,1920
+(Waiter/ess) cleaning table,1920,1964
+(Both) paying bill,1964,2038
+(Customer) keep card inside,2038,2091

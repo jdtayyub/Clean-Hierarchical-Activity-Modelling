@@ -1,0 +1,59 @@
+(Waiter/ess) carrying fruit tray,26,46
+(Customer) glancing at menu,66,76
+(Waiter/ess) placing tray on table,79,89
+(Waiter/ess) holding tray,89,90
+(Customer) moving menu,104,110
+(Customer) looking back down,110,116
+(Waiter/ess) raising tray,126,130
+(Waiter/ess) speaking to customer,163,168
+(Waiter/ess) stepping away,213,215
+(Customer) opening menu,219,221
+(Waiter/ess) walking away,216,220
+(Customer) turning menu page,232,237
+(Customer) turned menu page,232,248
+(Customer) flipped menu over,287,297
+(Customer) reading menu,302,306
+(Customer) flipped menu open,299,309
+(Customer) glancing at menu,64,77
+(Waiter/ess) entered scene,347,367
+(Waiter/ess) placed cup down,347,367
+(Waiter/ess) picked up orange bottle,373,378
+(Waiter/ess) put orange bottle down,378,382
+(Waiter/ess) communicated with customer,389,399
+(Customer) spoke to waiter,444,453
+(Customer) gave menu to waiter,455,465
+(Waiter/ess) took menu,467,470
+(Waiter/ess) walked away,466,475
+(Customer) smiled at camera,502,511
+(Customer) picked up juice,548,564
+(Customer) took cover off juice,564,569
+(Customer) poured juice,569,589
+(Customer) put cover on ,592,596
+(Customer) put juice down,593,602
+(Customer) picked up mug,608,614
+(Customer) drank from mug,614,632
+(Customer) put mug down,637,642
+(Customer) glanced around room,738,790
+(Waiter/ess) came into room,840,860
+(Waiter/ess) put bag down,861,871
+(Waiter/ess) left scene,881,891
+(Customer) ate from plate,901,961
+(Customer) ate another bite,1071,1111
+(Customer) ate from plate,901,971
+(Customer) ate from plate,971,1051
+(Customer) ate from bag,1151,1211
+(Customer) ate from plate,1301,1341
+(Customer) ate from plate,1381,1441
+(Customer) ate from plate,1511,1541
+(Customer) ate from plate,1584,1644
+(Customer) drank from mug,1751,1781
+(Customer) ate from bag,1801,1831
+(Customer) sat back ,1851,1931
+(Waiter/ess) clear table,1925,2290
+(Waiter/ess) picked up plate,1931,2121
+(Waiter/ess) picked up juice,2121,2151
+(Waiter/ess) walked away,2151,2171
+(Waiter/ess) set plate down,2231,2251
+(Waiter/ess) left room,2271,2291
+(Customer) ate from plate,2291,2491
+(Waiter/ess) put fruit bowl down,1,141

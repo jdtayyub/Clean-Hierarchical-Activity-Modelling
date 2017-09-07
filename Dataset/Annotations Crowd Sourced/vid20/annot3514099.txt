@@ -1,0 +1,7 @@
+Using teapot,75,107
+Using spoon,119,145
+Taking corn flakes,153,185
+Pouring milk,207,228
+Eating corn flakes,301,321
+Drinking tea,328,347
+Turning newspaper page,466,495

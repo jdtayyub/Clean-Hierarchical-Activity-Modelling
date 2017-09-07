@@ -1,0 +1,29 @@
+(Waiter/ess) Brings menu,22,42
+(Customer) Read menu,42,177
+(Customer) Places order,152,172
+(Waiter/ess) Takes menu,172,178
+(Customer) Checks phone,195,255
+(Waiter/ess) Brings food,255,265
+(Waiter/ess) Sets down silverware,265,274
+(Customer) Eats food,280,419
+(Waiter/ess) Sets down glass,324,331
+(Waiter/ess) Opens water bottle,333,359
+(Waiter/ess) Pours water,360,382
+(Waiter/ess) Closes water bottle,384,398
+(Waiter/ess) Sets bottle down,399,405
+(Customer) Drinks water,435,505
+(Customer) Eats food,508,670
+(Customer) Drinks water,679,744
+(Customer) Motions to waitress,788,798
+(Waiter/ess) Picks up plate,825,830
+(Waiter/ess) Takes water bottle,832,837
+(Waiter/ess) Picks up cup,839,852
+(Waiter/ess) clears table,825,852
+(Customer) Checks phone,875,1155
+(Waiter/ess) Brings dessert,1155,1168
+(Customer) Eats dessert,1168,1350
+(Waiter/ess) Brings payment device,1442,1472
+(Customer) Put pin and pay,1472,1542
+(Waiter/ess) Picks up bowl,1485,1496
+(Waiter/ess) Wipes table,1496,1513
+(Both) Lunch,1,1530

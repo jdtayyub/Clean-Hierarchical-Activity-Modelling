@@ -1,0 +1,8 @@
+writing on a paper,72,552
+continuosly writing,814,1587
+typing on the laptop ,1690,2756
+talked using headphone,2789,2898
+stapled the paper,2927,3040
+put a paper aside,3056,3113
+put things aside,3129,3150
+left the place,3191,3215

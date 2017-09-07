@@ -1,0 +1,8 @@
+use the teapot,76,87
+add milk,204,221
+eat cereal,279,287
+read cereal box,287,338
+eat cereal,564,579
+drink something,650,694
+read the newspaper,763,835
+change newpaper page,1168,1176

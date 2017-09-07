@@ -1,0 +1,28 @@
+(Waiter/ess) Brings fruit and menu,1,36
+(Waiter/ess) Places fruit on table,36,85
+(Both) Talk about menu,85,179
+(Customer) Places drink order,179,220
+(Customer) Looks at menu,220,272
+(Waiter/ess) Brings juice and mug,272,370
+(Waiter/ess) Places juice on table,370,400
+(Customer) Places food order,400,469
+(Customer) Pours juice in mug,469,589
+(Customer) Drinks juice,589,657
+(Customer) Waits for food,657,733
+(Waiter/ess) Walks in with food,733,842
+(Waiter/ess) Places food on table,842,894
+(Customer) Starts eating salad,894,963
+(Customer) Eats chips from bag,963,1171
+(Customer) Continues eating chips,1171,1257
+(Customer) Eats more salad,1257,1321
+(Customer) Continues eating more,1321,1516
+(Customer) Drinks more juice,1516,1748
+(Customer) Eats more chips ,1748,1813
+(Waiter/ess) Walks in again,1813,1937
+(Waiter/ess) Picks up plate,1937,2009
+(Both) Talk to each other,2009,2049
+(Customer) Places desert order,2049,2145
+(Waiter/ess) Clears table and goes,2145,2164
+(Waiter/ess) Brings in food,2164,2259
+(Customer) eating ice cream,2259,2325
+(Customer) eating ice cream,2325,2479

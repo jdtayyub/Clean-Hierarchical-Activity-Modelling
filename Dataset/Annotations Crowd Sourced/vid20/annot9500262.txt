@@ -1,0 +1,17 @@
+pouring powder,10,46
+Fixing the cap,64,77
+Adding water,97,109
+using spoon,123,140
+making food,153,247
+reading paper,255,293
+Eating food,293,317
+Drinking from Teapopt,323,351
+Reading paper,398,416
+Eating food,423,444
+Drinking from teapot,452,468
+Reading paper,498,526
+Eating food,543,564
+Drinking from teappot,570,598
+Reading paper,611,642
+Drinking from teapot,722,761
+Closing paper,802,815

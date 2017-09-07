@@ -1,0 +1,66 @@
+(Customer) Looking around,1,47
+(Waiter/ess) Walks in,46,58
+(Waiter/ess) Puts Menu on table,58,76
+(Customer) Goes through menu,82,242
+(Customer) Calls Waitress,242,280
+(Customer) Goes through menu,83,237
+(Waiter/ess) Walks away,80,93
+(Customer) Turns page,80,98
+(Customer) Turns page,178,197
+(Waiter/ess) walks in,312,327
+(Waiter/ess) takes order,327,356
+(Waiter/ess) takes menu,359,382
+(Waiter/ess) walks away,382,390
+(Customer) gives order,329,352
+(Customer) waits for food,399,493
+(Waiter/ess) Walks in,505,512
+(Waiter/ess) Puts glass on table,512,524
+(Waiter/ess) walks away,525,534
+(Customer) drinks water,534,583
+(Customer) picks glass up,532,546
+(Customer) puts glass down,576,587
+(Waiter/ess) puts food on table,586,608
+(Waiter/ess) Walks away,612,621
+(Customer) takes a bite,621,654
+(Customer) Chews food,654,748
+(Customer) takes a bite,771,841
+(Customer) chews,846,930
+(Customer) chews food,850,980
+(Customer) picks food,980,1037
+(Customer) takes a bite,1037,1056
+(Customer) chews food,1056,1202
+(Customer) Pushes bowl away,1188,1201
+(Customer) chews,1051,1294
+(Customer) eats food,633,1292
+(Customer) drinks water,1279,1320
+(Customer) calls waitress,1199,1230
+(Waiter/ess) walks in,1231,1240
+(Waiter/ess) takes order,1240,1259
+(Waiter/ess) walks away,1256,1267
+(Waiter/ess) walks in,1304,1316
+(Waiter/ess) puts desert on table,1313,1323
+(Waiter/ess) walks away,1333,1343
+(Customer) moves the cup,1341,1363
+(Waiter/ess) walks in,1373,1384
+(Both) have conversation,1383,1438
+(Waiter/ess) picks food up,1400,1414
+(Waiter/ess) picks spoon up,1415,1429
+(Waiter/ess) walks away,1432,1446
+(Customer) takes a bite,1446,1484
+(Customer) eats desert,1447,1798
+(Customer) chews,1481,1502
+(Customer) picks food up,1508,1549
+(Customer) takes a bite,1549,1583
+(Customer) chews,1584,1644
+(Customer) takes a bite,1672,1727
+(Customer) chews,1733,1806
+(Waiter/ess) walks in,1803,1816
+(Waiter/ess) puts card device,1812,1826
+(Waiter/ess) picks glass up,1826,1860
+(Waiter/ess) waits,1860,1891
+(Customer) puts card in device,1847,1871
+(Customer) enters pin,1871,1890
+(Waiter/ess) takes card device,1891,1907
+(Waiter/ess) returns card,1907,1930
+(Customer) puts card back,1928,1942
+(Customer) leaves,1934,1943

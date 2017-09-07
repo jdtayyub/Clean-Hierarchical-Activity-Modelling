@@ -1,0 +1,122 @@
+having breakfast,1,1446
+pouring coffee,1,147
+pick up teabags,19,31
+making tea,61,114
+adding hot water ,64,120
+pick up teapot,67,75
+pour water,72,116
+teapot water to glass,76,119
+put down teapot,115,123
+stirring ,120,139
+stir tea,129,140
+mix it,131,142
+pouring cerel,132,176
+adding cereal,136,175
+Filling Corn Flakes,137,178
+adding cereal ,139,177
+pour cereal,142,174
+snack to bowl,142,182
+Pouring cereal,147,177
+pouring milk,176,249
+adding milk,177,226
+Filling Milk,179,226
+pour milk to bowl,182,223
+pour milk,190,214
+open milk,192,200
+adding milk,195,213
+add milk,204,221
+pouring milk,205,225
+close milk,215,225
+eating cereal ,226,287
+Reading Label,235,526
+stirring,235,266
+stir cereal,239,255
+mix it,240,273
+stirring ,242,271
+eat cereal,243,1242
+Taking food,264,283
+eating a bite,266,281
+eating,271,283
+eating food,273,285
+eat cereal,279,287
+Reading cereal box,286,535
+reading cereal box,287,435
+read cereal box,287,338
+read cereal box,289,535
+reading box,293,439
+reading box,295,335
+reading label,301,431
+eating food,335,366
+Taking food,338,359
+eating a bite,339,359
+eating cereal ,435,464
+Taking food,440,463
+eating a bite,441,461
+eating food,447,461
+reading cereal box ,464,531
+eating cereal ,531,620
+Taking food,536,586
+eating food,537,604
+eating,541,575
+eating a bite,546,571
+eat cereal,564,579
+drinking coffee ,620,705
+drinking,629,716
+drink tea,631,700
+Drinking Tea,633,702
+drinking coffee / tea,635,700
+drinking,637,703
+drinking tea,639,696
+drink something,650,694
+eating ,705,735
+Taking Food,707,727
+eating food,711,734
+eating a bite,713,728
+using newspaper,730,1450
+Reading NewsPaper,730,1184
+reading newspaper,731,1198
+turning newspaper pages,735,821
+reading paper,741,1193
+read newspaper,746,1201
+newspaper used,750,1470
+reading newspaper,753,826
+read the newspaper,763,835
+reading newspaper,764,1195
+Taking Food,819,846
+eating ,821,838
+eating food,826,846
+reading newspaper ,838,926
+reading newspaper,846,924
+Taking food,917,945
+eating a bite,922,938
+eating food,924,942
+eating ,926,943
+reading newspaper,942,981
+turning newspaper pages ,943,994
+Taking food,975,1008
+eating a bite,986,998
+eating food,990,1014
+eating ,994,1017
+reading newspaper ,1017,1198
+reading newspaper,1026,1192
+change newpaper page,1168,1176
+Taking food,1188,1225
+eating food,1192,1226
+eating a bite,1196,1216
+eating ,1198,1243
+eating ,1214,1222
+drinking tea,1237,1368
+Drinking Tea,1242,1437
+drinking ,1243,1344
+drink tea,1245,1438
+drinking coffee / tea,1251,1435
+drinking something,1256,1440
+eating,1330,1446
+Reading NewsPaper,1337,1444
+reading newspaper ,1344,1454
+read newspaper,1347,1452
+reading newspaper,1368,1401
+drinking tea,1401,1435
+close newspaper,1445,1453
+Breakfast Finish,1446,1460
+sitting ideal,1459,1460

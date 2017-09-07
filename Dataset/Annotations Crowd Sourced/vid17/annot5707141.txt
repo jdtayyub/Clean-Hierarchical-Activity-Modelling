@@ -1,0 +1,9 @@
+reading newspaper,441,770
+preparing beverage,55,193
+preparing cereal,233,353
+unfolding paper,371,408
+eating cereal,409,763
+sitting at table,1,763
+holding kettle,109,145
+stirring drink,155,186
+drinking from cup,194,214

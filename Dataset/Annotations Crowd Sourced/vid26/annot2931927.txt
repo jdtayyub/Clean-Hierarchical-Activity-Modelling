@@ -1,0 +1,17 @@
+taking headphone,1,73
+opening laptop,52,73
+fitting headphone,73,94
+using laptop,94,146
+reading papers,146,167
+writing in paper,167,211
+reading writing paper,148,365
+using calculator,346,434
+checking papers,434,462
+stapling papers,452,480
+drinking water,480,516
+reading paper,516,555
+using laptop,555,662
+checking laptop,662,743
+removing headphone,733,758
+closing laptop,758,776
+working in office,1,800

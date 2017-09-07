@@ -1,0 +1,29 @@
+(Waiter/ess) brings menu,24,68
+(Customer) looks at menu,47,313
+(Waiter/ess) takes order,240,301
+(Waiter/ess) walks away,317,328
+(Customer) rubs hands together,363,371
+(Waiter/ess) brings drink,398,477
+(Waiter/ess) pours drink,437,454
+(Waiter/ess) drink down,457,467
+(Customer) drinks drink,474,514
+(Waiter/ess) brings food,504,551
+(Customer) eats,554,1186
+(Customer) brushes hands,1192,1201
+(Customer) drinks,1203,1300
+(Customer) eats,1301,1697
+(Customer) drinks,1704,1775
+(Customer) eats,1776,1950
+(Customer) brushes hands,1951,1971
+(Waiter/ess) comes over,1998,2072
+(Waiter/ess) comes back,2100,2142
+(Customer) drinks,2229,2299
+(Customer) eats,2300,2803
+(Waiter/ess) comes back,2804,2885
+(Customer) pays bill with card,2880,2984
+(Waiter/ess) leaves,2944,3044
+(Customer) opens dessert,2298,2344
+(Customer) places cover down,2345,2351
+(Customer) picks up spoon,2354,2360
+(Customer) stirs,2367,2404
+(Customer) brings to mouth,2412,2423

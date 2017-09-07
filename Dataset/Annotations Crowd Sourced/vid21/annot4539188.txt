@@ -1,0 +1,12 @@
+Opens laptop,61,90
+Picks up pen,109,134
+Writes on paper,165,535
+Uses stapler,560,655
+Writes on paper,661,703
+Puts on headphones,709,761
+Plugs in headphones,773,841
+Types on laptop,850,979
+Headphones on ears,993,1038
+Typing on laptop,1024,1393
+Writes on paper,1437,1449
+Removes headphones,1446,1460

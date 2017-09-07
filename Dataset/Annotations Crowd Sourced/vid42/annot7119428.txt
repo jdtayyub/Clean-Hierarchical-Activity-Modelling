@@ -1,0 +1,19 @@
+(Customer) Waits for Watress,1,30
+(Waiter/ess) Waitress Brings Menu,32,69
+(Customer) Read Menu,71,386
+(Waiter/ess) Brings Drink,386,392
+(Waiter/ess) prepares drink,394,462
+(Waiter/ess) Takes order,473,559
+(Customer) sips drink,569,610
+(Customer) Waits,613,718
+(Customer) sips drink,730,804
+(Customer) Waits,807,1034
+(Waiter/ess) brings food,1040,1052
+(Customer) eats food,1058,2158
+(Customer) takes a sip,2252,2295
+(Both) dicuss meal,2296,2301
+(Waiter/ess) check on customer,2293,2305
+(Waiter/ess) takes plate,2307,2318
+(Both) dicuss service,2319,2386
+(Customer) takes a sip,2385,2453
+(Customer) relaxes,2454,2494

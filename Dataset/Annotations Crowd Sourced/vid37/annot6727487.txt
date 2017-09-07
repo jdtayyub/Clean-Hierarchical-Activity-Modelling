@@ -1,0 +1,19 @@
+putting headphones on,23,613
+typing on laptop,35,113
+working in office,1,610
+picking pen,117,193
+writing,125,188
+typing on laptop,197,222
+writing,227,264
+picking pen,226,268
+grabing stapler,270,307
+stapling,287,303
+arranging papers,309,332
+grabing juice bottle,338,386
+drinking,359,365
+typing on laptop,393,445
+picking pen,450,537
+writing,456,534
+typing on laptop,544,580
+picking pen,589,591
+taking headphones off,601,611

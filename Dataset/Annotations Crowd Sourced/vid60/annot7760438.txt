@@ -1,0 +1,14 @@
+(Both) menu ordering,35,173
+(Waiter/ess) brought food ,236,282
+(Customer) eating,289,376
+(Customer) drink,380,393
+(Customer) eating and drinking,454,924
+(Waiter/ess) clean up,924,986
+(Customer) drinking,1007,1039
+(Waiter/ess) serve food,1049,1100
+(Customer) phone and eating,1108,1317
+(Customer) drinking,1317,1343
+(Both) bill,1560,1592
+(Customer) phone,1126,1312
+(Customer) ordering,146,177
+(Customer) reading menu,1,140

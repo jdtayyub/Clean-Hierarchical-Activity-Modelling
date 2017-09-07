@@ -1,0 +1,46 @@
+Pour liquid,72,112
+move dishes,5,17
+grab container,17,28
+open container,28,38
+take item,38,50
+put back box,50,57
+pour liquid,70,107
+move cup,113,121
+grab cereal box,122,132
+pour cereal,132,162
+return box,162,172
+grab milk,175,188
+pour milk,188,230
+return milk,230,247
+eat cereal,258,331
+grab cereal box,332,342
+examine box,343,368
+eat cereal,368,417
+look at box,419,463
+eat cereal,472,487
+look at box,491,568
+eat cereal,568,608
+look at box,614,643
+return box,644,661
+check phone,661,700
+dial a number,710,754
+call and eat,754,796
+push bowl,813,839
+stir drink,846,880
+drink from cup,886,944
+eat,754,796
+call someone,754,1036
+cough,944,956
+eat,978,1000
+check watch,1002,1027
+end call,1038,1059
+put down phone,1063,1075
+eat,1082,1109
+read newspaper,1109,1345
+grab cup,1141,1153
+hold cup,1153,1308
+put back cup,1308,1318
+eat,1330,1369
+fold newspaper,1369,1387
+drink from cup,1265,1294
+drink from cup,1175,1207

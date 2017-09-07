@@ -1,0 +1,42 @@
+Wears headphone,33,75
+Remove headphones,75,88
+Picks up pen,88,103
+Writes ,132,204
+Writes on paper,132,202
+Scribbles on paper,230,270
+Checks Paper,270,334
+Writes and scribbles,419,459
+Uses Phone,459,508
+Writes on paper,508,656
+Writes on paper,682,836
+picks up pen,856,866
+Scribbles on paper,866,891
+Keeps pen aside,891,899
+Wears headphone,899,952
+Uses laptop,952,1260
+Straightens paper,1260,1271
+picks up pen,1271,1282
+Writes on paper,1282,1317
+leaves pen,1317,1323
+Uses phone,1323,1460
+Uses phone camera,1460,1508
+Uses smart phone,1508,1728
+Puts back phone,1728,1745
+picks up pen,1745,1752
+Writes and scribbles,1752,1769
+Puts back pen,1769,1775
+uses pen,1740,1780
+Take Stapler,1775,1810
+Sees papers,1810,1925
+Staple papers,1925,1961
+Uses stapler,1775,1965
+Writes on paper,1961,2011
+Takes out headphone,2011,2038
+picksup marker,2055,2065
+Writes on paper,2065,2248
+Recaps marker,2248,2308
+puts back marker,2308,2314
+Chooses pen,2314,2335
+Writes on paper,2335,2481
+leaves pen,2481,2493
+Finishes off,2493,2518

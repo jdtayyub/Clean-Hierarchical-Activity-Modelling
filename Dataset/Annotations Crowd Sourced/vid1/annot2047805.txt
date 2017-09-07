@@ -1,0 +1,16 @@
+coffee into cup ,169,296
+pours teapot,338,506
+adds sugar,548,1054
+pours sugar packet,633,759
+stir and test,759,1054
+bag out of box,1054,1112
+poors cearal ,1117,1142
+pours milk,1253,1377
+mixes up cereal,1432,1643
+eats cereal,1895,4171
+drinks from mug,3832,3905
+drinks from mug,3369,3444
+drinks from mug,2681,2762
+makes breakfast,85,1731
+consuimg breakfast,1750,4170
+having breakfast,1,4170

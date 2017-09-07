@@ -1,0 +1,12 @@
+search laptop,11,42
+start typing ,42,65
+pick up pen,100,164
+start writing,164,287
+search laptop,287,366
+start writing,366,407
+pen down,407,487
+stapler paper,487,527
+start writing,527,562
+close sheet,562,587
+search laptop,602,629
+close laptop,651,662

@@ -1,0 +1,22 @@
+Adds tea to mug,1,65
+Pours tea into mug,65,117
+Pours cereal in bowl,117,174
+Pours milk into bowl,174,235
+Stirs the cereal,235,275
+Eats spoonful of cereal,275,297
+Turns pages of newspaper,297,374
+Eats more cereal,374,521
+eating cereal,521,611
+Laughs and talks ,611,645
+Drinks tea from mug,645,693
+Drinks more while reading,693,738
+Eats more cereal,738,884
+Adds more milk ,884,943
+Adds more cereal,943,972
+Continues eating cereal,972,1078
+Drinks more tea,1078,1138
+Eats more cereal,1138,1249
+Lifts bowl in hand,1249,1329
+Puts down bowl,1335,1342
+Drinks more tea,1342,1420
+Folds newspaper,1420,1450

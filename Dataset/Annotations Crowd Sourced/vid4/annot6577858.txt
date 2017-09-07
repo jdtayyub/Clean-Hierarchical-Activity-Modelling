@@ -1,0 +1,36 @@
+taking a sandwich,102,118
+opening a bottle,169,233
+adding coffee,248,269
+closing the bottle,332,370
+pouring the milk,400,549
+taking the spoon,602,640
+stirring,648,694
+tasting and sipping,720,775
+sipping,799,828
+put down the cup,849,864
+tasting from the spoon,872,933
+kept the spoon down,933,946
+taking the sandwich out,1094,1280
+bite the sandwich,1314,1393
+chewing and swallowing,1468,1633
+take bite ,1641,1664
+chewing and biting,1690,1825
+take bite,1834,1879
+chewing and eating,1903,2237
+taking the mug,2249,2292
+drinking,2301,2341
+put the mug down,2372,2389
+pinch to taste ,2445,2545
+chewing,2599,2792
+eating piece,2800,2836
+chewing and eating,2854,3025
+chewing ,3040,3252
+biting piece,3296,3345
+eating,3407,3568
+more bite,3577,3624
+chewing,3641,3902
+eating piece,3966,4010
+chewed,4031,4386
+drinking the coffee,4401,4504
+taking the last sip,4542,4603
+put down the cup,4632,4654

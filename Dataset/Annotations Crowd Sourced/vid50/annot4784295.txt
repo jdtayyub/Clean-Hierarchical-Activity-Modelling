@@ -1,0 +1,22 @@
+(Customer) waiting for menu,39,47
+(Waiter/ess) hands menu,30,37
+(Waiter/ess) walks away,26,36
+(Customer) flipping through menu,52,116
+(Waiter/ess) gives silverware,166,207
+(Both) conversing,212,208
+(Customer) touches phone,335,346
+(Waiter/ess) delivers cup,373,387
+(Customer) takes cup,392,400
+(Customer) drinks from cup,411,428
+(Waiter/ess) delivers food,434,443
+(Customer) begins eating,484,505
+(Customer) calls waitress,563,573
+(Waiter/ess) walks to customer,582,587
+(Customer) sets food aside,1071,1078
+(Customer) grabs cup,1082,1100
+(Customer) drinks from cup,1118,1147
+(Waiter/ess) picks up dishes,1281,1292
+(Customer) eats apple ,1491,1497
+(Waiter/ess) picks up silverware,1795,1808
+(Waiter/ess) walks away,1825,1837
+(Customer) picks up phone,1845,1852

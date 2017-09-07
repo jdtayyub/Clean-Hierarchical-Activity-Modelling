@@ -1,0 +1,19 @@
+Used Calculator,354,383
+Opened Laptop,1,18
+Put on headphones,46,101
+Stacking papers,101,152
+Writing notes down,176,209
+Check watch,209,218
+Writing notes down,222,354
+Typing on computer,395,449
+Inserting USB drive,448,513
+Grabbed Cup,538,549
+Drank from cup,549,561
+Taking a Drink,530,570
+Stapled paper,614,652
+Stapling paper,674,691
+Typing on computer,706,723
+Closed laptop,725,750
+Took off headphones,714,735
+Playing with microphone,234,319
+Uni Work,1,767

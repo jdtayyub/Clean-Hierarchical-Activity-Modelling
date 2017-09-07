@@ -1,0 +1,14 @@
+opening laptop,25,43
+Wearing Headphone,44,66
+Taking pen,111,129
+Writing on paper,137,259
+Using calulator,384,408
+Taking Cup,487,499
+Drinking from glass,499,574
+Using stapler,605,629
+Connection Pendrive,647,677
+Typing in laptop,705,734
+Disconnecting Pendrive,787,820
+Closing laptop,834,856
+Removing headphone,849,865
+Surfing laptop,86,102
