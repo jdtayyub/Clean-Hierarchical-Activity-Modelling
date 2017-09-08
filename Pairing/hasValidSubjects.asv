@@ -5,9 +5,9 @@ function [ flag ] = hasValidSubjects( labelChild , labelPar )
 subChi = subjectOf(labelChild);
 subPar = subjectOf(labelPar);
 
-if isequal(subChi,-1) && isequal(subPar,-1)
+if isequal(subChi,-1) && subPar == -1
     flag = 0;
-elseif isequal(subChi,-1) || isequal(subPar, -1)
+elseif subChi==-1 || subPar == -1
     flag = 0;
     warning('One subject and one non subject passed in, investigate!')
 end

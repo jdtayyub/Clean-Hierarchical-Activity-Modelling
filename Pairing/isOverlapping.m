@@ -4,7 +4,7 @@ function [ intersect,overlap ] = isOverlapping( interval1, interval2 )
 % intersect is boolean and overlap is numeric
 
 a = interval1(1);
-b = interval1(2)
+b = interval1(2);
 c = interval2(1);
 d = interval2(2);
 

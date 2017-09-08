@@ -33,9 +33,7 @@ for i = 1 : size(frames,1) % loop through each interval
             labelCand = labels{parIntervalIdx};
             cost = costFunction([sChil eChil],frames(parIntervalIdx,:)); % child frames , potential parent frames
             
-            similairities = [similairities; getNodeSimilarity(...
-                                            removePrefixFromLabel(labels{i}),...
-                                            removePrefixFromLabel(labelCand))]; % label child and label of candidate parent
+            similairities = [similairities; getNodeSimilarity(labels{i},labelCand)]; % label child and label of candidate parent
             costs = [costs;cost];
         end
         % first disqualify low similairty candidates then select the
@@ -43,11 +41,9 @@ for i = 1 : size(frames,1) % loop through each interval
         rejIdxs = find(similairities<param.similarityThreshold); %rejected candidates
         remIdxs = setdiff(1:size(candidates,1),rejIdxs); % remaning candidates
         [~,minCostIdx] = min(costs(remIdxs));
-        if ~isempty(minCostIdx) %in case all candidates are rejected then the parent is 0 
-            winningParentIdx= candidates(minCostIdx,1);
-        else
-            winningParentIdx = 0;
-        end
+        
+        winningParentIdx = candidates(if minCostIdx,1);
+        
         pairingList(i,:) = [winningParentIdx i];
     end
     
