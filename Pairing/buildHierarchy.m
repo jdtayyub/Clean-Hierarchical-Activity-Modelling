@@ -11,14 +11,13 @@ pairingList = [];
 for i = 1 : size(frames,1) % loop through each interval
     sChil = frames(i,1); % start frame of child
     eChil = frames(i,2); % end frame of child
-    labelChil = labels(i);
     candidates = [];
     for j = setdiff(1:size(frames,1),i) % rest of intervals
         sPar = frames(j,1); % start frame of parent  
         ePar = frames(j,2); % end frame of parent
         
         [intersecting,overlap] = isOverlapping([sChil eChil],[sPar ePar]);
-        if intersecting
+        if intersecting && hasValidSubjects(labels(i), labels(j))
             length = ePar - sPar;
             candidates = [candidates; [j length]];
         end
