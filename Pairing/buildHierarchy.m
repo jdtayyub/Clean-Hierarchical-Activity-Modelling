@@ -17,7 +17,13 @@ for i = 1 : size(frames,1) % loop through each interval
         ePar = frames(j,2); % end frame of parent
         
         [intersecting,overlap] = isOverlapping([sChil eChil],[sPar ePar]);
+
         if intersecting && hasValidSubjects(labels(i), labels(j))
+            % also check for all waitress/ customer labels and remove them
+            % from candidate list since a waitress or customer interval
+            % cannot be parent of the other . only (both) intervals can be
+            % parent of either
+
             length = ePar - sPar;
             candidates = [candidates; [j length]];
         end
@@ -31,7 +37,8 @@ for i = 1 : size(frames,1) % loop through each interval
         for cand = candidates
             parIntervalIdx = cand(1); % potential parent index
             labelCand = labels(parIntervalIdx);
-            cost = costFunction([sChil eChil],fr(parIntervalIdx,:)); % child frames , potential parent frames
+            cost = costFunction([sChil eChil],frames(parIntervalIdx,:)); % child frames , potential parent frames
+            
             similairity = getNodeSimilarity(labelChil,labelCand);
             costs = [costs;cost];
         end

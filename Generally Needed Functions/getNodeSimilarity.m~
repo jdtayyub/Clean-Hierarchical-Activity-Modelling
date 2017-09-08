@@ -9,7 +9,7 @@ global param;
 
 
 %%%TESTING %%%
-%param.similarityMeasureMetric = 'hungarian';
+param.similarityMeasureMetric = 'hungarian';
 %%%%%%%%%%%%%%
 
 similarity=-1; %% default value

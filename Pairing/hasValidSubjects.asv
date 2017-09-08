@@ -1,0 +1,8 @@
+function [ output_args ] = hasValidSubjects( labelChild , labelPar )
+%HASVALIDSUBJECTS Checks whether the two labels belong to the same subject
+%or to a valid combination of subejcts .
+% cutomer with cutomer, w
+
+
+end
+
