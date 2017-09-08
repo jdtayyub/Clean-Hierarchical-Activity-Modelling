@@ -8,7 +8,13 @@ function [ output_args ] = MainPairing( path2ClusteredIntervals )
 %%% Parameters %%%
 global param;
 param.frameThreshold = 15; % any intervals shorter than this will be removed as noise
-param.similarityThreshold = 0.5; % 
+param.similarityThreshold = 0.5; % similairty of itnervals before they are rejected as parents due to disimilairty between their names
+param.similarityMeasureMetric = 'hungarian'; % the way to compute similarity between two intervals ; 
+%OPTIONS : hungarian-> using hungarian algorithm to assign labels with other most similar and penalise unassigned labels
+%          mean-> average of similarities between labels of two nodes
+%          max-> max of similarities between labels of two nodes
+%          min-> mix of similarities between labels of two nodes
+%          super-> 
 %%%%%%%%%%%
 
 files = dir(path2ClusteredIntervals);%load matfiles of data
