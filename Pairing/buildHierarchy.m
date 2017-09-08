@@ -15,15 +15,8 @@ for i = 1 : size(frames,1) % loop through each interval
     for j = setdiff(1:size(frames,1),i) % rest of intervals
         sPar = frames(j,1); % start frame of parent  
         ePar = frames(j,2); % end frame of parent
-        
         [intersecting,overlap] = isOverlapping([sChil eChil],[sPar ePar]);
-
-        if intersecting && hasValidSubjects(labels(i), labels(j))
-            % also check for all waitress/ customer labels and remove them
-            % from candidate list since a waitress or customer interval
-            % cannot be parent of the other . only (both) intervals can be
-            % parent of either
-
+        if intersecting && hasValidSubjects(labels(i), labels(j)) % checks for validity of subjects
             length = ePar - sPar;
             candidates = [candidates; [j length]];
         end
