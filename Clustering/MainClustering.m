@@ -2,7 +2,7 @@ function [ clusters, fullDats ] = MainClustering( path2ds ) %path to dataset
 
 %MAINCLUSTERING Main function to perform the agglomerative clustering on
 %the input data
-%   
+%   POPULATES ->  Clustering/Automated/Our Agglom Clustering/*
 
 %%% Parameters %%%
 global param;
@@ -24,7 +24,7 @@ fullDats = {};
 for f = 3:size(folders,1)
     load([path2ds '/'  folders(f).name]); % load fullAnnots {label} {start frame} {end frame}
     vidFileName = folders(f).name(1:end-4);
-    disp(vidFileName);
+    disp(['Clustering Intervals-' vidFileName]);
     vidNumber = str2double(vidFileName(4:end)); 
     
     mat = cell2mat(fullAnnots(:,2:3)); % frames
@@ -34,7 +34,6 @@ for f = 3:size(folders,1)
         [~, i] = sort(mat(:,2)); % Sort by end time
     end
     fullAnnots = fullAnnots(i,:);
-    
         
     %Based on the video category, cluster either according to the subject
     %or not otherwise
@@ -48,10 +47,8 @@ for f = 3:size(folders,1)
         for p=1:size(splitIdx,1)
             cIdxs = agglomerativeClustering(splitFrames{p},splitLab{p},normalisationParam);
             splitClusters = [splitClusters; cIdxs];
-        end
-                
+        end        
         clusterIdxs = combineClusteringOfAllSubjects(splitClusters,splitIdx);
-        
     else
         m = cell2mat(fullAnnots(:,2:3));
         l = fullAnnots(:,1);
@@ -60,9 +57,7 @@ for f = 3:size(folders,1)
     end
     
     fullDat = combineLabelsIntoFullDat(clusterIdxs,fullAnnots(:,1),mat);%cIdxs labels and frames matrix
-    
-    
-    
+        
     clusters = [clusters;clusterIdxs];
     fullDats = [fullDats; fullDat];
     
