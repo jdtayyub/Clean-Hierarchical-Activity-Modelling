@@ -6,9 +6,10 @@ function [ output_args ] = MainPairing( path2ClusteredIntervals )
 %   POPULATES ->  Pairing/Automated/*
 
 %%% Parameters %%%
+clearvars -global param;
 global param;
 param.frameThreshold = 15; % any intervals shorter than this will be removed as noise -> Remove same from groundtruth too before comparing
-param.similarityThreshold = 0.5; % similairty of itnervals before they are rejected as parents due to disimilairty between their names
+param.nodeSimilarityThreshold = 0.3; % similairty of itnervals before they are rejected as parents due to disimilairty between their names
 param.similarityMeasureMetric = 'hungarian'; % the way to compute similarity between two intervals ; 
 %OPTIONS : hungarian-> using hungarian algorithm to assign labels with other most similar and penalise unassigned labels
 %          mean-> average of similarities between labels of two nodes
@@ -35,6 +36,17 @@ for f = 3 : size(files,1) % loop through each clustered interval labelling
     
     hierarchy = buildHierarchy(frames,labels);
     
+    %Build Full Structure by Augmenting with Temporal Nodes
+    %[NodesList as {[parentNodeID]} child cluster as {{children node id}{temporal nodes of children}} 
+    %labels to refer to all the node ids as {labelList}]
+    
+    IdsTree = augmentTemporalNodes(  hierarchy, frames, labels ); 
+    LabelsTree = ids2labelconversion(IdsTree);
+    
+    
+    %%%%SAVE RESULTS%%%%
+    save(['Pairing/Optimum Paired Trees 1/' vidFileName '_Tree'],'IdsTree','LabelsTree');
+    %%%%%%%%%%%%%%%%%%%%
 end
 
 end

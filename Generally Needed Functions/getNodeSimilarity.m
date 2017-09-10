@@ -55,6 +55,9 @@ switch(param.similarityMeasureMetric)
         
 end
 
+end
+
+
 function finalCost = computeMunkres(simM)
     % score for assigned 
     costM = 1 - simM; % sim matrix to cost matrix M
@@ -82,7 +85,6 @@ end
 %     outSuper = 1;
 % end
 
-end
 
 
 
