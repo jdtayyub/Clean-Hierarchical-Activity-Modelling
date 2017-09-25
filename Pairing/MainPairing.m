@@ -1,11 +1,13 @@
-function [ output_args ] = MainPairing( path2ClusteredIntervals )
+function [ output_args ] = MainPairing( absPath2ClusteredIntervals , absPath2SaveTrees)
 %MAINPAIRING This function is the main function to build hierarchies based
-%on optimum pairs between intervals. pass in path2clus where .mat files sit
+%on optimum pairs between intervals. pass in absolute path2clus where .mat
+%files sit since the code may be used by other functions, it is best to use
+%absolute paths
 %per video with the variable fullDat which has format [{label group} {avg start frame} {avg end frame} for each video]
 
 %   POPULATES ->  Pairing/Automated/*
 
-%%% Parameters %%%
+%%% Parameters %%% CHECK PARAMETERS FOR EACH DATASET USED
 clearvars -global param;
 global param;
 param.frameThreshold = 15; % any intervals shorter than this will be removed as noise -> Remove same from groundtruth too before comparing
@@ -17,18 +19,27 @@ param.similarityMeasureMetric = 'hungarian'; % the way to compute similarity bet
 %          min-> mix of similarities between labels of two nodes
 %          super-> 
 %%%%%%%%%%%
+param.pairingMethod = 'costBased';%'Baseline'; %Options 1.costBased , 2.Baseline
 
-files = dir(path2ClusteredIntervals);%load matfiles of data
+
+%%%%%%CLAD%%%%%%%%%%%%%
+%param.useSemanticAnalysis = 1; % 1 to use or 0 not to use semantic analysis in pairing
+
+%%%CAD AND LAD%%%%
+param.useSemanticAnalysis = 0;
+
+
+files = dir(absPath2ClusteredIntervals);%load matfiles of data
 [~,idx]=sort_nat({files.name});
 files=files(idx);
-videoNames = GetVideoNames('Dataset/VideosNames');
+%videoNames = GetVideoNames('Dataset/VideosNames');
 
 for f = 3 : size(files,1) % loop through each clustered interval labelling
-    load([path2ClusteredIntervals '/' files(f).name]);%loads fullDat
+    load([absPath2ClusteredIntervals '/' files(f).name]);%loads fullDat
     vidFileName = files(f).name(1:end-4);
     disp(['Optimum Pairing-' vidFileName]);
     vidNumber = str2double(vidFileName(4:end));
-    topActivity = videoNames(vidNumber);
+    %topActivity = videoNames(vidNumber);
     
     fullDat = pruneShortIntervals(fullDat);
     frames = cell2mat(fullDat(:,2:3));
@@ -45,7 +56,7 @@ for f = 3 : size(files,1) % loop through each clustered interval labelling
     
     
     %%%%SAVE RESULTS%%%%
-    save(['Pairing/Optimum Paired Trees 1/' vidFileName '_Tree'],'IdsTree','LabelsTree');
+    save([absPath2SaveTrees '/' vidFileName '_Tree'],'IdsTree','LabelsTree');
     %%%%%%%%%%%%%%%%%%%%
 end
 
