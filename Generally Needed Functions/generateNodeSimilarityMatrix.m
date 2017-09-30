@@ -1,4 +1,4 @@
-function [ mat, nodes ] = generateNodeSimilarityMatrix( nodes )
+function [ fmat, nodes ] = generateNodeSimilarityMatrix( nodes )
 %GENERATENODESIMILARITYMATRIX Given a list of nodes, generate a node
 %similarity matrix and return the matrix along with the list
 
@@ -11,7 +11,9 @@ for i = 1 :size(nodes,1)
     end
 end
     
-mat = mat + triu(mat)';    
+%symmetrise
+fmat = mat + mat';    
+fmat(find(eye(length(fmat)))) = diag(mat);
 
 end
 

@@ -33,7 +33,6 @@ for f = 3 : size(files,1)
     
     %%% Merge same parents together %%% LOOK FOR SAME PARENTS EXCEPT ROOT
     
-    parentNodes = 
         
     %%% build the exhaustive model %%%% Find the similar nodes and merge
     %%% their children

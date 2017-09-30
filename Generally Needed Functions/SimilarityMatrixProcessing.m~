@@ -1,0 +1,26 @@
+function [ output_args ] = SimilarityMatrixProcessing( smat,method )
+%SIMILARITYMATRIXPROCESSING Given a similarity matrix, this function
+%performs processing on the matrix to for example incorporate the
+%neighbouring distances.I.e. incorporate correlation with other points to
+%generate a more appropriate matrix to then be used in hierarchical
+%clustering or other analysis 
+%
+%METHOD: euclidMat:minus euclidean dis-similarity
+
+nMat = zeros(length(smat));
+for i = 1 : length(smat) - 1
+  for j = i+1 : length(smat) 
+      
+      sim = smat(i,j);
+      
+      otherIdxs = setdiff( 1:length(smat) , [i j] );
+      otherVals = [smat(i,otherIdxs)' smat(j,otherIdxs)'];
+      otherDissim = norm(otherVals(:,1)-otherVals(:,2));
+      
+      nMat(i,j) = sim - otherDissim; % maybe need to be controlled by lambda 
+      
+            
+  end
+end
+end
+
