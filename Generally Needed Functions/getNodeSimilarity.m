@@ -1,6 +1,7 @@
 function [ similarity ] = getNodeSimilarity( grp1,grp2 )
 %GETNODESIMILARITY Takes in two lists of labels grp1 and grp2
-%representing the two clustered groups of intervals. Then using munkres or
+%representing the two clustered groups of intervals WITHOUT person 
+%or interval pre/postfixes. Then using munkres or
 %other matrices , returns the similairty score between the two lists
 %between 0-1
 %   Detailed explanation goes here

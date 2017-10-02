@@ -7,7 +7,11 @@ mat(logical(eye(length(mat)))) = 1;
 
 for i = 1 :size(nodes,1)
     for j = i+1 :size(nodes,1)-1
-        mat(i,j) = getNodeSimilarity(nodes{i},nodes{j});
+        i
+        j
+        n_i = removePrefixFromLabelList(nodes{i});
+        n_j = removePrefixFromLabelList(nodes{j});
+        mat(i,j) = getNodeSimilarity(n_i,n_j);
     end
 end
     

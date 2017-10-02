@@ -17,8 +17,10 @@ videoNames = GetVideoNames('Dataset/VideosNames');
 topActNames = unique(videoNames);
 models = cell(size(topActNames,1),1); % full models per top level activities for each uniqu
 
-
 allVidData = {};% concatenated array of all trees for parent mathcing 
+
+% Gather all trees in single list in single variable 'allVidData'
+if exists
 for f = 3 : size(files,1)
     vidFileName = files(f).name;
     disp(['Abstraction-' vidFileName]);
@@ -30,25 +32,18 @@ for f = 3 : size(files,1)
     load([path2Hierarchies '/' files(f).name]); % loads the IdsTree and LabelsTree for that video
     
     allVidData = [allVidData;LabelsTree{1}];
-    
-    %%% Merge same parents together %%% LOOK FOR SAME PARENTS EXCEPT ROOT
-    
         
-    %%% build the exhaustive model %%%% Find the similar nodes and merge
-    %%% their children
-    
-    
-%     if isempty(models{modelNum})
-%         updatedModel = LabelsTree; % assign the first instant to the model if its empty 
-%     else
-%         % Augment model with current tree instant
-%         updatedModel = augmentModel(models{modelNum},LabelsTree{1}); 
-%     end
-%     
-%     models(modelNum) = updatedModel;
-    
 end
+%%% Merge same parents together %%% LOOK FOR SAME PARENTS EXCEPT ROOT
 
+    parents = allVidData(:,1);
+    children = allVidData(:,2); % child cluster of corresponding parents
+    
+   %Cluster similar parents together
+   smat = generateNodeSimilarityMatrix( parents );
+   cmat = SimilarityMatrixProcessing(smat,'euclid');
+   
+   
 end
 
 

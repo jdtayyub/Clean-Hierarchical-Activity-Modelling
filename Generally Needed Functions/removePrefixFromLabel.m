@@ -1,4 +1,4 @@
-function noPrefixLabel = removePostfixFromLabel(label)
+function noPrefixLabel = removePrefixFromLabel(label)
 % Removing a prefix of subject from label
 
 if label{1}(1) == '('
