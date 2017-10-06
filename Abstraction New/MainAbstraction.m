@@ -42,7 +42,7 @@ end
    %Cluster similar parents together
    smat = generateNodeSimilarityMatrix( parents );
    cmat = SimilarityMatrixProcessing(smat,'euclid');
-   
+    linkage(cmat)
    
 end
 
